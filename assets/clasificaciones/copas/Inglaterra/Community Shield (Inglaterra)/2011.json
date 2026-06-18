@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Manchester City"
+    },
+    "partidos": [
+        {
+            "id_partido": 720001,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Manchester City",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

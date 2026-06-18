@@ -1,0 +1,199 @@
+{
+    "pais": "España",
+    "copa": "Copa del Rey",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Athletic Club",
+        "subcampeon": "Mallorca"
+    },
+    "partidos": [
+        {
+            "id_partido": 505309,
+            "ronda": "Octavos de Final",
+            "local": "Getafe",
+            "visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505310,
+            "ronda": "Octavos de Final",
+            "local": "Athletic Club",
+            "visitante": "Alavés",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505311,
+            "ronda": "Octavos de Final",
+            "local": "Tenerife",
+            "visitante": "Mallorca",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505312,
+            "ronda": "Octavos de Final",
+            "local": "Valencia",
+            "visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505313,
+            "ronda": "Cuartos de Final",
+            "local": "Girona",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505314,
+            "ronda": "Cuartos de Final",
+            "local": "Atlético de Madrid",
+            "visitante": "Real Madrid",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505315,
+            "ronda": "Cuartos de Final",
+            "local": "Osasuna",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505316,
+            "ronda": "Cuartos de Final",
+            "local": "Unionistas de Salamanca",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505317,
+            "ronda": "Cuartos de Final",
+            "local": "Celta de Vigo",
+            "visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505318,
+            "ronda": "Cuartos de Final",
+            "local": "Mallorca",
+            "visitante": "Girona",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505319,
+            "ronda": "Cuartos de Final",
+            "local": "Athletic Club",
+            "visitante": "Barcelona",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505320,
+            "ronda": "Cuartos de Final",
+            "local": "Atlético de Madrid",
+            "visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505321,
+            "ronda": "Semifinal - Ida",
+            "local": "Mallorca",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505322,
+            "ronda": "Semifinal - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Athletic Club",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505323,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Mallorca",
+            "visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505324,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Athletic Club",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505325,
+            "ronda": "Final",
+            "local": "Athletic Club",
+            "visitante": "Mallorca",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

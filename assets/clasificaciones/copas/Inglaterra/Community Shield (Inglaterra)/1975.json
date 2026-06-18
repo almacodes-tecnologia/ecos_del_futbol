@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1975,
+    "temporada": "1975-76",
+    "cuadro_honor": {
+        "campeon": "Derby County",
+        "subcampeon": "West Ham"
+    },
+    "partidos": [
+        {
+            "id_partido": 720054,
+            "ronda": "Final",
+            "local": "Derby County",
+            "visitante": "West Ham",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

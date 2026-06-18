@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2010,
+    "temporada": "2010-11",
+    "cuadro_honor": {
+        "campeon": "Mazembe",
+        "subcampeon": "Internacional"
+    },
+    "partidos": [
+        {
+            "id_partido": 430051,
+            "ronda": "Semifinal",
+            "local": "Seongnam Ilhwa",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430052,
+            "ronda": "Semifinal",
+            "local": "Mazembe",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430185,
+            "ronda": "Semifinal",
+            "local": "Mazembe",
+            "visitante": "Pachuca",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430186,
+            "ronda": "Semifinal",
+            "local": "Al Wahda",
+            "visitante": "Seongnam Ilhwa",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430187,
+            "ronda": "Final",
+            "local": "Mazembe",
+            "visitante": "Internacional",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

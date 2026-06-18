@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2018,
+    "temporada": "2018-19",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Eintracht Frankfurt"
+    },
+    "partidos": [
+        {
+            "id_partido": 721008,
+            "ronda": "Final",
+            "local": "Eintracht Frankfurt",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

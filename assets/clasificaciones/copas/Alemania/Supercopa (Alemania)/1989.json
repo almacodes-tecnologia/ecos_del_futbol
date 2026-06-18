@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 1989,
+    "temporada": "1989-90",
+    "cuadro_honor": {
+        "campeon": "Borussia Dortmund",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 721114,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "3",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

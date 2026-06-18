@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 2007,
+    "temporada": "2007-08",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 401008,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Roma",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401009,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Roma",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401010,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Celtic",
+            "visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401011,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Celtic",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401012,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Fenerbahçe",
+            "visitante": "Sevilla",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401013,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Fenerbahçe",
+            "visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401014,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Schalke 04",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401015,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Schalke 04",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401016,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401017,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406422,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Schalke 04",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406423,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Liverpool",
+            "visitante": "Inter",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406424,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Olympiacos",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406425,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Olympique Lyonnais",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406426,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Arsenal",
+            "visitante": "Milan",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406427,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Arsenal",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406428,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Olympique Lyonnais",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406429,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Olympiacos",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406430,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Schalke 04",
+            "visitante": "Porto",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406431,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Liverpool",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406432,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Roma",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406433,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Arsenal",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406434,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Fenerbahçe",
+            "visitante": "Chelsea",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406435,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Fenerbahçe",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406436,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Arsenal",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406437,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Roma",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406438,
+            "ronda": "Semifinal - Ida",
+            "local": "Liverpool",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406439,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Liverpool",
+            "visitante": "Chelsea",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406440,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

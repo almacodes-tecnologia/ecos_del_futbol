@@ -1,0 +1,45 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1964,
+    "temporada": "1964-65",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Independiente"
+    },
+    "partidos": [
+        {
+            "id_partido": 430118,
+            "ronda": "Final - Ida",
+            "local": "Independiente",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430119,
+            "ronda": "Final - Vuelta",
+            "local": "Inter",
+            "visitante": "Independiente",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430120,
+            "ronda": "Final - Desempate",
+            "local": "Inter",
+            "visitante": "Independiente",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

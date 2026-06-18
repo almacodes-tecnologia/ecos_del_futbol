@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1978,
+    "temporada": "1978-79",
+    "cuadro_honor": {
+        "campeon": "Nottingham Forest",
+        "subcampeon": "Ipswich Town"
+    },
+    "partidos": [
+        {
+            "id_partido": 720051,
+            "ronda": "Final",
+            "local": "Nottingham Forest",
+            "visitante": "Ipswich Town",
+            "goles_local": "5",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

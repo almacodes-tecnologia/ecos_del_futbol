@@ -1,0 +1,563 @@
+{
+    "pais": "España",
+    "equipo": "Deportivo de la Coruna",
+    "id_bdfutbol": "13",
+    "temporada": "1981-82",
+    "año_inicio": 1981,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j9157",
+                "nombre": "Jorge",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 47
+            },
+            {
+                "id": "j15000",
+                "nombre": "Piña",
+                "posicion": "defensa",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3084,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12168",
+                "nombre": "Silvi",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2924,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12719",
+                "nombre": "Carreras",
+                "posicion": "defensa",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2555,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9056",
+                "nombre": "Pérez Durán",
+                "posicion": "defensa",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 2039,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2939",
+                "nombre": "José Luis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3077,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12299",
+                "nombre": "Moreno",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2823,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12722",
+                "nombre": "Peralta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 22,
+                "minutos": 1894,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12170",
+                "nombre": "Traba",
+                "posicion": "extremo",
+                "partidos_jugados": 34,
+                "partidos_titular": 31,
+                "minutos": 2862,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2745",
+                "nombre": "Vicente",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2032,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19763",
+                "nombre": "Castro",
+                "posicion": "extremo",
+                "partidos_jugados": 27,
+                "partidos_titular": 22,
+                "minutos": 1820,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12302",
+                "nombre": "Muñoz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 17,
+                "minutos": 1738,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7340",
+                "nombre": "Ballesta",
+                "posicion": "defensa",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3962",
+                "nombre": "Albiol",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 11,
+                "minutos": 1061,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13033",
+                "nombre": "Lolo",
+                "posicion": "defensa",
+                "partidos_jugados": 12,
+                "partidos_titular": 7,
+                "minutos": 708,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13087",
+                "nombre": "Alegre",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 7,
+                "minutos": 660,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12723",
+                "nombre": "García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 807,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15042",
+                "nombre": "Villanueva",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 667,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12027",
+                "nombre": "Agulló",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 4,
+                "minutos": 569,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14015",
+                "nombre": "Pardo",
+                "posicion": "defensa",
+                "partidos_jugados": 11,
+                "partidos_titular": 6,
+                "minutos": 556,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13083",
+                "nombre": "Meyer",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13090",
+                "nombre": "Eduardo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 70,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13088",
+                "nombre": "Roberto",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19874",
+                "nombre": "Suso",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7280",
+                "nombre": "Ramiro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12720",
+                "nombre": "Carlos",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1536",
+                "nombre": "Portela",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19751",
+                "nombre": "Paco",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j107056",
+                "nombre": "Alberto",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19863",
+                "nombre": "Chechu",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13122",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 20,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13123",
+                "nombre": "Marcos",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2281",
+                "nombre": "Docobo",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j9157",
+                "nombre": "Jorge",
+                "posicion": "portero",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 750,
+                "goles_marcados": 0,
+                "goles_encajados": 8
+            },
+            {
+                "id": "j15000",
+                "nombre": "Piña",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12168",
+                "nombre": "Silvi",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 840,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12719",
+                "nombre": "Carreras",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 519,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9056",
+                "nombre": "Pérez Durán",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 615,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2939",
+                "nombre": "José Luis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 610,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12299",
+                "nombre": "Moreno",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12722",
+                "nombre": "Peralta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 504,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12170",
+                "nombre": "Traba",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 615,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2745",
+                "nombre": "Vicente",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 413,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19763",
+                "nombre": "Castro",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 440,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j103305",
+                "nombre": "Bandín",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j12302",
+                "nombre": "Muñoz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 809,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7340",
+                "nombre": "Ballesta",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 437,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3962",
+                "nombre": "Albiol",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 349,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13033",
+                "nombre": "Lolo",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 350,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3096",
+                "nombre": "Berto",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j13087",
+                "nombre": "Alegre",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 142,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12723",
+                "nombre": "García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15042",
+                "nombre": "Villanueva",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 376,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12027",
+                "nombre": "Agulló",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 277,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14015",
+                "nombre": "Pardo",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 154,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

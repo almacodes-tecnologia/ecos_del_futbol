@@ -1,0 +1,353 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa de Ferias",
+    "año_inicio": 1963,
+    "temporada": "1963-64",
+    "cuadro_honor": {
+        "campeon": "RFC Liège",
+        "subcampeon": "Brno"
+    },
+    "partidos": [
+        {
+            "id_partido": 470186,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Lausanne",
+            "visitante": "Zaragoza",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470187,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Lausanne",
+            "visitante": "Zaragoza",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470188,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Rapid Wien",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470189,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Rapid Wien",
+            "visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470190,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Juventus",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470191,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Juventus",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470192,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Zaragoza",
+            "visitante": "Juventus",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470193,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Zaragoza",
+            "visitante": "Juventus",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470194,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Valencia",
+            "visitante": "Újpesti Dózsa",
+            "goles_local": "5",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470195,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Valencia",
+            "visitante": "Újpesti Dózsa",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470196,
+            "ronda": "Octavos de Final - Ida",
+            "local": "RFC Liège",
+            "visitante": "Zaragoza",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470197,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "RFC Liège",
+            "visitante": "Zaragoza",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470198,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "RFC Liège",
+            "visitante": "Zaragoza",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470199,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Valencia",
+            "visitante": "Köln",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470200,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Valencia",
+            "visitante": "Köln",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470201,
+            "ronda": "Octavos de Final",
+            "local": "Zaragoza",
+            "visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471855,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Köln",
+            "visitante": "Sheffield Wednesday",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471857,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Arsenal",
+            "visitante": "RFC Liège",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471858,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Partick Thistle",
+            "visitante": "Brno",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471859,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Újpesti Dózsa",
+            "visitante": "Lokomotiv Plovdiv",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471860,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Roma",
+            "visitante": "Os Belenenses",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471863,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Köln",
+            "visitante": "Sheffield Wednesday",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471865,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Arsenal",
+            "visitante": "RFC Liège",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471866,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Partick Thistle",
+            "visitante": "Brno",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471867,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Újpesti Dózsa",
+            "visitante": "Lokomotiv Plovdiv",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471868,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Roma",
+            "visitante": "Os Belenenses",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471871,
+            "ronda": "Semifinal - Ida",
+            "local": "Roma",
+            "visitante": "Köln",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471872,
+            "ronda": "Semifinal - Ida",
+            "local": "RFC Liège",
+            "visitante": "Brno",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471875,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Roma",
+            "visitante": "Köln",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471876,
+            "ronda": "Final - Ida",
+            "local": "RFC Liège",
+            "visitante": "Brno",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 471878,
+            "ronda": "Final - Vuelta",
+            "local": "RFC Liège",
+            "visitante": "Brno",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

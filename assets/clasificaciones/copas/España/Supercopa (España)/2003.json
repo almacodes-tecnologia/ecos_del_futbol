@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Mallorca"
+    },
+    "partidos": [
+        {
+            "id_partido": 490170,
+            "ronda": "Final - Ida",
+            "local": "Mallorca",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490171,
+            "ronda": "Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Mallorca",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

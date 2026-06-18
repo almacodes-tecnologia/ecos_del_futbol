@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Parma",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 490312,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Parma",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

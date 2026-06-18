@@ -1,0 +1,545 @@
+{
+    "pais": "España",
+    "equipo": "Real Sociedad",
+    "id_bdfutbol": "30",
+    "temporada": "1940-41",
+    "año_inicio": 1940,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j9833",
+                "nombre": "Sebitas",
+                "posicion": "portero",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 20
+            },
+            {
+                "id": "j10220",
+                "nombre": "Patri",
+                "posicion": "defensa",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10912",
+                "nombre": "Izaga",
+                "posicion": "defensa",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10636",
+                "nombre": "Querejeta",
+                "posicion": "defensa",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10351",
+                "nombre": "Bidegain",
+                "posicion": "centrocampista",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11079",
+                "nombre": "Simón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11076",
+                "nombre": "Paco Bienzobas",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10833",
+                "nombre": "Chipia",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1701,
+                "goles_marcados": 22,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10915",
+                "nombre": "Pedrín",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1690,
+                "goles_marcados": 19,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11070",
+                "nombre": "Chechu",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10918",
+                "nombre": "Terán",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 765,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40052",
+                "nombre": "Capdevila",
+                "posicion": "portero",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 20
+            },
+            {
+                "id": "j10817",
+                "nombre": "Berridi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11069",
+                "nombre": "Azpiazu",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40051",
+                "nombre": "Burguera",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40054",
+                "nombre": "Pérez",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40055",
+                "nombre": "Sagarzazu",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40053",
+                "nombre": "Mocete",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11681",
+                "nombre": "Azcona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11563",
+                "nombre": "Lerchundi",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j304068",
+                "nombre": "Arrieta",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40056",
+                "nombre": "Sánchez Arana",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11493",
+                "nombre": "Unzueta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j10220",
+                "nombre": "Patri",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10912",
+                "nombre": "Izaga",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10636",
+                "nombre": "Querejeta",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10351",
+                "nombre": "Bidegain",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11079",
+                "nombre": "Simón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11076",
+                "nombre": "Paco Bienzobas",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10833",
+                "nombre": "Chipia",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 620,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10915",
+                "nombre": "Pedrín",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10918",
+                "nombre": "Terán",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10817",
+                "nombre": "Berridi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11069",
+                "nombre": "Azpiazu",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40051",
+                "nombre": "Burguera",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 84,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j40054",
+                "nombre": "Pérez",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11071",
+                "nombre": "Eguía",
+                "posicion": "portero",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 13
+            },
+            {
+                "id": "j40055",
+                "nombre": "Sagarzazu",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10738",
+                "nombre": "Llona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j9833",
+                "nombre": "Sebitas",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j10220",
+                "nombre": "Patri",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10912",
+                "nombre": "Izaga",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10636",
+                "nombre": "Querejeta",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10351",
+                "nombre": "Bidegain",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11079",
+                "nombre": "Simón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11076",
+                "nombre": "Paco Bienzobas",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 355,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10833",
+                "nombre": "Chipia",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10915",
+                "nombre": "Pedrín",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10918",
+                "nombre": "Terán",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10817",
+                "nombre": "Berridi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11069",
+                "nombre": "Azpiazu",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11071",
+                "nombre": "Eguía",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j11563",
+                "nombre": "Lerchundi",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

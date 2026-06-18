@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2006,
+    "temporada": "2006-07",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Espanyol"
+    },
+    "partidos": [
+        {
+            "id_partido": 490200,
+            "ronda": "Final - Ida",
+            "local": "Espanyol",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490201,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Espanyol",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

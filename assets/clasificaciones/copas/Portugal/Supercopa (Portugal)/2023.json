@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Benfica",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 721076,
+            "ronda": "Final",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

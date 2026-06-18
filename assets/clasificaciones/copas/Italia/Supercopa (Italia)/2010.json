@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2010,
+    "temporada": "2010-11",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Roma"
+    },
+    "partidos": [
+        {
+            "id_partido": 490323,
+            "ronda": "Final",
+            "local": "Inter",
+            "visitante": "Roma",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

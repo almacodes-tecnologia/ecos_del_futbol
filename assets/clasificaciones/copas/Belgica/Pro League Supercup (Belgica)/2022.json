@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Gent"
+    },
+    "partidos": [
+        {
+            "id_partido": 721081,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Gent",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

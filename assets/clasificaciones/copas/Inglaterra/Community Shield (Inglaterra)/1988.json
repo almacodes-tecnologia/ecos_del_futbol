@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1988,
+    "temporada": "1988-89",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Wimbledon"
+    },
+    "partidos": [
+        {
+            "id_partido": 720033,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Wimbledon",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

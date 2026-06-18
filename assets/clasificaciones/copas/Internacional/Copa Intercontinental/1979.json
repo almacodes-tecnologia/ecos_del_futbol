@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1979,
+    "temporada": "1979-80",
+    "cuadro_honor": {
+        "campeon": "Club Olimpia",
+        "subcampeon": "Malmö"
+    },
+    "partidos": [
+        {
+            "id_partido": 430137,
+            "ronda": "Final - Ida",
+            "local": "Malmö",
+            "visitante": "Club Olimpia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430138,
+            "ronda": "Final - Vuelta",
+            "local": "Club Olimpia",
+            "visitante": "Malmö",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

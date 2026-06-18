@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1992,
+    "temporada": "1992-93",
+    "cuadro_honor": {
+        "campeon": "Leeds",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 720029,
+            "ronda": "Final",
+            "local": "Leeds",
+            "visitante": "Liverpool",
+            "goles_local": "4",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

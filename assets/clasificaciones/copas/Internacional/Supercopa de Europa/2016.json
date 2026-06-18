@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Sevilla"
+    },
+    "partidos": [
+        {
+            "id_partido": 440505,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Sevilla",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

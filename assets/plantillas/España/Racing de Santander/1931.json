@@ -1,0 +1,303 @@
+{
+    "pais": "España",
+    "equipo": "Racing de Santander",
+    "id_bdfutbol": "29",
+    "temporada": "1931-32",
+    "año_inicio": 1931,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j11621",
+                "nombre": "Solà",
+                "posicion": "portero",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 35
+            },
+            {
+                "id": "j10753",
+                "nombre": "Ceballos",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11441",
+                "nombre": "Mendaro",
+                "posicion": "defensa",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1350,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10611",
+                "nombre": "García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11557",
+                "nombre": "Loredo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11363",
+                "nombre": "Larrinoa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1350,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11114",
+                "nombre": "Ibarra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11389",
+                "nombre": "Larrinaga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11409",
+                "nombre": "Santi Zubieta",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11386",
+                "nombre": "Cisco",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 12,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11282",
+                "nombre": "Telete",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1350,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11276",
+                "nombre": "Óscar",
+                "posicion": "delantero centro",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11271",
+                "nombre": "Hernández",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11554",
+                "nombre": "Baragaño",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11666",
+                "nombre": "Pico",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11556",
+                "nombre": "Gurruchaga",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11665",
+                "nombre": "Larrañaga",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j11621",
+                "nombre": "Solà",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j10753",
+                "nombre": "Ceballos",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 160,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11441",
+                "nombre": "Mendaro",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11557",
+                "nombre": "Loredo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11363",
+                "nombre": "Larrinoa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11114",
+                "nombre": "Ibarra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11389",
+                "nombre": "Larrinaga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11409",
+                "nombre": "Santi Zubieta",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11386",
+                "nombre": "Cisco",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11282",
+                "nombre": "Telete",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11276",
+                "nombre": "Óscar",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11554",
+                "nombre": "Baragaño",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

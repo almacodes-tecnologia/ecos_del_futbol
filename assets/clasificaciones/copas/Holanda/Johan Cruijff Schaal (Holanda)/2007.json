@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2007,
+    "temporada": "2007-08",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 721048,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "PSV",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

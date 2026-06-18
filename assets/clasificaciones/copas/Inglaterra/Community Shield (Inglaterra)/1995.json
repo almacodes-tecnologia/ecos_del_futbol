@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Everton",
+        "subcampeon": "Blackburn Rovers"
+    },
+    "partidos": [
+        {
+            "id_partido": 720026,
+            "ronda": "Final",
+            "local": "Everton",
+            "visitante": "Blackburn Rovers",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

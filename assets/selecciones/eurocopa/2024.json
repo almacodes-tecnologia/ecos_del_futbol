@@ -1,0 +1,823 @@
+{
+    "torneo": "Eurocopa",
+    "anio": 2024,
+    "saison_id": "2023",
+    "calendario": [
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "29/06/2024",
+            "local": "Suiza",
+            "resultado": "2:0",
+            "visitante": "Italia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "29/06/2024",
+            "local": "Alemania",
+            "resultado": "2:0",
+            "visitante": "Dinamarca"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "30/06/2024",
+            "local": "Inglaterra",
+            "resultado": "2:1 pró.",
+            "visitante": "Eslovaquia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "30/06/2024",
+            "local": "España",
+            "resultado": "4:1",
+            "visitante": "Georgia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "01/07/2024",
+            "local": "Francia",
+            "resultado": "1:0",
+            "visitante": "Bélgica"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "01/07/2024",
+            "local": "Portugal",
+            "resultado": "3:0 pen.",
+            "visitante": "Eslovenia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "02/07/2024",
+            "local": "Rumanía",
+            "resultado": "0:3",
+            "visitante": "Países Bajos"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "02/07/2024",
+            "local": "Austria",
+            "resultado": "1:2",
+            "visitante": "Turquía"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "05/07/2024",
+            "local": "España",
+            "resultado": "2:1 pró.",
+            "visitante": "Alemania"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "05/07/2024",
+            "local": "Portugal",
+            "resultado": "3:5 pen.",
+            "visitante": "Francia"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "06/07/2024",
+            "local": "Inglaterra",
+            "resultado": "6:4 pen.",
+            "visitante": "Suiza"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "06/07/2024",
+            "local": "Países Bajos",
+            "resultado": "2:1",
+            "visitante": "Turquía"
+        },
+        {
+            "fase_grupo": "Semifinales",
+            "fecha": "09/07/2024",
+            "local": "España",
+            "resultado": "2:1",
+            "visitante": "Francia"
+        },
+        {
+            "fase_grupo": "Semifinales",
+            "fecha": "10/07/2024",
+            "local": "Países Bajos",
+            "resultado": "1:2",
+            "visitante": "Inglaterra"
+        },
+        {
+            "fase_grupo": "Final",
+            "fecha": "14/07/2024",
+            "local": "España",
+            "resultado": "2:1",
+            "visitante": "Inglaterra"
+        }
+    ],
+    "clasificacion_grupos": {
+        "Clasificación del grupo A": [
+            {
+                "posicion": 1,
+                "seleccion": "Alemania",
+                "partidos_jugados": 3,
+                "diferencia_goles": "6",
+                "puntos": 7
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Suiza",
+                "partidos_jugados": 3,
+                "diferencia_goles": "2",
+                "puntos": 5
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Hungría",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-3",
+                "puntos": 3
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Escocia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-5",
+                "puntos": 1
+            }
+        ],
+        "Clasificación del grupo B": [
+            {
+                "posicion": 1,
+                "seleccion": "España",
+                "partidos_jugados": 3,
+                "diferencia_goles": "5",
+                "puntos": 9
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Italia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Croacia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-3",
+                "puntos": 2
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Albania",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-2",
+                "puntos": 1
+            }
+        ],
+        "Clasificación del grupo C": [
+            {
+                "posicion": 1,
+                "seleccion": "Inglaterra",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 5
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Dinamarca",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 3
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Eslovenia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 3
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Serbia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-1",
+                "puntos": 2
+            }
+        ],
+        "Clasificación del grupo D": [
+            {
+                "posicion": 1,
+                "seleccion": "Austria",
+                "partidos_jugados": 3,
+                "diferencia_goles": "2",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Francia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 5
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Países Bajos",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Polonia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-3",
+                "puntos": 1
+            }
+        ],
+        "Clasificación del grupo E": [
+            {
+                "posicion": 1,
+                "seleccion": "Rumanía",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 4
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Bélgica",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 4
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Eslovaquia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Ucrania",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-2",
+                "puntos": 4
+            }
+        ],
+        "Clasificación del grupo F": [
+            {
+                "posicion": 1,
+                "seleccion": "Portugal",
+                "partidos_jugados": 3,
+                "diferencia_goles": "2",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Turquía",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 6
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Georgia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Chequia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-2",
+                "puntos": 1
+            }
+        ]
+    },
+    "goleadores": [
+        {
+            "posicion": 1,
+            "jugador": "Dani Olmo",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "España",
+            "partidos": 6,
+            "asistencias": 2,
+            "penaltis": 0,
+            "minutos": "432'",
+            "goles": 3
+        },
+        {
+            "posicion": 2,
+            "jugador": "Georges Mikautadze",
+            "demarcacion": "Delantero centro",
+            "pais": "Georgia",
+            "partidos": 4,
+            "asistencias": 1,
+            "penaltis": 2,
+            "minutos": "344'",
+            "goles": 3
+        },
+        {
+            "posicion": 3,
+            "jugador": "Cody Gakpo",
+            "demarcacion": "Extremo izquierdo",
+            "pais": "Países Bajos",
+            "partidos": 6,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "523'",
+            "goles": 3
+        },
+        {
+            "posicion": 4,
+            "jugador": "Harry Kane",
+            "demarcacion": "Delantero centro",
+            "pais": "Inglaterra",
+            "partidos": 7,
+            "asistencias": 0,
+            "penaltis": 1,
+            "minutos": "601'",
+            "goles": 3
+        },
+        {
+            "posicion": 5,
+            "jugador": "Ivan Schranz",
+            "demarcacion": "Extremo derecho",
+            "pais": "Eslovaquia",
+            "partidos": 4,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "331'",
+            "goles": 3
+        },
+        {
+            "posicion": 6,
+            "jugador": "Jamal Musiala",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Alemania",
+            "partidos": 5,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "419'",
+            "goles": 3
+        },
+        {
+            "posicion": 7,
+            "jugador": "Fabián Ruiz",
+            "demarcacion": "Mediocentro",
+            "pais": "España",
+            "partidos": 6,
+            "asistencias": 2,
+            "penaltis": 0,
+            "minutos": "540'",
+            "goles": 2
+        },
+        {
+            "posicion": 8,
+            "jugador": "Jude Bellingham",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Inglaterra",
+            "partidos": 7,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "669'",
+            "goles": 2
+        },
+        {
+            "posicion": 9,
+            "jugador": "Kai Havertz",
+            "demarcacion": "Delantero centro",
+            "pais": "Alemania",
+            "partidos": 5,
+            "asistencias": 1,
+            "penaltis": 2,
+            "minutos": "388'",
+            "goles": 2
+        },
+        {
+            "posicion": 10,
+            "jugador": "Nico Williams",
+            "demarcacion": "Extremo izquierdo",
+            "pais": "España",
+            "partidos": 6,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "492'",
+            "goles": 2
+        },
+        {
+            "posicion": 11,
+            "jugador": "Merih Demiral",
+            "demarcacion": "Defensa central",
+            "pais": "Turquía",
+            "partidos": 4,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "208'",
+            "goles": 2
+        },
+        {
+            "posicion": 12,
+            "jugador": "Niclas Füllkrug",
+            "demarcacion": "Delantero centro",
+            "pais": "Alemania",
+            "partidos": 5,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "166'",
+            "goles": 2
+        },
+        {
+            "posicion": 13,
+            "jugador": "Donyell Malen",
+            "demarcacion": "Delantero centro",
+            "pais": "Países Bajos",
+            "partidos": 4,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "190'",
+            "goles": 2
+        },
+        {
+            "posicion": 14,
+            "jugador": "Răzvan Marin",
+            "demarcacion": "Mediocentro",
+            "pais": "Rumanía",
+            "partidos": 4,
+            "asistencias": 0,
+            "penaltis": 1,
+            "minutos": "355'",
+            "goles": 2
+        },
+        {
+            "posicion": 15,
+            "jugador": "Florian Wirtz",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Alemania",
+            "partidos": 5,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "279'",
+            "goles": 2
+        },
+        {
+            "posicion": 16,
+            "jugador": "Breel Embolo",
+            "demarcacion": "Delantero centro",
+            "pais": "Suiza",
+            "partidos": 5,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "296'",
+            "goles": 2
+        },
+        {
+            "posicion": 17,
+            "jugador": "Lamine Yamal",
+            "demarcacion": "Extremo derecho",
+            "pais": "España",
+            "partidos": 7,
+            "asistencias": 4,
+            "penaltis": 0,
+            "minutos": "504'",
+            "goles": 1
+        },
+        {
+            "posicion": 18,
+            "jugador": "Xavi Simons",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Países Bajos",
+            "partidos": 6,
+            "asistencias": 3,
+            "penaltis": 0,
+            "minutos": "454'",
+            "goles": 1
+        },
+        {
+            "posicion": 19,
+            "jugador": "Kylian Mbappé",
+            "demarcacion": "Delantero centro",
+            "pais": "Francia",
+            "partidos": 5,
+            "asistencias": 2,
+            "penaltis": 1,
+            "minutos": "463'",
+            "goles": 1
+        },
+        {
+            "posicion": 20,
+            "jugador": "Arda Güler",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Turquía",
+            "partidos": 5,
+            "asistencias": 2,
+            "penaltis": 0,
+            "minutos": "340'",
+            "goles": 1
+        },
+        {
+            "posicion": 21,
+            "jugador": "Remo Freuler",
+            "demarcacion": "Mediocentro",
+            "pais": "Suiza",
+            "partidos": 5,
+            "asistencias": 2,
+            "penaltis": 0,
+            "minutos": "456'",
+            "goles": 1
+        },
+        {
+            "posicion": 22,
+            "jugador": "Michel Aebischer",
+            "demarcacion": "Mediocentro",
+            "pais": "Suiza",
+            "partidos": 5,
+            "asistencias": 2,
+            "penaltis": 0,
+            "minutos": "476'",
+            "goles": 1
+        },
+        {
+            "posicion": 23,
+            "jugador": "İlkay Gündoğan",
+            "demarcacion": "Mediocentro",
+            "pais": "Alemania",
+            "partidos": 5,
+            "asistencias": 2,
+            "penaltis": 0,
+            "minutos": "383'",
+            "goles": 1
+        },
+        {
+            "posicion": 24,
+            "jugador": "Álvaro Morata",
+            "demarcacion": "Delantero centro",
+            "pais": "España",
+            "partidos": 7,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "448'",
+            "goles": 1
+        },
+        {
+            "posicion": 25,
+            "jugador": "Rubén Vargas",
+            "demarcacion": "Extremo izquierdo",
+            "pais": "Suiza",
+            "partidos": 5,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "306'",
+            "goles": 1
+        }
+    ],
+    "porteros": [
+        {
+            "posicion": 1,
+            "portero": "Mike Maignan",
+            "pais": "Francia",
+            "partidos": 6,
+            "imbatido": 4,
+            "goles_recibidos": 3,
+            "minutos": "540'",
+            "porcentaje_imbatibilidad": "66,7 %"
+        },
+        {
+            "posicion": 2,
+            "portero": "Diogo Costa",
+            "pais": "Portugal",
+            "partidos": 5,
+            "imbatido": 3,
+            "goles_recibidos": 3,
+            "minutos": "450'",
+            "porcentaje_imbatibilidad": "60,0 %"
+        },
+        {
+            "posicion": 3,
+            "portero": "Koen Casteels",
+            "pais": "Bélgica",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 2,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 4,
+            "portero": "Jan Oblak",
+            "pais": "Eslovenia",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 2,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 5,
+            "portero": "Manuel Neuer",
+            "pais": "Alemania",
+            "partidos": 5,
+            "imbatido": 2,
+            "goles_recibidos": 4,
+            "minutos": "450'",
+            "porcentaje_imbatibilidad": "40,0 %"
+        },
+        {
+            "posicion": 6,
+            "portero": "Unai Simón",
+            "pais": "España",
+            "partidos": 6,
+            "imbatido": 2,
+            "goles_recibidos": 4,
+            "minutos": "540'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 7,
+            "portero": "Bart Verbruggen",
+            "pais": "Países Bajos",
+            "partidos": 6,
+            "imbatido": 2,
+            "goles_recibidos": 7,
+            "minutos": "540'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 8,
+            "portero": "Jordan Pickford",
+            "pais": "Inglaterra",
+            "partidos": 7,
+            "imbatido": 2,
+            "goles_recibidos": 9,
+            "minutos": "630'",
+            "porcentaje_imbatibilidad": "28,6 %"
+        },
+        {
+            "posicion": 9,
+            "portero": "David Raya",
+            "pais": "España",
+            "partidos": 1,
+            "imbatido": 1,
+            "goles_recibidos": 0,
+            "minutos": "90'",
+            "porcentaje_imbatibilidad": "100,0 %"
+        },
+        {
+            "posicion": 10,
+            "portero": "Anatoliy Trubin",
+            "pais": "Ucrania",
+            "partidos": 2,
+            "imbatido": 1,
+            "goles_recibidos": 1,
+            "minutos": "180'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 11,
+            "portero": "Predrag Rajković",
+            "pais": "Serbia",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 2,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 12,
+            "portero": "Péter Gulácsi",
+            "pais": "Hungría",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 5,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 13,
+            "portero": "Kasper Schmeichel",
+            "pais": "Dinamarca",
+            "partidos": 4,
+            "imbatido": 1,
+            "goles_recibidos": 4,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "25,0 %"
+        },
+        {
+            "posicion": 14,
+            "portero": "Martin Dúbravka",
+            "pais": "Eslovaquia",
+            "partidos": 4,
+            "imbatido": 1,
+            "goles_recibidos": 5,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "25,0 %"
+        },
+        {
+            "posicion": 15,
+            "portero": "Florin Niță",
+            "pais": "Rumanía",
+            "partidos": 4,
+            "imbatido": 1,
+            "goles_recibidos": 6,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "25,0 %"
+        },
+        {
+            "posicion": 16,
+            "portero": "Giorgi Mamardashvili",
+            "pais": "Georgia",
+            "partidos": 4,
+            "imbatido": 1,
+            "goles_recibidos": 8,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "25,0 %"
+        },
+        {
+            "posicion": 17,
+            "portero": "Yann Sommer",
+            "pais": "Suiza",
+            "partidos": 5,
+            "imbatido": 1,
+            "goles_recibidos": 9,
+            "minutos": "450'",
+            "porcentaje_imbatibilidad": "20,0 %"
+        },
+        {
+            "posicion": 18,
+            "portero": "Matej Kovar",
+            "pais": "Chequia",
+            "partidos": 1,
+            "imbatido": 0,
+            "goles_recibidos": 1,
+            "minutos": "36'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 19,
+            "portero": "Lukasz Skorupski",
+            "pais": "Polonia",
+            "partidos": 1,
+            "imbatido": 0,
+            "goles_recibidos": 1,
+            "minutos": "90'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 20,
+            "portero": "Altay Bayındır",
+            "pais": "Turquía",
+            "partidos": 1,
+            "imbatido": 0,
+            "goles_recibidos": 3,
+            "minutos": "90'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 21,
+            "portero": "Andriy Lunin",
+            "pais": "Ucrania",
+            "partidos": 1,
+            "imbatido": 0,
+            "goles_recibidos": 3,
+            "minutos": "90'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 22,
+            "portero": "Wojciech Szczesny",
+            "pais": "Polonia",
+            "partidos": 2,
+            "imbatido": 0,
+            "goles_recibidos": 5,
+            "minutos": "180'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 23,
+            "portero": "Jindrich Stanek",
+            "pais": "Chequia",
+            "partidos": 3,
+            "imbatido": 0,
+            "goles_recibidos": 4,
+            "minutos": "235'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 24,
+            "portero": "Thomas Strakosha",
+            "pais": "Albania",
+            "partidos": 3,
+            "imbatido": 0,
+            "goles_recibidos": 5,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        },
+        {
+            "posicion": 25,
+            "portero": "Dominik Livakovic",
+            "pais": "Croacia",
+            "partidos": 3,
+            "imbatido": 0,
+            "goles_recibidos": 6,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "0,0 %"
+        }
+    ]
+}

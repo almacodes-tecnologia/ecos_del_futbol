@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Crvena Zvezda"
+    },
+    "partidos": [
+        {
+            "id_partido": 440520,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Crvena Zvezda",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

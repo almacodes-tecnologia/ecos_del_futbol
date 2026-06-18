@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Santos",
+        "subcampeon": "Kashiwa Reysol"
+    },
+    "partidos": [
+        {
+            "id_partido": 430082,
+            "ronda": "Semifinal",
+            "local": "Al-Sadd",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430083,
+            "ronda": "Semifinal",
+            "local": "Santos",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430191,
+            "ronda": "Semifinal",
+            "local": "Kashiwa Reysol",
+            "visitante": "Monterrey",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430192,
+            "ronda": "Semifinal",
+            "local": "Espérance de Tunis",
+            "visitante": "Al-Sadd",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430193,
+            "ronda": "Final",
+            "local": "Kashiwa Reysol",
+            "visitante": "Santos",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

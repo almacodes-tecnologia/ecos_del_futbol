@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1964,
+    "temporada": "1964-65",
+    "cuadro_honor": {
+        "campeon": "Empate global entre Liverpool y West Ham",
+        "subcampeon": "No determinado"
+    },
+    "partidos": [
+        {
+            "id_partido": 720102,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "West Ham",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+{
+    "pais": "España",
+    "equipo": "Real Sociedad",
+    "id_bdfutbol": "30",
+    "temporada": "1959-60",
+    "año_inicio": 1959,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5839",
+                "nombre": "Araquistain",
+                "posicion": "portero",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 0,
+                "goles_encajados": 61
+            },
+            {
+                "id": "j8170",
+                "nombre": "Gordejuela",
+                "posicion": "defensa",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8159",
+                "nombre": "Ansola",
+                "posicion": "defensa",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2112,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8205",
+                "nombre": "Echarri",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1973,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4434",
+                "nombre": "Irulegui",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8207",
+                "nombre": "Elizondo",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7895",
+                "nombre": "Rivera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 2070,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8283",
+                "nombre": "Galardi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8285",
+                "nombre": "Paz",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8281",
+                "nombre": "Alkiza",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1842,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8284",
+                "nombre": "Gallastegui",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5926",
+                "nombre": "Goicoechea",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9508",
+                "nombre": "Sarasqueta",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8162",
+                "nombre": "Peporro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9505",
+                "nombre": "Aznar",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9509",
+                "nombre": "Teré",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8282",
+                "nombre": "Araquistain",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9507",
+                "nombre": "Lacalle",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8208",
+                "nombre": "Gabiola",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9506",
+                "nombre": "Erro",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7666",
+                "nombre": "Azcárate",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9510",
+                "nombre": "Zaldua",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9504",
+                "nombre": "Arrastia",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8211",
+                "nombre": "Juanín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5839",
+                "nombre": "Araquistain",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j8170",
+                "nombre": "Gordejuela",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8159",
+                "nombre": "Ansola",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8205",
+                "nombre": "Echarri",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4434",
+                "nombre": "Irulegui",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8207",
+                "nombre": "Elizondo",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7895",
+                "nombre": "Rivera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8283",
+                "nombre": "Galardi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8285",
+                "nombre": "Paz",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8281",
+                "nombre": "Alkiza",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8284",
+                "nombre": "Gallastegui",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9508",
+                "nombre": "Sarasqueta",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8162",
+                "nombre": "Peporro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9505",
+                "nombre": "Aznar",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8282",
+                "nombre": "Araquistain",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9507",
+                "nombre": "Lacalle",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9506",
+                "nombre": "Erro",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7666",
+                "nombre": "Azcárate",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9510",
+                "nombre": "Zaldua",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j5839",
+                "nombre": "Araquistain",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 250,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j8170",
+                "nombre": "Gordejuela",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8159",
+                "nombre": "Ansola",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8205",
+                "nombre": "Echarri",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8207",
+                "nombre": "Elizondo",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7895",
+                "nombre": "Rivera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8283",
+                "nombre": "Galardi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8285",
+                "nombre": "Paz",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8281",
+                "nombre": "Alkiza",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8284",
+                "nombre": "Gallastegui",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5926",
+                "nombre": "Goicoechea",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 20,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8162",
+                "nombre": "Peporro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8282",
+                "nombre": "Araquistain",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9507",
+                "nombre": "Lacalle",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8208",
+                "nombre": "Gabiola",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7666",
+                "nombre": "Azcárate",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

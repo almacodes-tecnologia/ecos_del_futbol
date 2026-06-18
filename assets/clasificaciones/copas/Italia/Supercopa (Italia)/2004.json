@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2004,
+    "temporada": "2004-05",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Lazio"
+    },
+    "partidos": [
+        {
+            "id_partido": 490317,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Lazio",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

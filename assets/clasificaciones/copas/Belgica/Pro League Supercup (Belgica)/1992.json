@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1992,
+    "temporada": "1992-93",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Royal Antwerp"
+    },
+    "partidos": [
+        {
+            "id_partido": 721125,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Royal Antwerp",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 1
+        }
+    ]
+}

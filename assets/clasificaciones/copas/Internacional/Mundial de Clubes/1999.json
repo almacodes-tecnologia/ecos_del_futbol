@@ -1,0 +1,166 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Corinthians",
+        "subcampeon": "Vasco da Gama"
+    },
+    "partidos": [
+        {
+            "id_partido": 430086,
+            "ronda": "Octavos de Final",
+            "local": "Real Madrid",
+            "visitante": "Al-Nassr",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430087,
+            "ronda": "Cuartos de Final",
+            "local": "Real Madrid",
+            "visitante": "Corinthians",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430088,
+            "ronda": "Cuartos de Final",
+            "local": "Real Madrid",
+            "visitante": "Necaxa",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 4
+        },
+        {
+            "id_partido": 430089,
+            "ronda": "Cuartos de Final",
+            "local": "Real Madrid",
+            "visitante": "Raja Casablanca",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430095,
+            "ronda": "Cuartos de Final",
+            "local": "Manchester United",
+            "visitante": "Necaxa",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430096,
+            "ronda": "Cuartos de Final",
+            "local": "Manchester United",
+            "visitante": "Vasco da Gama",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430097,
+            "ronda": "Cuartos de Final",
+            "local": "Manchester United",
+            "visitante": "South Melbourne",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430150,
+            "ronda": "Cuartos de Final",
+            "local": "Corinthians",
+            "visitante": "Raja Casablanca",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430151,
+            "ronda": "Cuartos de Final",
+            "local": "Vasco da Gama",
+            "visitante": "South Melbourne",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430152,
+            "ronda": "Semifinal",
+            "local": "Raja Casablanca",
+            "visitante": "Al-Nassr",
+            "goles_local": "3",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430153,
+            "ronda": "Semifinal",
+            "local": "South Melbourne",
+            "visitante": "Necaxa",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430154,
+            "ronda": "Semifinal",
+            "local": "Al-Nassr",
+            "visitante": "Corinthians",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430155,
+            "ronda": "Semifinal",
+            "local": "Necaxa",
+            "visitante": "Vasco da Gama",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430156,
+            "ronda": "Final",
+            "local": "Corinthians",
+            "visitante": "Vasco da Gama",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 2
+        }
+    ]
+}

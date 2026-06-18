@@ -1,0 +1,343 @@
+{
+    "pais": "España",
+    "equipo": "Oviedo",
+    "id_bdfutbol": "28",
+    "temporada": "1929-30",
+    "año_inicio": 1929,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j11383",
+                "nombre": "Óscar",
+                "posicion": "portero",
+                "partidos_jugados": 13,
+                "partidos_titular": 12,
+                "minutos": 1155,
+                "goles_marcados": 0,
+                "goles_encajados": 29
+            },
+            {
+                "id": "j11377",
+                "nombre": "Caliche",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j305288",
+                "nombre": "Avilesu",
+                "posicion": "defensa",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28493",
+                "nombre": "Trucha",
+                "posicion": "defensa",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11290",
+                "nombre": "Abdón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1613,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1022899",
+                "nombre": "Justo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28466",
+                "nombre": "Polón",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28607",
+                "nombre": "Fernández",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1518,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28589",
+                "nombre": "Urrutia",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28550",
+                "nombre": "Barril",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28552",
+                "nombre": "Tamargo",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28551",
+                "nombre": "Benjamín",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 465,
+                "goles_marcados": 0,
+                "goles_encajados": 15
+            },
+            {
+                "id": "j204952",
+                "nombre": "Caramelero",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11861",
+                "nombre": "Tomás",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28586",
+                "nombre": "Mariscal",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28588",
+                "nombre": "Mieres",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28590",
+                "nombre": "Noreña",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28587",
+                "nombre": "Cubano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j11383",
+                "nombre": "Óscar",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j11377",
+                "nombre": "Caliche",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j305288",
+                "nombre": "Avilesu",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28493",
+                "nombre": "Trucha",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11290",
+                "nombre": "Abdón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1022899",
+                "nombre": "Justo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28466",
+                "nombre": "Polón",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28589",
+                "nombre": "Urrutia",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28550",
+                "nombre": "Barril",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28552",
+                "nombre": "Tamargo",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j204952",
+                "nombre": "Caramelero",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28586",
+                "nombre": "Mariscal",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28587",
+                "nombre": "Cubano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28638",
+                "nombre": "Chuché",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11549",
+                "nombre": "Chanín",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

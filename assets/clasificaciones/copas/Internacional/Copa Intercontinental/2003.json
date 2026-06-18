@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "Boca Juniors",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 430063,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Boca Juniors",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 1,
+            "penaltis_visitante": 3
+        }
+    ]
+}

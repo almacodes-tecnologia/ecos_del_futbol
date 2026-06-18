@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2006,
+    "temporada": "2006-07",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 720015,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Chelsea",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

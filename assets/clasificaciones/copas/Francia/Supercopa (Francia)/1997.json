@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 1997,
+    "temporada": "1997-98",
+    "cuadro_honor": {
+        "campeon": "Monaco",
+        "subcampeon": "Nice"
+    },
+    "partidos": [
+        {
+            "id_partido": 721015,
+            "ronda": "Final",
+            "local": "Monaco",
+            "visitante": "Nice",
+            "goles_local": "5",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

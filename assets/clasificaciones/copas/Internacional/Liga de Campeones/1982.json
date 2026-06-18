@@ -1,0 +1,309 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1982,
+    "temporada": "1982-83",
+    "cuadro_honor": {
+        "campeon": "Hamburger",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 400342,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Sociedad",
+            "visitante": "Celtic",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400343,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Sociedad",
+            "visitante": "Celtic",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400344,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sporting de Portugal",
+            "visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400345,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400346,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Sociedad",
+            "visitante": "Hamburger",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400347,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Sociedad",
+            "visitante": "Hamburger",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409068,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Hamburger",
+            "visitante": "Olympiacos",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409070,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Standard Liège",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409071,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Rapid Wien",
+            "visitante": "Widzew Łódź",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409072,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Dinamo București",
+            "visitante": "Aston Villa",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409073,
+            "ronda": "Octavos de Final - Ida",
+            "local": "CSKA Septemvriysko Zname",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409074,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Helsinki",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409075,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "CSKA Septemvriysko Zname",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409077,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Dinamo București",
+            "visitante": "Aston Villa",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409078,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Standard Liège",
+            "visitante": "Juventus",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409079,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Hamburger",
+            "visitante": "Olympiacos",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409080,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Rapid Wien",
+            "visitante": "Widzew Łódź",
+            "goles_local": "3",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409081,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Helsinki",
+            "visitante": "Liverpool",
+            "goles_local": "0",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409083,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Aston Villa",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409084,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Widzew Łódź",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409085,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Dynamo Kyiv",
+            "visitante": "Hamburger",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409086,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Aston Villa",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409087,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Widzew Łódź",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409089,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Dynamo Kyiv",
+            "visitante": "Hamburger",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409091,
+            "ronda": "Semifinal - Ida",
+            "local": "Juventus",
+            "visitante": "Widzew Łódź",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409093,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Juventus",
+            "visitante": "Widzew Łódź",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409094,
+            "ronda": "Final",
+            "local": "Hamburger",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

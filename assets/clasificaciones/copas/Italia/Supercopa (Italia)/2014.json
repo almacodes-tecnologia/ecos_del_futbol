@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "Napoli",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 490327,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Napoli",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 6
+        }
+    ]
+}

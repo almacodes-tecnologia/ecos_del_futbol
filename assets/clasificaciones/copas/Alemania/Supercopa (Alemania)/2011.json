@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Schalke 04",
+        "subcampeon": "Borussia Dortmund"
+    },
+    "partidos": [
+        {
+            "id_partido": 721001,
+            "ronda": "Final",
+            "local": "Schalke 04",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 3
+        }
+    ]
+}

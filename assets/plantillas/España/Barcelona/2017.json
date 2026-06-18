@@ -1,0 +1,957 @@
+{
+    "pais": "España",
+    "equipo": "Real Madrid",
+    "id_bdfutbol": "1",
+    "temporada": "2017-18",
+    "año_inicio": 2017,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j93292",
+                "nombre": "Ter Stegen",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 28
+            },
+            {
+                "id": "j300367",
+                "nombre": "Sergi Roberto",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 30,
+                "partidos_titular": 24,
+                "minutos": 2223,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9333",
+                "nombre": "Jordi Alba",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2741,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j944",
+                "nombre": "Piqué",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2632,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82259",
+                "nombre": "Umtiti",
+                "posicion": "central",
+                "partidos_jugados": 25,
+                "partidos_titular": 24,
+                "minutos": 2189,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8548",
+                "nombre": "Rakitić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 31,
+                "minutos": 2834,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6857",
+                "nombre": "Busquets",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 30,
+                "minutos": 2595,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j159",
+                "nombre": "Iniesta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 25,
+                "minutos": 1835,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1753",
+                "nombre": "Messi",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 32,
+                "minutos": 2998,
+                "goles_marcados": 34,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95495",
+                "nombre": "Luis Suárez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2899,
+                "goles_marcados": 26,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13765",
+                "nombre": "Coutinho",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 16,
+                "minutos": 1301,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20232",
+                "nombre": "Cillessen",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j91021",
+                "nombre": "Paulinho",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 21,
+                "minutos": 1943,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70073",
+                "nombre": "Semedo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 24,
+                "partidos_titular": 17,
+                "minutos": 1498,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84451",
+                "nombre": "Dembélé",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 12,
+                "minutos": 923,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95282",
+                "nombre": "Vermaelen",
+                "posicion": "central",
+                "partidos_jugados": 14,
+                "partidos_titular": 12,
+                "minutos": 1018,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300522",
+                "nombre": "Alcácer",
+                "posicion": "delantero centro",
+                "partidos_jugados": 17,
+                "partidos_titular": 8,
+                "minutos": 696,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18139",
+                "nombre": "André Gomes",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 6,
+                "minutos": 634,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100420",
+                "nombre": "Denis Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 4,
+                "minutos": 589,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82232",
+                "nombre": "Digne",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 12,
+                "partidos_titular": 8,
+                "minutos": 707,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12532",
+                "nombre": "Aleix Vidal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 15,
+                "partidos_titular": 4,
+                "minutos": 461,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8641",
+                "nombre": "Deulofeu",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 5,
+                "minutos": 502,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8550",
+                "nombre": "Mascherano",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 541,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20273",
+                "nombre": "Yerry Mina",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 371,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21154",
+                "nombre": "Arnaiz",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 5,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Supercopa (España)": [
+            {
+                "id": "j93292",
+                "nombre": "Ter Stegen",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j300367",
+                "nombre": "Sergi Roberto",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 113,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9333",
+                "nombre": "Jordi Alba",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 168,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j944",
+                "nombre": "Piqué",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 140,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82259",
+                "nombre": "Umtiti",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8548",
+                "nombre": "Rakitić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 173,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6857",
+                "nombre": "Busquets",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j159",
+                "nombre": "Iniesta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 67,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1753",
+                "nombre": "Messi",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95495",
+                "nombre": "Luis Suárez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70073",
+                "nombre": "Semedo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 40,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300522",
+                "nombre": "Alcácer",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 7,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18139",
+                "nombre": "André Gomes",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 72,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100420",
+                "nombre": "Denis Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 32,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82232",
+                "nombre": "Digne",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 12,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12532",
+                "nombre": "Aleix Vidal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8641",
+                "nombre": "Deulofeu",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 76,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8550",
+                "nombre": "Mascherano",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j93292",
+                "nombre": "Ter Stegen",
+                "posicion": "portero",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j300367",
+                "nombre": "Sergi Roberto",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 595,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9333",
+                "nombre": "Jordi Alba",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 638,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j944",
+                "nombre": "Piqué",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 736,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82259",
+                "nombre": "Umtiti",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8548",
+                "nombre": "Rakitić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 758,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6857",
+                "nombre": "Busquets",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 9,
+                "minutos": 768,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j159",
+                "nombre": "Iniesta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 624,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1753",
+                "nombre": "Messi",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 783,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95495",
+                "nombre": "Luis Suárez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 884,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20232",
+                "nombre": "Cillessen",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j91021",
+                "nombre": "Paulinho",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 4,
+                "minutos": 401,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70073",
+                "nombre": "Semedo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 625,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84451",
+                "nombre": "Dembélé",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 143,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95282",
+                "nombre": "Vermaelen",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300522",
+                "nombre": "Alcácer",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 95,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18139",
+                "nombre": "André Gomes",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 1,
+                "minutos": 171,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100420",
+                "nombre": "Denis Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 170,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82232",
+                "nombre": "Digne",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12532",
+                "nombre": "Aleix Vidal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 112,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8641",
+                "nombre": "Deulofeu",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 146,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8550",
+                "nombre": "Mascherano",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 134,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j300367",
+                "nombre": "Sergi Roberto",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 8,
+                "partidos_titular": 5,
+                "minutos": 506,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9333",
+                "nombre": "Jordi Alba",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j944",
+                "nombre": "Piqué",
+                "posicion": "central",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 635,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82259",
+                "nombre": "Umtiti",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8548",
+                "nombre": "Rakitić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 5,
+                "minutos": 496,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6857",
+                "nombre": "Busquets",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 614,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j159",
+                "nombre": "Iniesta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 351,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1753",
+                "nombre": "Messi",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 509,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95495",
+                "nombre": "Luis Suárez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 482,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13765",
+                "nombre": "Coutinho",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 180,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20232",
+                "nombre": "Cillessen",
+                "posicion": "portero",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j91021",
+                "nombre": "Paulinho",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 2,
+                "minutos": 218,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70073",
+                "nombre": "Semedo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 332,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84451",
+                "nombre": "Dembélé",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 59,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95282",
+                "nombre": "Vermaelen",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 404,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300522",
+                "nombre": "Alcácer",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 198,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18139",
+                "nombre": "André Gomes",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 317,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100420",
+                "nombre": "Denis Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 351,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82232",
+                "nombre": "Digne",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 352,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12532",
+                "nombre": "Aleix Vidal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 375,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8641",
+                "nombre": "Deulofeu",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 166,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8550",
+                "nombre": "Mascherano",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20273",
+                "nombre": "Yerry Mina",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 8,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21154",
+                "nombre": "Arnaiz",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 217,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j102339",
+                "nombre": "David Costas",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 33,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23198",
+                "nombre": "Aleñá",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 224,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24614",
+                "nombre": "Oriol Busquets",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 62,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8642",
+                "nombre": "Rafinha",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 13,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24432",
+                "nombre": "Cucurella",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 8,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

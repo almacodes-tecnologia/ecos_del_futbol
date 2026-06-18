@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Olympique Lyonnais"
+    },
+    "partidos": [
+        {
+            "id_partido": 721034,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Olympique Lyonnais",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

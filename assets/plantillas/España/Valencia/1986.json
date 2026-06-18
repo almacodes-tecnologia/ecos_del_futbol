@@ -1,0 +1,343 @@
+{
+    "pais": "España",
+    "equipo": "Valencia",
+    "id_bdfutbol": "36",
+    "temporada": "1986-87",
+    "año_inicio": 1986,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j1505",
+                "nombre": "Sempere",
+                "posicion": "portero",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2790,
+                "goles_marcados": 0,
+                "goles_encajados": 26
+            },
+            {
+                "id": "j692",
+                "nombre": "Quique",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 40,
+                "partidos_titular": 40,
+                "minutos": 3541,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2442",
+                "nombre": "Revert",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 43,
+                "partidos_titular": 43,
+                "minutos": 3863,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j755",
+                "nombre": "Giner",
+                "posicion": "central",
+                "partidos_jugados": 43,
+                "partidos_titular": 43,
+                "minutos": 3787,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2326",
+                "nombre": "Arias",
+                "posicion": "defensa",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 3018,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1995",
+                "nombre": "Bossio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 41,
+                "partidos_titular": 41,
+                "minutos": 3551,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2787",
+                "nombre": "Subirats",
+                "posicion": "centrocampista",
+                "partidos_jugados": 41,
+                "partidos_titular": 40,
+                "minutos": 3541,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j756",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 37,
+                "minutos": 3105,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j353",
+                "nombre": "Arroyo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2424,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j669",
+                "nombre": "Fenoll",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 22,
+                "minutos": 1725,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2207",
+                "nombre": "Alcañiz",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 18,
+                "minutos": 1624,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3165",
+                "nombre": "Serna",
+                "posicion": "portero",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 0,
+                "goles_encajados": 10
+            },
+            {
+                "id": "j2985",
+                "nombre": "Jon García",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 16,
+                "minutos": 1718,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2440",
+                "nombre": "Voro",
+                "posicion": "central",
+                "partidos_jugados": 29,
+                "partidos_titular": 15,
+                "minutos": 1710,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2786",
+                "nombre": "Ferrando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 15,
+                "minutos": 1525,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2912",
+                "nombre": "Sixto",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 16,
+                "minutos": 1430,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3135",
+                "nombre": "Muñoz Pérez",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 18,
+                "partidos_titular": 12,
+                "minutos": 1109,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3365",
+                "nombre": "Sánchez Torres",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 8,
+                "minutos": 901,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3164",
+                "nombre": "Montes",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 6,
+                "minutos": 583,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1658",
+                "nombre": "Juárez",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 1,
+                "minutos": 222,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2785",
+                "nombre": "Cotino",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 100,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j692",
+                "nombre": "Quique",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2442",
+                "nombre": "Revert",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j755",
+                "nombre": "Giner",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1995",
+                "nombre": "Bossio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j756",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2207",
+                "nombre": "Alcañiz",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 75,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3165",
+                "nombre": "Serna",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j2440",
+                "nombre": "Voro",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2786",
+                "nombre": "Ferrando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3365",
+                "nombre": "Sánchez Torres",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3164",
+                "nombre": "Montes",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1658",
+                "nombre": "Juárez",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

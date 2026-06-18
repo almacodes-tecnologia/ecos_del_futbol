@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Feyenoord",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 699938,
+            "ronda": "Final",
+            "local": "Feyenoord",
+            "visitante": "Ajax",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1997,
+    "temporada": "1997-98",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 720024,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 2,
+            "penaltis_visitante": 4
+        }
+    ]
+}

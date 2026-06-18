@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1994,
+    "temporada": "1994-95",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Blackburn Rovers"
+    },
+    "partidos": [
+        {
+            "id_partido": 720027,
+            "ronda": "Final",
+            "local": "Blackburn Rovers",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

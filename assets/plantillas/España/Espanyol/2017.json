@@ -1,0 +1,513 @@
+{
+    "pais": "España",
+    "equipo": "Espanyol",
+    "id_bdfutbol": "14",
+    "temporada": "2017-18",
+    "año_inicio": 2017,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j301805",
+                "nombre": "Pau López",
+                "posicion": "portero",
+                "partidos_jugados": 29,
+                "partidos_titular": 28,
+                "minutos": 2567,
+                "goles_marcados": 0,
+                "goles_encajados": 31
+            },
+            {
+                "id": "j4101",
+                "nombre": "Víctor Sánchez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2459,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23137",
+                "nombre": "Aarón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 32,
+                "partidos_titular": 31,
+                "minutos": 2816,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300554",
+                "nombre": "David López",
+                "posicion": "central",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20150",
+                "nombre": "Hermoso",
+                "posicion": "central",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1928,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15228",
+                "nombre": "Darder",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2785,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8492",
+                "nombre": "Piatti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 22,
+                "minutos": 1745,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1496",
+                "nombre": "Jurado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 20,
+                "minutos": 1507,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8675",
+                "nombre": "Gerard Moreno",
+                "posicion": "extremo",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3412,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101283",
+                "nombre": "Léo Baptistão",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 31,
+                "minutos": 2683,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2490",
+                "nombre": "Sergio García",
+                "posicion": "extremo",
+                "partidos_jugados": 33,
+                "partidos_titular": 14,
+                "minutos": 1630,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j576",
+                "nombre": "Diego López",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 853,
+                "goles_marcados": 0,
+                "goles_encajados": 11
+            },
+            {
+                "id": "j4128",
+                "nombre": "Granero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 11,
+                "minutos": 1228,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4138",
+                "nombre": "Javi Fuego",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1344,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23014",
+                "nombre": "Navarro",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 19,
+                "partidos_titular": 10,
+                "minutos": 1104,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12473",
+                "nombre": "Javi López",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 14,
+                "partidos_titular": 12,
+                "minutos": 966,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15232",
+                "nombre": "Carlos Sánchez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 13,
+                "minutos": 1123,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23317",
+                "nombre": "Melendo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 6,
+                "minutos": 685,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j97974",
+                "nombre": "Naldo",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 10,
+                "minutos": 920,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12471",
+                "nombre": "Dídac Vilà",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 14,
+                "partidos_titular": 7,
+                "minutos": 727,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20054",
+                "nombre": "Duarte",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23013",
+                "nombre": "Marc Roca",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 2,
+                "minutos": 263,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6238",
+                "nombre": "Diop",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 263,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12567",
+                "nombre": "Hernán Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 139,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2497",
+                "nombre": "Sergio Sánchez",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 102,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j301805",
+                "nombre": "Pau López",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j4101",
+                "nombre": "Víctor Sánchez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 265,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23137",
+                "nombre": "Aarón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 177,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300554",
+                "nombre": "David López",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20150",
+                "nombre": "Hermoso",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15228",
+                "nombre": "Darder",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 148,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8492",
+                "nombre": "Piatti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 65,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1496",
+                "nombre": "Jurado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 173,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8675",
+                "nombre": "Gerard Moreno",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 472,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101283",
+                "nombre": "Léo Baptistão",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 192,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2490",
+                "nombre": "Sergio García",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 212,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j576",
+                "nombre": "Diego López",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j4128",
+                "nombre": "Granero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 484,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4138",
+                "nombre": "Javi Fuego",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 254,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23014",
+                "nombre": "Navarro",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 366,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12473",
+                "nombre": "Javi López",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23317",
+                "nombre": "Melendo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 163,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j97974",
+                "nombre": "Naldo",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12471",
+                "nombre": "Dídac Vilà",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 375,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20054",
+                "nombre": "Duarte",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 166,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23013",
+                "nombre": "Marc Roca",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6238",
+                "nombre": "Diop",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 145,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12567",
+                "nombre": "Hernán Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 68,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2497",
+                "nombre": "Sergio Sánchez",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300472",
+                "nombre": "Álvaro Vázquez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 145,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

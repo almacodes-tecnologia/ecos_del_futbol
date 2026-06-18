@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Anderlecht"
+    },
+    "partidos": [
+        {
+            "id_partido": 721126,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Brugge",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 6
+        }
+    ]
+}

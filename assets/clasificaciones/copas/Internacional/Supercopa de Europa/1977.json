@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1977,
+    "temporada": "1977-78",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Hamburger"
+    },
+    "partidos": [
+        {
+            "id_partido": 440002,
+            "ronda": "Final - Ida",
+            "local": "Hamburger",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440003,
+            "ronda": "Final - Vuelta",
+            "local": "Liverpool",
+            "visitante": "Hamburger",
+            "goles_local": "6",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

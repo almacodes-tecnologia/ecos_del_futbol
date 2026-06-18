@@ -1,0 +1,89 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa de Ferias",
+    "año_inicio": 1955,
+    "temporada": "1955-56",
+    "cuadro_honor": {
+        "campeon": "London Select",
+        "subcampeon": "Lausanne"
+    },
+    "partidos": [
+        {
+            "id_partido": 470300,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Birmingham",
+            "visitante": "Barcelona",
+            "goles_local": "4",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470301,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Birmingham",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470302,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Birmingham",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470303,
+            "ronda": "Semifinal - Ida",
+            "local": "London Select",
+            "visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 470304,
+            "ronda": "Semifinal - Vuelta",
+            "local": "London Select",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "6",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 472106,
+            "ronda": "Final - Ida",
+            "local": "Lausanne",
+            "visitante": "London Select",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 472108,
+            "ronda": "Final - Vuelta",
+            "local": "Lausanne",
+            "visitante": "London Select",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

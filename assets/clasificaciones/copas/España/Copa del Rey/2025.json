@@ -1,0 +1,199 @@
+{
+    "pais": "España",
+    "copa": "Copa del Rey",
+    "año_inicio": 2025,
+    "temporada": "2025-26",
+    "cuadro_honor": {
+        "campeon": "Real Sociedad",
+        "subcampeon": "Atlético de Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 505571,
+            "ronda": "Octavos de Final",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505572,
+            "ronda": "Octavos de Final",
+            "local": "Cultural Leonesa",
+            "visitante": "Athletic Club",
+            "goles_local": "3",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505573,
+            "ronda": "Octavos de Final",
+            "local": "Real Sociedad",
+            "visitante": "Osasuna",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505574,
+            "ronda": "Octavos de Final",
+            "local": "Albacete",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505575,
+            "ronda": "Cuartos de Final",
+            "local": "Betis",
+            "visitante": "Elche",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505576,
+            "ronda": "Cuartos de Final",
+            "local": "Alavés",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505577,
+            "ronda": "Cuartos de Final",
+            "local": "Burgos CF",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505578,
+            "ronda": "Cuartos de Final",
+            "local": "Racing de Santander",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505580,
+            "ronda": "Cuartos de Final",
+            "local": "Albacete",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505581,
+            "ronda": "Cuartos de Final",
+            "local": "Alavés",
+            "visitante": "Real Sociedad",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505582,
+            "ronda": "Cuartos de Final",
+            "local": "Valencia",
+            "visitante": "Athletic Club",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505583,
+            "ronda": "Cuartos de Final",
+            "local": "Betis",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505584,
+            "ronda": "Semifinal - Ida",
+            "local": "Athletic Club",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505585,
+            "ronda": "Semifinal - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505586,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505587,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Athletic Club",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505588,
+            "ronda": "Final",
+            "local": "Atlético de Madrid",
+            "visitante": "Real Sociedad",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

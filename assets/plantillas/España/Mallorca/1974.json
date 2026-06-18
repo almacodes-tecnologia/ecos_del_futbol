@@ -1,0 +1,453 @@
+{
+    "pais": "España",
+    "equipo": "Mallorca",
+    "id_bdfutbol": "24",
+    "temporada": "1974-75",
+    "año_inicio": 1974,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j4007",
+                "nombre": "Campos",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 56
+            },
+            {
+                "id": "j8342",
+                "nombre": "Mariano",
+                "posicion": "defensa",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3189,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8328",
+                "nombre": "Taberner",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1814,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8353",
+                "nombre": "Sans",
+                "posicion": "defensa",
+                "partidos_jugados": 21,
+                "partidos_titular": 20,
+                "minutos": 1792,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5885",
+                "nombre": "Frígols",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 34,
+                "minutos": 3073,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5754",
+                "nombre": "Almagro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 27,
+                "minutos": 2288,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5886",
+                "nombre": "Jenaro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 21,
+                "minutos": 1972,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5266",
+                "nombre": "Urruchurtu",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3101,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13818",
+                "nombre": "Urquía",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2743,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5872",
+                "nombre": "Platas",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 24,
+                "minutos": 2105,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5889",
+                "nombre": "Nebot",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 24,
+                "minutos": 2053,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13344",
+                "nombre": "Tinín",
+                "posicion": "extremo",
+                "partidos_jugados": 34,
+                "partidos_titular": 17,
+                "minutos": 1911,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5887",
+                "nombre": "Macario",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 21,
+                "minutos": 1830,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13346",
+                "nombre": "Jiménez",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1399,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12906",
+                "nombre": "Bartolí",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 13,
+                "minutos": 1258,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13364",
+                "nombre": "Garau",
+                "posicion": "defensa",
+                "partidos_jugados": 13,
+                "partidos_titular": 9,
+                "minutos": 922,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6006",
+                "nombre": "Niz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 12,
+                "partidos_titular": 9,
+                "minutos": 808,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15035",
+                "nombre": "Sahuquillo",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13363",
+                "nombre": "Matamoros",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 510,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5195",
+                "nombre": "Mansilla",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 526,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13853",
+                "nombre": "Filipo",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 1,
+                "minutos": 191,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13345",
+                "nombre": "Cladera",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 49,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13385",
+                "nombre": "Marcos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 54,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j4007",
+                "nombre": "Campos",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j8342",
+                "nombre": "Mariano",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 344,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8328",
+                "nombre": "Taberner",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8353",
+                "nombre": "Sans",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 164,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5885",
+                "nombre": "Frígols",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 213,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5754",
+                "nombre": "Almagro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5886",
+                "nombre": "Jenaro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5266",
+                "nombre": "Urruchurtu",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5872",
+                "nombre": "Platas",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 344,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5889",
+                "nombre": "Nebot",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 380,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13344",
+                "nombre": "Tinín",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 256,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5887",
+                "nombre": "Macario",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 187,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13346",
+                "nombre": "Jiménez",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12906",
+                "nombre": "Bartolí",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5882",
+                "nombre": "Chicharro",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6006",
+                "nombre": "Niz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15035",
+                "nombre": "Sahuquillo",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13853",
+                "nombre": "Filipo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13345",
+                "nombre": "Cladera",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13385",
+                "nombre": "Marcos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5934",
+                "nombre": "Martín",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

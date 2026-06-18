@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "Zenit",
+        "subcampeon": "Krasnodar"
+    },
+    "partidos": [
+        {
+            "id_partido": 736480,
+            "ronda": "Final",
+            "local": "Zenit",
+            "visitante": "Krasnodar",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

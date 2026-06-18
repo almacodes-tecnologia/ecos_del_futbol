@@ -1,0 +1,585 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "1972-73",
+    "año_inicio": 1972,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j3659",
+                "nombre": "García Remón",
+                "posicion": "portero",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2336,
+                "goles_marcados": 0,
+                "goles_encajados": 20
+            },
+            {
+                "id": "j5462",
+                "nombre": "José Luis",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 28,
+                "partidos_titular": 27,
+                "minutos": 2372,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5464",
+                "nombre": "Touriño",
+                "posicion": "defensa",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2307,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3883",
+                "nombre": "Benito",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2539,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3730",
+                "nombre": "Verdugo",
+                "posicion": "defensa",
+                "partidos_jugados": 23,
+                "partidos_titular": 18,
+                "minutos": 1696,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5125",
+                "nombre": "Pirri",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2661,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5780",
+                "nombre": "Zoco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2611,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5388",
+                "nombre": "Velázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 28,
+                "minutos": 2486,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3137",
+                "nombre": "Santillana",
+                "posicion": "delantero centro",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2518,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5459",
+                "nombre": "Amancio",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2113,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3977",
+                "nombre": "Aguilar",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 24,
+                "minutos": 2273,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3533",
+                "nombre": "Miguel Ángel",
+                "posicion": "portero",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 684,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j5437",
+                "nombre": "Grande",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 20,
+                "minutos": 1871,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5461",
+                "nombre": "Grosso",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 15,
+                "minutos": 1277,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5460",
+                "nombre": "Andrés",
+                "posicion": "defensa",
+                "partidos_jugados": 13,
+                "partidos_titular": 7,
+                "minutos": 707,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5744",
+                "nombre": "González",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 8,
+                "minutos": 742,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5372",
+                "nombre": "Junquera",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 40,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5117",
+                "nombre": "Anzarda",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 9,
+                "minutos": 827,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5089",
+                "nombre": "Macanás",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 637,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3728",
+                "nombre": "Marañón",
+                "posicion": "delantero centro",
+                "partidos_jugados": 9,
+                "partidos_titular": 4,
+                "minutos": 525,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5103",
+                "nombre": "Fermín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 2,
+                "minutos": 264,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5894",
+                "nombre": "Fernández",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 111,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j3659",
+                "nombre": "García Remón",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j5462",
+                "nombre": "José Luis",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5464",
+                "nombre": "Touriño",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 429,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3883",
+                "nombre": "Benito",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3730",
+                "nombre": "Verdugo",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 301,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5125",
+                "nombre": "Pirri",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 628,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5780",
+                "nombre": "Zoco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5388",
+                "nombre": "Velázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 660,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3137",
+                "nombre": "Santillana",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5459",
+                "nombre": "Amancio",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 564,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3977",
+                "nombre": "Aguilar",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 475,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3533",
+                "nombre": "Miguel Ángel",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5437",
+                "nombre": "Grande",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5461",
+                "nombre": "Grosso",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5460",
+                "nombre": "Andrés",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 204,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5744",
+                "nombre": "González",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 65,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5117",
+                "nombre": "Anzarda",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5089",
+                "nombre": "Macanás",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3728",
+                "nombre": "Marañón",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 95,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5894",
+                "nombre": "Fernández",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j3659",
+                "nombre": "García Remón",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j5464",
+                "nombre": "Touriño",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3883",
+                "nombre": "Benito",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3730",
+                "nombre": "Verdugo",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5125",
+                "nombre": "Pirri",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5780",
+                "nombre": "Zoco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5388",
+                "nombre": "Velázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5459",
+                "nombre": "Amancio",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3977",
+                "nombre": "Aguilar",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 164,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5437",
+                "nombre": "Grande",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 16,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5461",
+                "nombre": "Grosso",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 156,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5460",
+                "nombre": "Andrés",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5744",
+                "nombre": "González",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3728",
+                "nombre": "Marañón",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 150,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5103",
+                "nombre": "Fermín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 24,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

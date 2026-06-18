@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "San Lorenzo",
+        "subcampeon": "Auckland City"
+    },
+    "partidos": [
+        {
+            "id_partido": 430091,
+            "ronda": "Semifinal",
+            "local": "Cruz Azul",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430092,
+            "ronda": "Semifinal",
+            "local": "Real Madrid",
+            "visitante": "San Lorenzo",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430209,
+            "ronda": "Semifinal",
+            "local": "Sétif",
+            "visitante": "Auckland City",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430210,
+            "ronda": "Semifinal",
+            "local": "Cruz Azul",
+            "visitante": "Sydney Wanderers",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430211,
+            "ronda": "Final",
+            "local": "San Lorenzo",
+            "visitante": "Auckland City",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

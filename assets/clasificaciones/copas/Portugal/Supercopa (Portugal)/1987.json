@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1987,
+    "temporada": "1987-88",
+    "cuadro_honor": {
+        "campeon": "Sporting de Portugal",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 720064,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720065,
+            "ronda": "Final - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Benfica",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

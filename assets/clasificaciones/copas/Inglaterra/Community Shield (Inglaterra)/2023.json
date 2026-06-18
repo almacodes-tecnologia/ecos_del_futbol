@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Arsenal",
+        "subcampeon": "Manchester City"
+    },
+    "partidos": [
+        {
+            "id_partido": 720038,
+            "ronda": "Final",
+            "local": "Arsenal",
+            "visitante": "Manchester City",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 1
+        }
+    ]
+}

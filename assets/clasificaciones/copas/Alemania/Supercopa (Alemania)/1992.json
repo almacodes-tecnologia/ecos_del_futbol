@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 1992,
+    "temporada": "1992-93",
+    "cuadro_honor": {
+        "campeon": "Stuttgart",
+        "subcampeon": "Hannover 96"
+    },
+    "partidos": [
+        {
+            "id_partido": 721109,
+            "ronda": "Final",
+            "local": "Hannover 96",
+            "visitante": "Stuttgart",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2004,
+    "temporada": "2004-05",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Anderlecht"
+    },
+    "partidos": [
+        {
+            "id_partido": 721099,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Brugge",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

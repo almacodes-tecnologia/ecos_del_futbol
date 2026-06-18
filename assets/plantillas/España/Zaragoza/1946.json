@@ -1,0 +1,363 @@
+{
+    "pais": "España",
+    "equipo": "Zaragoza",
+    "id_bdfutbol": "39",
+    "temporada": "1946-47",
+    "año_inicio": 1946,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j19613",
+                "nombre": "Calvo",
+                "posicion": "portero",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1376,
+                "goles_marcados": 0,
+                "goles_encajados": 25
+            },
+            {
+                "id": "j10326",
+                "nombre": "Bernabé",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10138",
+                "nombre": "Azcárate",
+                "posicion": "defensa",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10422",
+                "nombre": "Castillo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 2070,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10146",
+                "nombre": "Navarrete",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 2070,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10963",
+                "nombre": "Soladrero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1870,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10966",
+                "nombre": "Víctor Bueno",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j10811",
+                "nombre": "Viso",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10004",
+                "nombre": "Mariano",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 15,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10739",
+                "nombre": "Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10629",
+                "nombre": "Galobart",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11275",
+                "nombre": "Orencio",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 0,
+                "goles_encajados": 19
+            },
+            {
+                "id": "j10956",
+                "nombre": "Matamala",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10738",
+                "nombre": "Llona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10954",
+                "nombre": "Aldana",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19686",
+                "nombre": "Aráiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17599",
+                "nombre": "Hernández",
+                "posicion": "defensa",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18643",
+                "nombre": "Mesita",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10001",
+                "nombre": "Fustero",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18507",
+                "nombre": "Solanas",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 507,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18641",
+                "nombre": "Solsona",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 404,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10957",
+                "nombre": "Narro",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18680",
+                "nombre": "Paquito",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j19613",
+                "nombre": "Calvo",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j10326",
+                "nombre": "Bernabé",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10422",
+                "nombre": "Castillo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10146",
+                "nombre": "Navarrete",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10963",
+                "nombre": "Soladrero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10966",
+                "nombre": "Víctor Bueno",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10004",
+                "nombre": "Mariano",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10739",
+                "nombre": "Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10738",
+                "nombre": "Llona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10954",
+                "nombre": "Aldana",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19686",
+                "nombre": "Aráiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18680",
+                "nombre": "Paquito",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Inter"
+    },
+    "partidos": [
+        {
+            "id_partido": 629963,
+            "ronda": "Semifinal",
+            "local": "Inter",
+            "visitante": "Atalanta",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 629964,
+            "ronda": "Semifinal",
+            "local": "Juventus",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 629965,
+            "ronda": "Final",
+            "local": "Inter",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

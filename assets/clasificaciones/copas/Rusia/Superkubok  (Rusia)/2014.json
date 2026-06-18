@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "CSKA Moskva",
+        "subcampeon": "Rostov"
+    },
+    "partidos": [
+        {
+            "id_partido": 736490,
+            "ronda": "Final",
+            "local": "CSKA Moskva",
+            "visitante": "Rostov",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

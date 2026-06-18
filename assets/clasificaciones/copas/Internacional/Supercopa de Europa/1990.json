@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1990,
+    "temporada": "1990-91",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Sampdoria"
+    },
+    "partidos": [
+        {
+            "id_partido": 440032,
+            "ronda": "Final - Ida",
+            "local": "Sampdoria",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440033,
+            "ronda": "Final - Vuelta",
+            "local": "Milan",
+            "visitante": "Sampdoria",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

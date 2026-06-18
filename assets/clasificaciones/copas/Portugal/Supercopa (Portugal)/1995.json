@@ -1,0 +1,45 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Sporting de Portugal",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 490348,
+            "ronda": "Final - Ida",
+            "local": "Sporting de Portugal",
+            "visitante": "Porto",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490349,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490350,
+            "ronda": "Final - Desempate",
+            "local": "Porto",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

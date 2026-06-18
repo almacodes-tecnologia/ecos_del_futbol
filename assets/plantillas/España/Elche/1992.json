@@ -1,0 +1,595 @@
+{
+    "pais": "España",
+    "equipo": "Elche",
+    "id_bdfutbol": "42",
+    "temporada": "1992-93",
+    "año_inicio": 1992,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j2904",
+                "nombre": "Miguel Recio",
+                "posicion": "portero",
+                "partidos_jugados": 36,
+                "partidos_titular": 35,
+                "minutos": 3139,
+                "goles_marcados": 0,
+                "goles_encajados": 32
+            },
+            {
+                "id": "j311",
+                "nombre": "Benito Sánchez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3096,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1509",
+                "nombre": "Torres",
+                "posicion": "defensa",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 2880,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9108",
+                "nombre": "Adolfo",
+                "posicion": "central",
+                "partidos_jugados": 31,
+                "partidos_titular": 30,
+                "minutos": 2595,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9042",
+                "nombre": "Pariente",
+                "posicion": "defensa",
+                "partidos_jugados": 33,
+                "partidos_titular": 31,
+                "minutos": 2786,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1500",
+                "nombre": "Mejías",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2851,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7161",
+                "nombre": "Balaguer",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 24,
+                "minutos": 2131,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9144",
+                "nombre": "Capón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 23,
+                "minutos": 2097,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2744",
+                "nombre": "Salvador Mejías",
+                "posicion": "delantero centro",
+                "partidos_jugados": 32,
+                "partidos_titular": 27,
+                "minutos": 2216,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3424",
+                "nombre": "Boria",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 27,
+                "minutos": 2344,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9225",
+                "nombre": "Jesús",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 19,
+                "minutos": 1679,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j418",
+                "nombre": "César",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 281,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j2582",
+                "nombre": "Mir",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 18,
+                "minutos": 1785,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2974",
+                "nombre": "Marcelino",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 18,
+                "minutos": 1646,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402800",
+                "nombre": "Fidel",
+                "posicion": "defensa",
+                "partidos_jugados": 14,
+                "partidos_titular": 11,
+                "minutos": 1083,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1370",
+                "nombre": "Ocio",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 11,
+                "minutos": 1003,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j302899",
+                "nombre": "Jala",
+                "posicion": "defensa",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 880,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j133",
+                "nombre": "Sánchez Pose",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 9,
+                "minutos": 647,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j302095",
+                "nombre": "Riquelme",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 2,
+                "minutos": 366,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2919",
+                "nombre": "Tino",
+                "posicion": "defensa",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 588,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6890",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 2,
+                "minutos": 301,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9226",
+                "nombre": "José Ramón II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 2,
+                "minutos": 207,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1283",
+                "nombre": "Joaquín Villa",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 338,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12275",
+                "nombre": "Pastor",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR2)": [
+            {
+                "id": "j2904",
+                "nombre": "Miguel Recio",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 539,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j311",
+                "nombre": "Benito Sánchez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 434,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1509",
+                "nombre": "Torres",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9108",
+                "nombre": "Adolfo",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9042",
+                "nombre": "Pariente",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1500",
+                "nombre": "Mejías",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7161",
+                "nombre": "Balaguer",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 58,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9144",
+                "nombre": "Capón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2744",
+                "nombre": "Salvador Mejías",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 187,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3424",
+                "nombre": "Boria",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 113,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9225",
+                "nombre": "Jesús",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 53,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2582",
+                "nombre": "Mir",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 352,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2974",
+                "nombre": "Marcelino",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402800",
+                "nombre": "Fidel",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 140,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1370",
+                "nombre": "Ocio",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 247,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j302899",
+                "nombre": "Jala",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 269,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1283",
+                "nombre": "Joaquín Villa",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 521,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j2904",
+                "nombre": "Miguel Recio",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j311",
+                "nombre": "Benito Sánchez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1509",
+                "nombre": "Torres",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9108",
+                "nombre": "Adolfo",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 335,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9042",
+                "nombre": "Pariente",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 208,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1500",
+                "nombre": "Mejías",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7161",
+                "nombre": "Balaguer",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9144",
+                "nombre": "Capón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2744",
+                "nombre": "Salvador Mejías",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 121,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3424",
+                "nombre": "Boria",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9225",
+                "nombre": "Jesús",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 255,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j418",
+                "nombre": "César",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2582",
+                "nombre": "Mir",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 105,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j133",
+                "nombre": "Sánchez Pose",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 152,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j302095",
+                "nombre": "Riquelme",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 246,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2919",
+                "nombre": "Tino",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6890",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 218,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

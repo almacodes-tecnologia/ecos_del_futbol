@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "Benfica",
+        "subcampeon": "Sporting de Portugal"
+    },
+    "partidos": [
+        {
+            "id_partido": 490385,
+            "ronda": "Final",
+            "local": "Benfica",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "5",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

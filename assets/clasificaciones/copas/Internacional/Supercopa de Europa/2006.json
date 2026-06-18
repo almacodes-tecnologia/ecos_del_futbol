@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2006,
+    "temporada": "2006-07",
+    "cuadro_honor": {
+        "campeon": "Sevilla",
+        "subcampeon": "Barcelona"
+    },
+    "partidos": [
+        {
+            "id_partido": 440492,
+            "ronda": "Final",
+            "local": "Sevilla",
+            "visitante": "Barcelona",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "São Paulo",
+        "subcampeon": "Al-Ittihad"
+    },
+    "partidos": [
+        {
+            "id_partido": 430065,
+            "ronda": "Semifinal",
+            "local": "Saprissa",
+            "visitante": "Liverpool",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430066,
+            "ronda": "Semifinal",
+            "local": "São Paulo",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430157,
+            "ronda": "Semifinal",
+            "local": "Al-Ittihad",
+            "visitante": "Al Ahly",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430158,
+            "ronda": "Semifinal",
+            "local": "Sydney",
+            "visitante": "Saprissa",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430159,
+            "ronda": "Final",
+            "local": "Al-Ittihad",
+            "visitante": "São Paulo",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

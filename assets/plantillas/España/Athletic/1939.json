@@ -1,0 +1,313 @@
+{
+    "pais": "España",
+    "equipo": "Athletic",
+    "id_bdfutbol": "6",
+    "temporada": "1939-40",
+    "año_inicio": 1939,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j10932",
+                "nombre": "Echevarría",
+                "posicion": "portero",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 16
+            },
+            {
+                "id": "j10934",
+                "nombre": "Viar",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1615,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10531",
+                "nombre": "Oceja",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10441",
+                "nombre": "Urra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1424,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10377",
+                "nombre": "Bertol",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1350,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10668",
+                "nombre": "Ortúzar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10681",
+                "nombre": "Gárate",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10762",
+                "nombre": "Gorostiza",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9911",
+                "nombre": "Panizo",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11020",
+                "nombre": "Unamuno",
+                "posicion": "delantero centro",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 19,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10634",
+                "nombre": "Elices",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10851",
+                "nombre": "Barrie",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 0,
+                "goles_encajados": 25
+            },
+            {
+                "id": "j10773",
+                "nombre": "Arqueta",
+                "posicion": "defensa",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1060,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10943",
+                "nombre": "Zabala",
+                "posicion": "defensa",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10136",
+                "nombre": "Macala",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11225",
+                "nombre": "De la Campa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10508",
+                "nombre": "Llorente",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j10921",
+                "nombre": "Unamuno",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j10932",
+                "nombre": "Echevarría",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j10531",
+                "nombre": "Oceja",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10441",
+                "nombre": "Urra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10377",
+                "nombre": "Bertol",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10668",
+                "nombre": "Ortúzar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10681",
+                "nombre": "Gárate",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10762",
+                "nombre": "Gorostiza",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9911",
+                "nombre": "Panizo",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11020",
+                "nombre": "Unamuno",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10634",
+                "nombre": "Elices",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10773",
+                "nombre": "Arqueta",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10943",
+                "nombre": "Zabala",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

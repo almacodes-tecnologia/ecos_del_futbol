@@ -1,0 +1,56 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1984,
+    "temporada": "1984-85",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 720070,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720071,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720072,
+            "ronda": "Final - Desempate",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720073,
+            "ronda": "Final - Desempate",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Borussia Dortmund"
+    },
+    "partidos": [
+        {
+            "id_partido": 721007,
+            "ronda": "Final",
+            "local": "Borussia Dortmund",
+            "visitante": "Bayern München",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 5
+        }
+    ]
+}

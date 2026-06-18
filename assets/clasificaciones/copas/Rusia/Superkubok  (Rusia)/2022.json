@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Zenit",
+        "subcampeon": "Spartak Moskva"
+    },
+    "partidos": [
+        {
+            "id_partido": 736482,
+            "ronda": "Final",
+            "local": "Zenit",
+            "visitante": "Spartak Moskva",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

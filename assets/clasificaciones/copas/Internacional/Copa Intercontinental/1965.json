@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1965,
+    "temporada": "1965-66",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Independiente"
+    },
+    "partidos": [
+        {
+            "id_partido": 430121,
+            "ronda": "Final - Ida",
+            "local": "Inter",
+            "visitante": "Independiente",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430122,
+            "ronda": "Final - Vuelta",
+            "local": "Independiente",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

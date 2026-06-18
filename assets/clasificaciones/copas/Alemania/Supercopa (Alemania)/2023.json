@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "RB Leipzig",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 721075,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "RB Leipzig",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

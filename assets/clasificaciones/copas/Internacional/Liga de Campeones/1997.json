@@ -1,0 +1,155 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1997,
+    "temporada": "1997-98",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Monaco"
+    },
+    "partidos": [
+        {
+            "id_partido": 400524,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Bayer Leverkusen",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400525,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Bayer Leverkusen",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400526,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400527,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400528,
+            "ronda": "Cuartos de Final",
+            "local": "Juventus",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408101,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Juventus",
+            "visitante": "Dynamo Kyiv",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408102,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Bayern München",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408103,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Monaco",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408104,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Juventus",
+            "visitante": "Dynamo Kyiv",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408105,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Bayern München",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408106,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Monaco",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408107,
+            "ronda": "Final - Ida",
+            "local": "Juventus",
+            "visitante": "Monaco",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408108,
+            "ronda": "Final - Vuelta",
+            "local": "Juventus",
+            "visitante": "Monaco",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

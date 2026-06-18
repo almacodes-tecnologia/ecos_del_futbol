@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Leicester",
+        "subcampeon": "Manchester City"
+    },
+    "partidos": [
+        {
+            "id_partido": 720011,
+            "ronda": "Final",
+            "local": "Leicester",
+            "visitante": "Manchester City",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

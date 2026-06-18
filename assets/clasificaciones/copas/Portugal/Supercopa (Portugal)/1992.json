@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1992,
+    "temporada": "1992-93",
+    "cuadro_honor": {
+        "campeon": "Boavista",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 490340,
+            "ronda": "Final - Ida",
+            "local": "Porto",
+            "visitante": "Boavista",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490341,
+            "ronda": "Final - Vuelta",
+            "local": "Boavista",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

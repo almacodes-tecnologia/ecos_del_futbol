@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "Arsenal",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 720018,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Arsenal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 4
+        }
+    ]
+}

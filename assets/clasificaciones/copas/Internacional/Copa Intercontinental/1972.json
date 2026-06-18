@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1972,
+    "temporada": "1972-73",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "Independiente"
+    },
+    "partidos": [
+        {
+            "id_partido": 430134,
+            "ronda": "Final - Ida",
+            "local": "Independiente",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430135,
+            "ronda": "Final - Vuelta",
+            "local": "Ajax",
+            "visitante": "Independiente",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

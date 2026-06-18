@@ -1,0 +1,333 @@
+{
+    "pais": "España",
+    "equipo": "Sevilla",
+    "id_bdfutbol": "33",
+    "temporada": "1946-47",
+    "año_inicio": 1946,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j9701",
+                "nombre": "Busto",
+                "posicion": "portero",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 0,
+                "goles_encajados": 38
+            },
+            {
+                "id": "j10513",
+                "nombre": "Belmonte",
+                "posicion": "defensa",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10445",
+                "nombre": "Joaquín",
+                "posicion": "defensa",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10222",
+                "nombre": "Alconero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8408",
+                "nombre": "Eguiluz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10155",
+                "nombre": "Herrera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9892",
+                "nombre": "Araujo",
+                "posicion": "delantero centro",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 21,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10585",
+                "nombre": "López",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7469",
+                "nombre": "Arza",
+                "posicion": "delantero centro",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9702",
+                "nombre": "Doménech",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10154",
+                "nombre": "Campos",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9680",
+                "nombre": "Manolín",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 8
+            },
+            {
+                "id": "j10665",
+                "nombre": "Félix",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10663",
+                "nombre": "Barnet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10666",
+                "nombre": "Lucas",
+                "posicion": "defensa",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10089",
+                "nombre": "Antúnez",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10664",
+                "nombre": "Calderón",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j8178",
+                "nombre": "Guillamón",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j9701",
+                "nombre": "Busto",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j10513",
+                "nombre": "Belmonte",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10445",
+                "nombre": "Joaquín",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10222",
+                "nombre": "Alconero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8408",
+                "nombre": "Eguiluz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10155",
+                "nombre": "Herrera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9892",
+                "nombre": "Araujo",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7469",
+                "nombre": "Arza",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9702",
+                "nombre": "Doménech",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10154",
+                "nombre": "Campos",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10089",
+                "nombre": "Antúnez",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8178",
+                "nombre": "Guillamón",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8406",
+                "nombre": "Villalonga",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10442",
+                "nombre": "Clemente",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

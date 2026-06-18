@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1969,
+    "temporada": "1969-70",
+    "cuadro_honor": {
+        "campeon": "Leeds",
+        "subcampeon": "Manchester City"
+    },
+    "partidos": [
+        {
+            "id_partido": 720098,
+            "ronda": "Final",
+            "local": "Leeds",
+            "visitante": "Manchester City",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

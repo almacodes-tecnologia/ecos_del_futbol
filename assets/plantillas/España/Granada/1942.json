@@ -1,0 +1,495 @@
+{
+    "pais": "España",
+    "equipo": "Granada",
+    "id_bdfutbol": "59",
+    "temporada": "1942-43",
+    "año_inicio": 1942,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j10336",
+                "nombre": "Martí",
+                "posicion": "portero",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 0,
+                "goles_encajados": 30
+            },
+            {
+                "id": "j9781",
+                "nombre": "Millán",
+                "posicion": "defensa",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10204",
+                "nombre": "González",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j10342",
+                "nombre": "Sierra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10870",
+                "nombre": "Tinín Conde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10945",
+                "nombre": "Bonet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10802",
+                "nombre": "Trompi",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10795",
+                "nombre": "Marín",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10711",
+                "nombre": "Nicolá",
+                "posicion": "extremo",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 2070,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10874",
+                "nombre": "Leal",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1350,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10801",
+                "nombre": "Sosa",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10951",
+                "nombre": "Pérez",
+                "posicion": "portero",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 25
+            },
+            {
+                "id": "j10796",
+                "nombre": "Mas",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10790",
+                "nombre": "Aparicio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10944",
+                "nombre": "Alejandro",
+                "posicion": "defensa",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10948",
+                "nombre": "Maside",
+                "posicion": "defensa",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10791",
+                "nombre": "Floro",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 420,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j10806",
+                "nombre": "Neira",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10952",
+                "nombre": "Rubio",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10953",
+                "nombre": "Uría",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 145,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10950",
+                "nombre": "Morenito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10949",
+                "nombre": "Múgica",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10946",
+                "nombre": "Camoto",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10947",
+                "nombre": "Gárate",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j9781",
+                "nombre": "Millán",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10204",
+                "nombre": "González",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10342",
+                "nombre": "Sierra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10870",
+                "nombre": "Tinín Conde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10945",
+                "nombre": "Bonet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10802",
+                "nombre": "Trompi",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10795",
+                "nombre": "Marín",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10711",
+                "nombre": "Nicolá",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10801",
+                "nombre": "Sosa",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10951",
+                "nombre": "Pérez",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10790",
+                "nombre": "Aparicio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j9781",
+                "nombre": "Millán",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10204",
+                "nombre": "González",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10342",
+                "nombre": "Sierra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10870",
+                "nombre": "Tinín Conde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10945",
+                "nombre": "Bonet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10802",
+                "nombre": "Trompi",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10795",
+                "nombre": "Marín",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10711",
+                "nombre": "Nicolá",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10801",
+                "nombre": "Sosa",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10951",
+                "nombre": "Pérez",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j10790",
+                "nombre": "Aparicio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10791",
+                "nombre": "Floro",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10806",
+                "nombre": "Neira",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

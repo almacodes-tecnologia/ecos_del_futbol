@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 1996,
+    "temporada": "1996-97",
+    "cuadro_honor": {
+        "campeon": "Borussia Dortmund",
+        "subcampeon": "Kaiserslautern"
+    },
+    "partidos": [
+        {
+            "id_partido": 721105,
+            "ronda": "Final",
+            "local": "Kaiserslautern",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 4
+        }
+    ]
+}

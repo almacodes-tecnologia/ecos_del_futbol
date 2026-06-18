@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 1985,
+    "temporada": "1985-86",
+    "cuadro_honor": {
+        "campeon": "Monaco",
+        "subcampeon": "Girondins de Bordeaux"
+    },
+    "partidos": [
+        {
+            "id_partido": 720082,
+            "ronda": "Final",
+            "local": "Girondins de Bordeaux",
+            "visitante": "Monaco",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 7,
+            "penaltis_visitante": 8
+        }
+    ]
+}

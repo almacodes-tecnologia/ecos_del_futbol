@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 440486,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Kaiserslautern",
+        "subcampeon": "Werder Bremen"
+    },
+    "partidos": [
+        {
+            "id_partido": 721110,
+            "ronda": "Semifinal",
+            "local": "Hansa Rostock",
+            "visitante": "Kaiserslautern",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 721111,
+            "ronda": "Semifinal",
+            "local": "Eisenhüttenstädter Stahl",
+            "visitante": "Werder Bremen",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 721112,
+            "ronda": "Final",
+            "local": "Kaiserslautern",
+            "visitante": "Werder Bremen",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

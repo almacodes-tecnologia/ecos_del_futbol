@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2008,
+    "temporada": "2008-09",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Roma"
+    },
+    "partidos": [
+        {
+            "id_partido": 490321,
+            "ronda": "Final",
+            "local": "Inter",
+            "visitante": "Roma",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 6,
+            "penaltis_visitante": 5
+        }
+    ]
+}

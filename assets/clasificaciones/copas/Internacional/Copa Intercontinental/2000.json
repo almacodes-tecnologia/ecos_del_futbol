@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Boca Juniors",
+        "subcampeon": "Real Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 430050,
+            "ronda": "Final",
+            "local": "Boca Juniors",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

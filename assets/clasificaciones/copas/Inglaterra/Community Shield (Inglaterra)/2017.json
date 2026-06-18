@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Arsenal",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 720007,
+            "ronda": "Final",
+            "local": "Arsenal",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Manchester City"
+    },
+    "partidos": [
+        {
+            "id_partido": 720030,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Manchester City",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

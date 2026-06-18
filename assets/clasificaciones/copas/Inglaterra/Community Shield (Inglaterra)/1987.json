@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1987,
+    "temporada": "1987-88",
+    "cuadro_honor": {
+        "campeon": "Everton",
+        "subcampeon": "Coventry"
+    },
+    "partidos": [
+        {
+            "id_partido": 720041,
+            "ronda": "Final",
+            "local": "Everton",
+            "visitante": "Coventry",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2020,
+    "temporada": "2020-21",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Borussia Dortmund"
+    },
+    "partidos": [
+        {
+            "id_partido": 721010,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2020,
+    "temporada": "2020-21",
+    "cuadro_honor": {
+        "campeon": "Athletic Club",
+        "subcampeon": "Barcelona"
+    },
+    "partidos": [
+        {
+            "id_partido": 490293,
+            "ronda": "Semifinal",
+            "local": "Real Sociedad",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490294,
+            "ronda": "Semifinal",
+            "local": "Real Madrid",
+            "visitante": "Athletic Club",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490295,
+            "ronda": "Final",
+            "local": "Barcelona",
+            "visitante": "Athletic Club",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

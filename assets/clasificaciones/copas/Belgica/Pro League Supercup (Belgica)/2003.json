@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Louviéroise"
+    },
+    "partidos": [
+        {
+            "id_partido": 721100,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Louviéroise",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

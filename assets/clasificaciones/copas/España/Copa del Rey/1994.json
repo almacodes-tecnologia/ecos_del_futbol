@@ -1,0 +1,331 @@
+{
+    "pais": "España",
+    "copa": "Copa del Rey",
+    "año_inicio": 1994,
+    "temporada": "1994-95",
+    "cuadro_honor": {
+        "campeon": "Deportivo de La Coruña",
+        "subcampeon": "Valencia"
+    },
+    "partidos": [
+        {
+            "id_partido": 502752,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Albacete",
+            "visitante": "Zaragoza",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502753,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sporting de Gijón",
+            "visitante": "Badajoz",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502754,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Palamós",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502755,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Athletic Club",
+            "visitante": "Betis",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502756,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Lleida",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502757,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Toledo",
+            "visitante": "Mallorca",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502758,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502759,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502760,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Albacete",
+            "visitante": "Zaragoza",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502761,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Lleida",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502762,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Athletic Club",
+            "visitante": "Betis",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502763,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sporting de Gijón",
+            "visitante": "Badajoz",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502764,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Palamós",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502765,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Toledo",
+            "visitante": "Mallorca",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502766,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502767,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502768,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Sporting de Gijón",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502769,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Mallorca",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502770,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Athletic Club",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502771,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Albacete",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502772,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Sporting de Gijón",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502773,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Mallorca",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502774,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Athletic Club",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502775,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Albacete",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502776,
+            "ronda": "Semifinal - Ida",
+            "local": "Valencia",
+            "visitante": "Albacete",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502777,
+            "ronda": "Semifinal - Ida",
+            "local": "Sporting de Gijón",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502778,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Sporting de Gijón",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502779,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Valencia",
+            "visitante": "Albacete",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 502780,
+            "ronda": "Final",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

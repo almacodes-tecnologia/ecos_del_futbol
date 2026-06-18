@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Arsenal"
+    },
+    "partidos": [
+        {
+            "id_partido": 720028,
+            "ronda": "Final",
+            "local": "Arsenal",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 5
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Lokeren"
+    },
+    "partidos": [
+        {
+            "id_partido": 721089,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Lokeren",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

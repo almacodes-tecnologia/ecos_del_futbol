@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1985,
+    "temporada": "1985-86",
+    "cuadro_honor": {
+        "campeon": "Benfica",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 720068,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720069,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

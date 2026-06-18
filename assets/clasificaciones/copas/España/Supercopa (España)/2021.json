@@ -1,0 +1,45 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Athletic Club"
+    },
+    "partidos": [
+        {
+            "id_partido": 490297,
+            "ronda": "Semifinal",
+            "local": "Barcelona",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490298,
+            "ronda": "Semifinal",
+            "local": "Atlético de Madrid",
+            "visitante": "Athletic Club",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490299,
+            "ronda": "Final",
+            "local": "Athletic Club",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

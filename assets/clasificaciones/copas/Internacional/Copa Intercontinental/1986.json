@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1986,
+    "temporada": "1986-87",
+    "cuadro_honor": {
+        "campeon": "River Plate",
+        "subcampeon": "Steaua București"
+    },
+    "partidos": [
+        {
+            "id_partido": 430144,
+            "ronda": "Final",
+            "local": "River Plate",
+            "visitante": "Steaua București",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Europa League",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "Dnipro",
+        "subcampeon": "Napoli"
+    },
+    "partidos": [
+        {
+            "id_partido": 411259,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Villarreal",
+            "visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 411260,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Villarreal",
+            "visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 411271,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sevilla",
+            "visitante": "Zenit",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 411272,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sevilla",
+            "visitante": "Zenit",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 411273,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sevilla",
+            "visitante": "Fiorentina",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 411274,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sevilla",
+            "visitante": "Fiorentina",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 411275,
+            "ronda": "Octavos de Final",
+            "local": "Dnipro",
+            "visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415430,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Zenit",
+            "visitante": "Torino",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415431,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Wolfsburg",
+            "visitante": "Inter",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415432,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Dnipro",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415433,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Brugge",
+            "visitante": "Beşiktaş",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415434,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Fiorentina",
+            "visitante": "Roma",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415435,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Everton",
+            "visitante": "Dynamo Kyiv",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415436,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Napoli",
+            "visitante": "Dynamo Moskva",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415437,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Napoli",
+            "visitante": "Dynamo Moskva",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415438,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Fiorentina",
+            "visitante": "Roma",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415439,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Everton",
+            "visitante": "Dynamo Kyiv",
+            "goles_local": "2",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415440,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Dnipro",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415441,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Zenit",
+            "visitante": "Torino",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415442,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Wolfsburg",
+            "visitante": "Inter",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415443,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Brugge",
+            "visitante": "Beşiktaş",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415444,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Brugge",
+            "visitante": "Dnipro",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415445,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Dynamo Kyiv",
+            "visitante": "Fiorentina",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415446,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Wolfsburg",
+            "visitante": "Napoli",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415447,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Brugge",
+            "visitante": "Dnipro",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415448,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Dynamo Kyiv",
+            "visitante": "Fiorentina",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415449,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Wolfsburg",
+            "visitante": "Napoli",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415450,
+            "ronda": "Final - Ida",
+            "local": "Napoli",
+            "visitante": "Dnipro",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 415451,
+            "ronda": "Final - Vuelta",
+            "local": "Napoli",
+            "visitante": "Dnipro",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

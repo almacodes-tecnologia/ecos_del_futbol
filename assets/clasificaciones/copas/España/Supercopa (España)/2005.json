@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Betis"
+    },
+    "partidos": [
+        {
+            "id_partido": 490190,
+            "ronda": "Final - Ida",
+            "local": "Betis",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490191,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Betis",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

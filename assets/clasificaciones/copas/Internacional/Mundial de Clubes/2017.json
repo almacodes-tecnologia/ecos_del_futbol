@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Grêmio",
+        "subcampeon": "Pachuca"
+    },
+    "partidos": [
+        {
+            "id_partido": 430101,
+            "ronda": "Semifinal",
+            "local": "Al-Jazira",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430102,
+            "ronda": "Semifinal",
+            "local": "Real Madrid",
+            "visitante": "Grêmio",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430227,
+            "ronda": "Semifinal",
+            "local": "Pachuca",
+            "visitante": "Wydad Athletic Club",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430228,
+            "ronda": "Semifinal",
+            "local": "Al-Jazira",
+            "visitante": "Urawa Red Diamonds",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430230,
+            "ronda": "Final",
+            "local": "Grêmio",
+            "visitante": "Pachuca",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

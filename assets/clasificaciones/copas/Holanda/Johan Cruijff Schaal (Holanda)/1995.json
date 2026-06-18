@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "Feyenoord"
+    },
+    "partidos": [
+        {
+            "id_partido": 699942,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "Feyenoord",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

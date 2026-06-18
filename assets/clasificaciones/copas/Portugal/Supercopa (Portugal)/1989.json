@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1989,
+    "temporada": "1989-90",
+    "cuadro_honor": {
+        "campeon": "Benfica",
+        "subcampeon": "Os Belenenses"
+    },
+    "partidos": [
+        {
+            "id_partido": 720060,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Os Belenenses",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720061,
+            "ronda": "Final - Vuelta",
+            "local": "Os Belenenses",
+            "visitante": "Benfica",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "Borussia Dortmund",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 721004,
+            "ronda": "Final",
+            "local": "Borussia Dortmund",
+            "visitante": "Bayern München",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

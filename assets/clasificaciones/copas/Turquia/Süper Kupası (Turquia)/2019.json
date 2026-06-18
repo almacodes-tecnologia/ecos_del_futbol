@@ -1,0 +1,23 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "Galatasaray",
+        "subcampeon": "Akhisarspor"
+    },
+    "partidos": [
+        {
+            "id_partido": 396701,
+            "ronda": "Final",
+            "local": "Galatasaray",
+            "visitante": "Akhisarspor",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

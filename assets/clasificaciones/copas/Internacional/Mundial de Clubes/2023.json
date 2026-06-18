@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Manchester City",
+        "subcampeon": "Fluminense"
+    },
+    "partidos": [
+        {
+            "id_partido": 430279,
+            "ronda": "Semifinal",
+            "local": "Club León",
+            "visitante": "Urawa Red Diamonds",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430280,
+            "ronda": "Semifinal",
+            "local": "Al Ahly",
+            "visitante": "Al-Ittihad",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430281,
+            "ronda": "Semifinal",
+            "local": "Fluminense",
+            "visitante": "Al Ahly",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430282,
+            "ronda": "Semifinal",
+            "local": "Urawa Red Diamonds",
+            "visitante": "Manchester City",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430284,
+            "ronda": "Final",
+            "local": "Manchester City",
+            "visitante": "Fluminense",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

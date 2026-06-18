@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1988,
+    "temporada": "1988-89",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Sampdoria"
+    },
+    "partidos": [
+        {
+            "id_partido": 490300,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Sampdoria",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

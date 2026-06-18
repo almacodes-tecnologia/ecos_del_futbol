@@ -1,0 +1,765 @@
+{
+    "pais": "España",
+    "equipo": "Alaves",
+    "id_bdfutbol": "3",
+    "temporada": "2022-23",
+    "año_inicio": 2022,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j302291",
+                "nombre": "Sivera",
+                "posicion": "portero",
+                "partidos_jugados": 41,
+                "partidos_titular": 41,
+                "minutos": 3690,
+                "goles_marcados": 0,
+                "goles_encajados": 32
+            },
+            {
+                "id": "j28633",
+                "nombre": "Tenaglia",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2837,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301809",
+                "nombre": "Duarte",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 37,
+                "partidos_titular": 33,
+                "minutos": 2979,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20671",
+                "nombre": "Abqar",
+                "posicion": "central",
+                "partidos_jugados": 35,
+                "partidos_titular": 34,
+                "minutos": 2858,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25616",
+                "nombre": "Sedlar",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2466,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22049",
+                "nombre": "Guridi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 32,
+                "minutos": 2742,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4897",
+                "nombre": "Salva Sevilla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 28,
+                "minutos": 2316,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301766",
+                "nombre": "Jason",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 19,
+                "minutos": 1628,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202425",
+                "nombre": "Rioja",
+                "posicion": "extremo",
+                "partidos_jugados": 38,
+                "partidos_titular": 34,
+                "minutos": 3149,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21442",
+                "nombre": "Miguel",
+                "posicion": "delantero centro",
+                "partidos_jugados": 33,
+                "partidos_titular": 25,
+                "minutos": 2042,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22648",
+                "nombre": "Alkain",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 18,
+                "minutos": 1531,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13161",
+                "nombre": "Owono",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j28156",
+                "nombre": "Toni Moya",
+                "posicion": "centrocampista",
+                "partidos_jugados": 39,
+                "partidos_titular": 14,
+                "minutos": 1642,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j45102",
+                "nombre": "Protesoni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 17,
+                "minutos": 1465,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26449",
+                "nombre": "Javi López",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 30,
+                "partidos_titular": 12,
+                "minutos": 1251,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24656",
+                "nombre": "Rober",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 11,
+                "minutos": 1136,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29245",
+                "nombre": "Maraš",
+                "posicion": "central",
+                "partidos_jugados": 20,
+                "partidos_titular": 18,
+                "minutos": 1606,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19122",
+                "nombre": "Abde Rebbach",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 11,
+                "minutos": 863,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23598",
+                "nombre": "Blanco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1320,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19321",
+                "nombre": "Arroyo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 17,
+                "partidos_titular": 9,
+                "minutos": 909,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301810",
+                "nombre": "Sylla",
+                "posicion": "delantero centro",
+                "partidos_jugados": 19,
+                "partidos_titular": 9,
+                "minutos": 783,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22162",
+                "nombre": "Villalibre",
+                "posicion": "delantero centro",
+                "partidos_jugados": 16,
+                "partidos_titular": 8,
+                "minutos": 934,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12435",
+                "nombre": "Laguardia",
+                "posicion": "central",
+                "partidos_jugados": 14,
+                "partidos_titular": 5,
+                "minutos": 572,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12955",
+                "nombre": "Hara",
+                "posicion": "delantero centro",
+                "partidos_jugados": 15,
+                "partidos_titular": 3,
+                "minutos": 436,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26445",
+                "nombre": "Balboa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 1,
+                "minutos": 167,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26707",
+                "nombre": "Abdallahi",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j52565",
+                "nombre": "Panichelli",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j304038",
+                "nombre": "Tenas",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 13,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j28633",
+                "nombre": "Tenaglia",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301809",
+                "nombre": "Duarte",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 146,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20671",
+                "nombre": "Abqar",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25616",
+                "nombre": "Sedlar",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 205,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22049",
+                "nombre": "Guridi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 43,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4897",
+                "nombre": "Salva Sevilla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 171,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301766",
+                "nombre": "Jason",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 224,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202425",
+                "nombre": "Rioja",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 178,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21442",
+                "nombre": "Miguel",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22648",
+                "nombre": "Alkain",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 115,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13161",
+                "nombre": "Owono",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j28156",
+                "nombre": "Toni Moya",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 187,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j45102",
+                "nombre": "Protesoni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 104,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26449",
+                "nombre": "Javi López",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 214,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24656",
+                "nombre": "Rober",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 331,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19122",
+                "nombre": "Abde Rebbach",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 157,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23598",
+                "nombre": "Blanco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19321",
+                "nombre": "Arroyo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 299,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301810",
+                "nombre": "Sylla",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 245,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12435",
+                "nombre": "Laguardia",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12955",
+                "nombre": "Hara",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26445",
+                "nombre": "Balboa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 243,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26707",
+                "nombre": "Abdallahi",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26359",
+                "nombre": "Baz",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 65,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j304038",
+                "nombre": "Tenas",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 10,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j302291",
+                "nombre": "Sivera",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j28633",
+                "nombre": "Tenaglia",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 350,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301809",
+                "nombre": "Duarte",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 354,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20671",
+                "nombre": "Abqar",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 378,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25616",
+                "nombre": "Sedlar",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 378,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22049",
+                "nombre": "Guridi",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 323,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4897",
+                "nombre": "Salva Sevilla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 107,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301766",
+                "nombre": "Jason",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 79,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202425",
+                "nombre": "Rioja",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21442",
+                "nombre": "Miguel",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 70,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22648",
+                "nombre": "Alkain",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 117,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28156",
+                "nombre": "Toni Moya",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 213,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j45102",
+                "nombre": "Protesoni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 305,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26449",
+                "nombre": "Javi López",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 36,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24656",
+                "nombre": "Rober",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 21,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19122",
+                "nombre": "Abde Rebbach",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 216,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23598",
+                "nombre": "Blanco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19321",
+                "nombre": "Arroyo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301810",
+                "nombre": "Sylla",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 213,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22162",
+                "nombre": "Villalibre",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 191,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12435",
+                "nombre": "Laguardia",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 24,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j52565",
+                "nombre": "Panichelli",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

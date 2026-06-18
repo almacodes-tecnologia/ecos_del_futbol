@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "Benfica",
+        "subcampeon": "Rio Ave"
+    },
+    "partidos": [
+        {
+            "id_partido": 490380,
+            "ronda": "Final",
+            "local": "Benfica",
+            "visitante": "Rio Ave",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 2
+        }
+    ]
+}

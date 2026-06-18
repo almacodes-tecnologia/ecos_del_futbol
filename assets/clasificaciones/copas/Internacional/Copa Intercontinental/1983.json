@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1983,
+    "temporada": "1983-84",
+    "cuadro_honor": {
+        "campeon": "Grêmio",
+        "subcampeon": "Hamburger"
+    },
+    "partidos": [
+        {
+            "id_partido": 430026,
+            "ronda": "Final",
+            "local": "Hamburger",
+            "visitante": "Grêmio",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,495 @@
+{
+    "pais": "España",
+    "equipo": "Real Madrid",
+    "id_bdfutbol": "1",
+    "temporada": "1955-56",
+    "año_inicio": 1955,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j8230",
+                "nombre": "Ramallets",
+                "posicion": "portero",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 0,
+                "goles_encajados": 24
+            },
+            {
+                "id": "j9740",
+                "nombre": "Seguer",
+                "posicion": "defensa",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2430,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7966",
+                "nombre": "Segarra",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9634",
+                "nombre": "Biosca",
+                "posicion": "central",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2150,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7819",
+                "nombre": "Gracia",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7914",
+                "nombre": "Bosch",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8231",
+                "nombre": "Luis Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8096",
+                "nombre": "Villaverde",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7444",
+                "nombre": "Kubala",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9640",
+                "nombre": "Manchón",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2160,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9679",
+                "nombre": "Mandi",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9732",
+                "nombre": "Goicolea",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j7913",
+                "nombre": "Tejada",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7493",
+                "nombre": "Areta II",
+                "posicion": "defensa",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1066,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8119",
+                "nombre": "Sampedro",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8259",
+                "nombre": "Flotats",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9466",
+                "nombre": "Brugué",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9734",
+                "nombre": "Hanke",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9737",
+                "nombre": "Navarro",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9586",
+                "nombre": "Castañer",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 75,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j8230",
+                "nombre": "Ramallets",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j9740",
+                "nombre": "Seguer",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7966",
+                "nombre": "Segarra",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9634",
+                "nombre": "Biosca",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7819",
+                "nombre": "Gracia",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7914",
+                "nombre": "Bosch",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8231",
+                "nombre": "Luis Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8096",
+                "nombre": "Villaverde",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7444",
+                "nombre": "Kubala",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9640",
+                "nombre": "Manchón",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7913",
+                "nombre": "Tejada",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8119",
+                "nombre": "Sampedro",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9733",
+                "nombre": "Gonzalvo III",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9633",
+                "nombre": "Basora",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa de Ferias": [
+            {
+                "id": "j8230",
+                "nombre": "Ramallets",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j9740",
+                "nombre": "Seguer",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7966",
+                "nombre": "Segarra",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9634",
+                "nombre": "Biosca",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7819",
+                "nombre": "Gracia",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7914",
+                "nombre": "Bosch",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8096",
+                "nombre": "Villaverde",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7444",
+                "nombre": "Kubala",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9640",
+                "nombre": "Manchón",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7913",
+                "nombre": "Tejada",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7493",
+                "nombre": "Areta II",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9466",
+                "nombre": "Brugué",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9733",
+                "nombre": "Gonzalvo III",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9633",
+                "nombre": "Basora",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

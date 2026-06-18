@@ -1,0 +1,177 @@
+{
+    "pais": "Escocia",
+    "copa": "Premiership Championship (Escocia)",
+    "año_inicio": 2006,
+    "temporada": "2006-07",
+    "cuadro_honor": {
+        "campeon": "Kilmarnock",
+        "subcampeon": "Heart of Midlothian"
+    },
+    "partidos": [
+        {
+            "id_partido": 359497,
+            "ronda": "Octavos de Final",
+            "local": "Aberdeen",
+            "visitante": "Hibernian",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359498,
+            "ronda": "Octavos de Final",
+            "local": "Rangers",
+            "visitante": "Heart of Midlothian",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359499,
+            "ronda": "Cuartos de Final",
+            "local": "Kilmarnock",
+            "visitante": "Celtic",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359500,
+            "ronda": "Cuartos de Final",
+            "local": "Aberdeen",
+            "visitante": "Kilmarnock",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359501,
+            "ronda": "Cuartos de Final",
+            "local": "Hibernian",
+            "visitante": "Rangers",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359502,
+            "ronda": "Cuartos de Final",
+            "local": "Celtic",
+            "visitante": "Heart of Midlothian",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359503,
+            "ronda": "Cuartos de Final",
+            "local": "Rangers",
+            "visitante": "Celtic",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359504,
+            "ronda": "Cuartos de Final",
+            "local": "Hibernian",
+            "visitante": "Kilmarnock",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359505,
+            "ronda": "Cuartos de Final",
+            "local": "Heart of Midlothian",
+            "visitante": "Aberdeen",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359506,
+            "ronda": "Cuartos de Final",
+            "local": "Heart of Midlothian",
+            "visitante": "Hibernian",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359507,
+            "ronda": "Semifinal",
+            "local": "Celtic",
+            "visitante": "Aberdeen",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359508,
+            "ronda": "Semifinal",
+            "local": "Rangers",
+            "visitante": "Kilmarnock",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359509,
+            "ronda": "Semifinal",
+            "local": "Aberdeen",
+            "visitante": "Rangers",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359510,
+            "ronda": "Semifinal",
+            "local": "Hibernian",
+            "visitante": "Celtic",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 359511,
+            "ronda": "Final",
+            "local": "Kilmarnock",
+            "visitante": "Heart of Midlothian",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

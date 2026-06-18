@@ -1,0 +1,323 @@
+{
+    "pais": "España",
+    "equipo": "Celta",
+    "id_bdfutbol": "11",
+    "temporada": "1949-50",
+    "año_inicio": 1949,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j10018",
+                "nombre": "Simón",
+                "posicion": "portero",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1473,
+                "goles_marcados": 0,
+                "goles_encajados": 31
+            },
+            {
+                "id": "j9919",
+                "nombre": "Alonso",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9857",
+                "nombre": "Lolín",
+                "posicion": "defensa",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2340,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9856",
+                "nombre": "Gaitos",
+                "posicion": "defensa",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10192",
+                "nombre": "Cabiño",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10195",
+                "nombre": "Yayo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2327,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9966",
+                "nombre": "Sobrado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9938",
+                "nombre": "Hermida",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 21,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9555",
+                "nombre": "Atienza",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2160,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10310",
+                "nombre": "Vázquez",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2160,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9845",
+                "nombre": "Mekerle",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10017",
+                "nombre": "Marzá",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 9,
+                "minutos": 867,
+                "goles_marcados": 0,
+                "goles_encajados": 19
+            },
+            {
+                "id": "j9858",
+                "nombre": "Otero",
+                "posicion": "defensa",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9762",
+                "nombre": "Juanín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 968,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10250",
+                "nombre": "Bermejo",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10009",
+                "nombre": "Zubeldia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10251",
+                "nombre": "Saras",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j10018",
+                "nombre": "Simón",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j9919",
+                "nombre": "Alonso",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9857",
+                "nombre": "Lolín",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9856",
+                "nombre": "Gaitos",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10192",
+                "nombre": "Cabiño",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9966",
+                "nombre": "Sobrado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9938",
+                "nombre": "Hermida",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9555",
+                "nombre": "Atienza",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10310",
+                "nombre": "Vázquez",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9845",
+                "nombre": "Mekerle",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9858",
+                "nombre": "Otero",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10251",
+                "nombre": "Saras",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10193",
+                "nombre": "Servando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17593",
+                "nombre": "Borbolla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

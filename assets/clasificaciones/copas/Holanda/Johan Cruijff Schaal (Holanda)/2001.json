@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2001,
+    "temporada": "2001-02",
+    "cuadro_honor": {
+        "campeon": "PSV",
+        "subcampeon": "Twente"
+    },
+    "partidos": [
+        {
+            "id_partido": 721042,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Twente",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

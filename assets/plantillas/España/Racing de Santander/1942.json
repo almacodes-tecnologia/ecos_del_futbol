@@ -1,0 +1,333 @@
+{
+    "pais": "España",
+    "equipo": "Racing de Santander",
+    "id_bdfutbol": "29",
+    "temporada": "1942-43",
+    "año_inicio": 1942,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j18644",
+                "nombre": "Caller",
+                "posicion": "portero",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 0,
+                "goles_encajados": 29
+            },
+            {
+                "id": "j18300",
+                "nombre": "Modesto",
+                "posicion": "defensa",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18806",
+                "nombre": "Chuchi",
+                "posicion": "defensa",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11278",
+                "nombre": "Pombo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11474",
+                "nombre": "Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1170,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11270",
+                "nombre": "Cilio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9958",
+                "nombre": "Felipe",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 980,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8410",
+                "nombre": "Orizaola",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11280",
+                "nombre": "Saras",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10491",
+                "nombre": "Retamar",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1033,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18409",
+                "nombre": "Álvarez",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11275",
+                "nombre": "Orencio",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j18810",
+                "nombre": "Ricardo",
+                "posicion": "defensa",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18736",
+                "nombre": "Casamichana",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10734",
+                "nombre": "Astobiza",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18807",
+                "nombre": "Martín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (P23)": [
+            {
+                "id": "j18644",
+                "nombre": "Caller",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 0,
+                "goles_encajados": 21
+            },
+            {
+                "id": "j18300",
+                "nombre": "Modesto",
+                "posicion": "defensa",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11278",
+                "nombre": "Pombo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 700,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11474",
+                "nombre": "Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11270",
+                "nombre": "Cilio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9958",
+                "nombre": "Felipe",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8410",
+                "nombre": "Orizaola",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11280",
+                "nombre": "Saras",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10491",
+                "nombre": "Retamar",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 762,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18409",
+                "nombre": "Álvarez",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18810",
+                "nombre": "Ricardo",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18736",
+                "nombre": "Casamichana",
+                "posicion": "defensa",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10734",
+                "nombre": "Astobiza",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18648",
+                "nombre": "Máximo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j96462",
+                "nombre": "Pedrín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j96478",
+                "nombre": "Hoz",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

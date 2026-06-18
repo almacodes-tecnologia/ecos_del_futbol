@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 401169,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Bayer Leverkusen",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401170,
+            "ronda": "Octavos de Final - Ida",
+            "local": "CSKA Moskva",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401171,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Bayer Leverkusen",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "7",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401172,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "CSKA Moskva",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401173,
+            "ronda": "Octavos de Final - Ida",
+            "local": "APOEL",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401174,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Milan",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401175,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Milan",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401176,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "APOEL",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401177,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Bayern München",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401178,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401179,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 401180,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Bayern München",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405676,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Olympique Lyonnais",
+            "visitante": "APOEL",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405677,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Zenit",
+            "visitante": "Benfica",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405678,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Milan",
+            "visitante": "Arsenal",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405679,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Napoli",
+            "visitante": "Chelsea",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405680,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Olympique de Marseille",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405681,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Basel",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405682,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Zenit",
+            "visitante": "Benfica",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405683,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Milan",
+            "visitante": "Arsenal",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405684,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Olympique Lyonnais",
+            "visitante": "APOEL",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405685,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Olympique de Marseille",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405686,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Basel",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "7",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405687,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Napoli",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405688,
+            "ronda": "Semifinal - Ida",
+            "local": "Benfica",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405689,
+            "ronda": "Semifinal - Ida",
+            "local": "Olympique de Marseille",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405690,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Olympique de Marseille",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405691,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Benfica",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 405692,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

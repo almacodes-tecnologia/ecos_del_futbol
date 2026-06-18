@@ -1,0 +1,45 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Atlético de Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 490290,
+            "ronda": "Semifinal",
+            "local": "Valencia",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490291,
+            "ronda": "Semifinal",
+            "local": "Barcelona",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490292,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

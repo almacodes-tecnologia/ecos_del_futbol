@@ -1,0 +1,45 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 490337,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490338,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490339,
+            "ronda": "Final - Desempate",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 3
+        }
+    ]
+}

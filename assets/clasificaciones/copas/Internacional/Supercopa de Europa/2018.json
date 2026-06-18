@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2018,
+    "temporada": "2018-19",
+    "cuadro_honor": {
+        "campeon": "Atlético de Madrid",
+        "subcampeon": "Real Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 440507,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

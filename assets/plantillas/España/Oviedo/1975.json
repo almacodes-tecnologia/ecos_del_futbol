@@ -1,0 +1,363 @@
+{
+    "pais": "España",
+    "equipo": "Oviedo",
+    "id_bdfutbol": "28",
+    "temporada": "1975-76",
+    "año_inicio": 1975,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5467",
+                "nombre": "Dujković",
+                "posicion": "portero",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2565,
+                "goles_marcados": 0,
+                "goles_encajados": 36
+            },
+            {
+                "id": "j3779",
+                "nombre": "Carrete",
+                "posicion": "defensa",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2960,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5475",
+                "nombre": "Vicente",
+                "posicion": "defensa",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2940,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5474",
+                "nombre": "Tensi",
+                "posicion": "defensa",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2701,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3946",
+                "nombre": "Jacquet",
+                "posicion": "defensa",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3696",
+                "nombre": "Iriarte",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 3027,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5470",
+                "nombre": "Laguna",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2934,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5469",
+                "nombre": "Javier",
+                "posicion": "centrocampista",
+                "partidos_jugados": 22,
+                "partidos_titular": 18,
+                "minutos": 1605,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3887",
+                "nombre": "Alarcón",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 29,
+                "minutos": 2672,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5468",
+                "nombre": "Galán",
+                "posicion": "delantero centro",
+                "partidos_jugados": 30,
+                "partidos_titular": 23,
+                "minutos": 2084,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5473",
+                "nombre": "Ortuondo",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 23,
+                "minutos": 1952,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3305",
+                "nombre": "César",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 495,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j3916",
+                "nombre": "Maxi",
+                "posicion": "defensa",
+                "partidos_jugados": 24,
+                "partidos_titular": 18,
+                "minutos": 1585,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5225",
+                "nombre": "Vall-llovera",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 13,
+                "minutos": 1208,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5465",
+                "nombre": "Bartolotta",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 10,
+                "minutos": 1103,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5471",
+                "nombre": "Lolín",
+                "posicion": "defensa",
+                "partidos_jugados": 14,
+                "partidos_titular": 9,
+                "minutos": 917,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5472",
+                "nombre": "Marianín",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 9,
+                "minutos": 831,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5466",
+                "nombre": "Cortés",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 277,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j3779",
+                "nombre": "Carrete",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 224,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5475",
+                "nombre": "Vicente",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5474",
+                "nombre": "Tensi",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 284,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3946",
+                "nombre": "Jacquet",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3696",
+                "nombre": "Iriarte",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5470",
+                "nombre": "Laguna",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5469",
+                "nombre": "Javier",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3887",
+                "nombre": "Alarcón",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5468",
+                "nombre": "Galán",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5473",
+                "nombre": "Ortuondo",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3305",
+                "nombre": "César",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j3916",
+                "nombre": "Maxi",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 212,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5225",
+                "nombre": "Vall-llovera",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5471",
+                "nombre": "Lolín",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 251,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5466",
+                "nombre": "Cortés",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5799",
+                "nombre": "Piñán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7512",
+                "nombre": "Chema",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 19,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

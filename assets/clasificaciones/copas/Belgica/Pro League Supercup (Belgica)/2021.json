@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Genk"
+    },
+    "partidos": [
+        {
+            "id_partido": 721082,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Genk",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1979,
+    "temporada": "1979-80",
+    "cuadro_honor": {
+        "campeon": "Nottingham Forest",
+        "subcampeon": "Hamburger"
+    },
+    "partidos": [
+        {
+            "id_partido": 400312,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Porto",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400313,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400314,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Celtic",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400315,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Celtic",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400316,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Hamburger",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400317,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Hamburger",
+            "goles_local": "1",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409257,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Nottingham Forest",
+            "visitante": "Argeș Pitești",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409258,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Celtic",
+            "visitante": "Dundalk",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409259,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Ajax",
+            "visitante": "Omonia",
+            "goles_local": "10",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409260,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Hamburger",
+            "visitante": "Dinamo Tbilisi",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409261,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Vejle",
+            "visitante": "Hajduk Split",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409262,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Dukla Praha",
+            "visitante": "Strasbourg",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409263,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Dynamo Berlin",
+            "visitante": "Servette",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409265,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Celtic",
+            "visitante": "Dundalk",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409266,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Dynamo Berlin",
+            "visitante": "Servette",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409267,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Dukla Praha",
+            "visitante": "Strasbourg",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409268,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Ajax",
+            "visitante": "Omonia",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409269,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Vejle",
+            "visitante": "Hajduk Split",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409270,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Hamburger",
+            "visitante": "Dinamo Tbilisi",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409271,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Nottingham Forest",
+            "visitante": "Argeș Pitești",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409273,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Strasbourg",
+            "visitante": "Ajax",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409274,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Nottingham Forest",
+            "visitante": "Dynamo Berlin",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409275,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Hamburger",
+            "visitante": "Hajduk Split",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409276,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Strasbourg",
+            "visitante": "Ajax",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409277,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Hamburger",
+            "visitante": "Hajduk Split",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409278,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Nottingham Forest",
+            "visitante": "Dynamo Berlin",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409281,
+            "ronda": "Semifinal - Ida",
+            "local": "Nottingham Forest",
+            "visitante": "Ajax",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409283,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Nottingham Forest",
+            "visitante": "Ajax",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 409284,
+            "ronda": "Final",
+            "local": "Nottingham Forest",
+            "visitante": "Hamburger",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

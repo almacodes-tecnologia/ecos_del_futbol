@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1998,
+    "temporada": "1998-99",
+    "cuadro_honor": {
+        "campeon": "Lazio",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 490311,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Lazio",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

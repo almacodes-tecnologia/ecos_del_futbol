@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1978,
+    "temporada": "1978-79",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 440508,
+            "ronda": "Final - Ida",
+            "local": "Anderlecht",
+            "visitante": "Liverpool",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440509,
+            "ronda": "Final - Vuelta",
+            "local": "Liverpool",
+            "visitante": "Anderlecht",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,765 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "2006-07",
+    "año_inicio": 2006,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j1090",
+                "nombre": "Casillas",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 40
+            },
+            {
+                "id": "j2495",
+                "nombre": "Sergio Ramos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2894,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2372",
+                "nombre": "Roberto Carlos",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 23,
+                "partidos_titular": 22,
+                "minutos": 1952,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j722",
+                "nombre": "Cannavaro",
+                "posicion": "central",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2773,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1144",
+                "nombre": "Iván Helguera",
+                "posicion": "central",
+                "partidos_jugados": 23,
+                "partidos_titular": 21,
+                "minutos": 1965,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1822",
+                "nombre": "Diarra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2691,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j662",
+                "nombre": "Emerson",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 27,
+                "minutos": 2211,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1527",
+                "nombre": "Guti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 21,
+                "minutos": 1903,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2428",
+                "nombre": "Van Nistelrooy",
+                "posicion": "delantero centro",
+                "partidos_jugados": 37,
+                "partidos_titular": 36,
+                "minutos": 3172,
+                "goles_marcados": 25,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2296",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2713,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2380",
+                "nombre": "Robinho",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 20,
+                "minutos": 1962,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1410",
+                "nombre": "Reyes",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 14,
+                "minutos": 1245,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j555",
+                "nombre": "Beckham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 14,
+                "minutos": 1427,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1989",
+                "nombre": "Miguel Torres",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 18,
+                "partidos_titular": 17,
+                "minutos": 1477,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2014",
+                "nombre": "Míchel Salgado",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 16,
+                "partidos_titular": 15,
+                "minutos": 1242,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j973",
+                "nombre": "Higuaín",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 13,
+                "minutos": 1266,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j754",
+                "nombre": "Gago",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 999,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j128",
+                "nombre": "Mejía",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 3,
+                "minutos": 427,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j206",
+                "nombre": "Cassano",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 315,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2292",
+                "nombre": "Raúl Bravo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 8,
+                "partidos_titular": 3,
+                "minutos": 437,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j437",
+                "nombre": "Cicinho",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 364,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2400",
+                "nombre": "Ronaldo",
+                "posicion": "delantero centro",
+                "partidos_jugados": 7,
+                "partidos_titular": 3,
+                "minutos": 329,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1879",
+                "nombre": "Marcelo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 6,
+                "partidos_titular": 1,
+                "minutos": 169,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2408",
+                "nombre": "De la Red",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 0,
+                "minutos": 141,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2011",
+                "nombre": "Nieto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j1090",
+                "nombre": "Casillas",
+                "posicion": "portero",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 10
+            },
+            {
+                "id": "j2495",
+                "nombre": "Sergio Ramos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2372",
+                "nombre": "Roberto Carlos",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 689,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j722",
+                "nombre": "Cannavaro",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1144",
+                "nombre": "Iván Helguera",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1822",
+                "nombre": "Diarra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 591,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j662",
+                "nombre": "Emerson",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 468,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1527",
+                "nombre": "Guti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 455,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2428",
+                "nombre": "Van Nistelrooy",
+                "posicion": "delantero centro",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 584,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2296",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 603,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2380",
+                "nombre": "Robinho",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 3,
+                "minutos": 346,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j576",
+                "nombre": "Diego López",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1410",
+                "nombre": "Reyes",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 162,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j555",
+                "nombre": "Beckham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 329,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1989",
+                "nombre": "Miguel Torres",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2014",
+                "nombre": "Míchel Salgado",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j973",
+                "nombre": "Higuaín",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 99,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j754",
+                "nombre": "Gago",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 165,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j128",
+                "nombre": "Mejía",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j206",
+                "nombre": "Cassano",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 194,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2292",
+                "nombre": "Raúl Bravo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 31,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j437",
+                "nombre": "Cicinho",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2400",
+                "nombre": "Ronaldo",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 136,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2408",
+                "nombre": "De la Red",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 70,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2011",
+                "nombre": "Nieto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4036",
+                "nombre": "Borja Valero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 16,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j853",
+                "nombre": "Javi García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 20,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j2495",
+                "nombre": "Sergio Ramos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2372",
+                "nombre": "Roberto Carlos",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 10,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j722",
+                "nombre": "Cannavaro",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1144",
+                "nombre": "Iván Helguera",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1822",
+                "nombre": "Diarra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 354,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2428",
+                "nombre": "Van Nistelrooy",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 248,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2296",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2380",
+                "nombre": "Robinho",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 201,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j576",
+                "nombre": "Diego López",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j1410",
+                "nombre": "Reyes",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 321,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j555",
+                "nombre": "Beckham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1989",
+                "nombre": "Miguel Torres",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 280,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j973",
+                "nombre": "Higuaín",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j754",
+                "nombre": "Gago",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j128",
+                "nombre": "Mejía",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j206",
+                "nombre": "Cassano",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2292",
+                "nombre": "Raúl Bravo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 305,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2400",
+                "nombre": "Ronaldo",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2408",
+                "nombre": "De la Red",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 40,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j828",
+                "nombre": "Pavón",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2011",
+                "nombre": "Nieto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 22,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4036",
+                "nombre": "Borja Valero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 30,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j853",
+                "nombre": "Javi García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 116,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

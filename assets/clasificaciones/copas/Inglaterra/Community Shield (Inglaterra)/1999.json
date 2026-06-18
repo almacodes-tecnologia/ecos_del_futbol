@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Arsenal",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 720022,
+            "ronda": "Final",
+            "local": "Arsenal",
+            "visitante": "Manchester United",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

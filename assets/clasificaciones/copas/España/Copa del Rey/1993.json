@@ -1,0 +1,331 @@
+{
+    "pais": "España",
+    "copa": "Copa del Rey",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Zaragoza",
+        "subcampeon": "Celta de Vigo"
+    },
+    "partidos": [
+        {
+            "id_partido": 512852,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Tenerife",
+            "visitante": "Valencia",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512853,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Español",
+            "visitante": "Sevilla",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512854,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Logroñés",
+            "visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512855,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Oviedo",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512856,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Badajoz",
+            "visitante": "Zaragoza",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512857,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Betis",
+            "visitante": "Mérida",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512858,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512859,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sporting de Gijón",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512860,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sporting de Gijón",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512861,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Tenerife",
+            "visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512862,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Oviedo",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512863,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Español",
+            "visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512864,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Badajoz",
+            "visitante": "Zaragoza",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512865,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Betis",
+            "visitante": "Mérida",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512866,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Logroñés",
+            "visitante": "Celta de Vigo",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512867,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512868,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Oviedo",
+            "visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512869,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Zaragoza",
+            "visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512870,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Betis",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512871,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Tenerife",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512872,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Zaragoza",
+            "visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512873,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Oviedo",
+            "visitante": "Celta de Vigo",
+            "goles_local": "0",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512874,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Betis",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512875,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Tenerife",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512876,
+            "ronda": "Semifinal - Ida",
+            "local": "Celta de Vigo",
+            "visitante": "Tenerife",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512877,
+            "ronda": "Semifinal - Ida",
+            "local": "Betis",
+            "visitante": "Zaragoza",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512878,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Betis",
+            "visitante": "Zaragoza",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512879,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Celta de Vigo",
+            "visitante": "Tenerife",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 512880,
+            "ronda": "Final",
+            "local": "Celta de Vigo",
+            "visitante": "Zaragoza",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

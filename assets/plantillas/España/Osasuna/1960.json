@@ -1,0 +1,343 @@
+{
+    "pais": "España",
+    "equipo": "Osasuna",
+    "id_bdfutbol": "27",
+    "temporada": "1960-61",
+    "año_inicio": 1960,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j8305",
+                "nombre": "Celdrán",
+                "posicion": "portero",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2675,
+                "goles_marcados": 0,
+                "goles_encajados": 25
+            },
+            {
+                "id": "j8138",
+                "nombre": "Egaña",
+                "posicion": "defensa",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7714",
+                "nombre": "Zubiaurre",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2401,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8135",
+                "nombre": "Salvador",
+                "posicion": "defensa",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5961",
+                "nombre": "Fusté",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 18,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5780",
+                "nombre": "Zoco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7890",
+                "nombre": "Carlos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8057",
+                "nombre": "Hormaeche",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 17,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7677",
+                "nombre": "Félix Ruiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2430,
+                "goles_marcados": 21,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7798",
+                "nombre": "Sabino",
+                "posicion": "delantero centro",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 17,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8194",
+                "nombre": "Izeta",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9449",
+                "nombre": "Eusebio",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9445",
+                "nombre": "Cerdán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7983",
+                "nombre": "Recalde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9452",
+                "nombre": "Larrainzar",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9444",
+                "nombre": "Antonio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9456",
+                "nombre": "Soroa",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j8305",
+                "nombre": "Celdrán",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j8138",
+                "nombre": "Egaña",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 334,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7714",
+                "nombre": "Zubiaurre",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8135",
+                "nombre": "Salvador",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 154,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5961",
+                "nombre": "Fusté",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5780",
+                "nombre": "Zoco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7890",
+                "nombre": "Carlos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8057",
+                "nombre": "Hormaeche",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7677",
+                "nombre": "Félix Ruiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7798",
+                "nombre": "Sabino",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8194",
+                "nombre": "Izeta",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9449",
+                "nombre": "Eusebio",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j9445",
+                "nombre": "Cerdán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7983",
+                "nombre": "Recalde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9452",
+                "nombre": "Larrainzar",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9450",
+                "nombre": "González",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

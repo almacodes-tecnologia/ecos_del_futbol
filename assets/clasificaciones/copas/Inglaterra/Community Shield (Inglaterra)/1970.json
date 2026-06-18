@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1970,
+    "temporada": "1970-71",
+    "cuadro_honor": {
+        "campeon": "Everton",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 720087,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Everton",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

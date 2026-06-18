@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1985,
+    "temporada": "1985-86",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Argentinos Juniors"
+    },
+    "partidos": [
+        {
+            "id_partido": 430143,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Argentinos Juniors",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 2
+        }
+    ]
+}

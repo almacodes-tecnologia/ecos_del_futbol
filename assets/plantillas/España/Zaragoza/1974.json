@@ -1,0 +1,595 @@
+{
+    "pais": "España",
+    "equipo": "Zaragoza",
+    "id_bdfutbol": "39",
+    "temporada": "1974-75",
+    "año_inicio": 1974,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j3861",
+                "nombre": "Irazusta",
+                "posicion": "portero",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 0,
+                "goles_encajados": 33
+            },
+            {
+                "id": "j5375",
+                "nombre": "Rico",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 26,
+                "partidos_titular": 25,
+                "minutos": 2267,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5366",
+                "nombre": "Blanco",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2776,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5370",
+                "nombre": "González",
+                "posicion": "central",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2324,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5454",
+                "nombre": "Ovejero",
+                "posicion": "central",
+                "partidos_jugados": 14,
+                "partidos_titular": 11,
+                "minutos": 1076,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5368",
+                "nombre": "García Castany",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 3060,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5166",
+                "nombre": "Arrúa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2678,
+                "goles_marcados": 15,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5373",
+                "nombre": "Planas II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 26,
+                "minutos": 2377,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5378",
+                "nombre": "Violeta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2295,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5377",
+                "nombre": "Rubial",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2761,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3736",
+                "nombre": "Diarte",
+                "posicion": "delantero centro",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2418,
+                "goles_marcados": 12,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3952",
+                "nombre": "Nieves",
+                "posicion": "portero",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 14
+            },
+            {
+                "id": "j5674",
+                "nombre": "Soto",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 15,
+                "minutos": 1501,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5367",
+                "nombre": "Duñabeitia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 13,
+                "minutos": 1130,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5376",
+                "nombre": "Royo",
+                "posicion": "defensa",
+                "partidos_jugados": 17,
+                "partidos_titular": 10,
+                "minutos": 999,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5369",
+                "nombre": "González",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 10,
+                "minutos": 935,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5673",
+                "nombre": "Leirós",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 6,
+                "minutos": 626,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5455",
+                "nombre": "Simarro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 8,
+                "minutos": 682,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5065",
+                "nombre": "Ruiz Igartua",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 389,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5672",
+                "nombre": "Galdós",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 200,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5670",
+                "nombre": "Arenaza",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 34,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5671",
+                "nombre": "Emilio",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j3861",
+                "nombre": "Irazusta",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j5375",
+                "nombre": "Rico",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 454,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5370",
+                "nombre": "González",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 565,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5454",
+                "nombre": "Ovejero",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 399,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5368",
+                "nombre": "García Castany",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 559,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5373",
+                "nombre": "Planas II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 480,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5378",
+                "nombre": "Violeta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5377",
+                "nombre": "Rubial",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 536,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3736",
+                "nombre": "Diarte",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 480,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3952",
+                "nombre": "Nieves",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 526,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j5674",
+                "nombre": "Soto",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 176,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5367",
+                "nombre": "Duñabeitia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 515,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5376",
+                "nombre": "Royo",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 570,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5369",
+                "nombre": "González",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 179,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5455",
+                "nombre": "Simarro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 441,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5065",
+                "nombre": "Ruiz Igartua",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 256,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j3861",
+                "nombre": "Irazusta",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 11
+            },
+            {
+                "id": "j5375",
+                "nombre": "Rico",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 382,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5366",
+                "nombre": "Blanco",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 535,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5370",
+                "nombre": "González",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5454",
+                "nombre": "Ovejero",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5368",
+                "nombre": "García Castany",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 526,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5166",
+                "nombre": "Arrúa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5373",
+                "nombre": "Planas II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 406,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5378",
+                "nombre": "Violeta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5377",
+                "nombre": "Rubial",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3736",
+                "nombre": "Diarte",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 417,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3952",
+                "nombre": "Nieves",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 150,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j5674",
+                "nombre": "Soto",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 325,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5367",
+                "nombre": "Duñabeitia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 140,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5376",
+                "nombre": "Royo",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 163,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5369",
+                "nombre": "González",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 14,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5673",
+                "nombre": "Leirós",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 46,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5455",
+                "nombre": "Simarro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 106,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5065",
+                "nombre": "Ruiz Igartua",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5672",
+                "nombre": "Galdós",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

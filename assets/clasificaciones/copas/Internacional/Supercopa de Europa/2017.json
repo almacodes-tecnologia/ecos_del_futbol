@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 440506,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Manchester United",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

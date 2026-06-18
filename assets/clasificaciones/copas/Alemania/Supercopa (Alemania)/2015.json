@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2015,
+    "temporada": "2015-16",
+    "cuadro_honor": {
+        "campeon": "Wolfsburg",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 721005,
+            "ronda": "Final",
+            "local": "Wolfsburg",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

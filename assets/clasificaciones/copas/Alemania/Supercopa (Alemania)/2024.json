@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "Bayer Leverkusen",
+        "subcampeon": "Stuttgart"
+    },
+    "partidos": [
+        {
+            "id_partido": 721128,
+            "ronda": "Final",
+            "local": "Bayer Leverkusen",
+            "visitante": "Stuttgart",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 3
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1983,
+    "temporada": "1983-84",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 720046,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

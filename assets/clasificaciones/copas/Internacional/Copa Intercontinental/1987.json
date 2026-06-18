@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1987,
+    "temporada": "1987-88",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Peñarol"
+    },
+    "partidos": [
+        {
+            "id_partido": 430145,
+            "ronda": "Final",
+            "local": "Porto",
+            "visitante": "Peñarol",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

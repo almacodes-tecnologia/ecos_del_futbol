@@ -1,0 +1,503 @@
+{
+    "pais": "España",
+    "equipo": "Rayo Vallecano",
+    "id_bdfutbol": "5",
+    "temporada": "2023-24",
+    "año_inicio": 2023,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j402399",
+                "nombre": "Dimitrievski",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 47
+            },
+            {
+                "id": "j3793",
+                "nombre": "Balliu",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2876,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23739",
+                "nombre": "Espino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 31,
+                "partidos_titular": 29,
+                "minutos": 2513,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13748",
+                "nombre": "Lejeune",
+                "posicion": "central",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3328,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17562",
+                "nombre": "Mumin",
+                "posicion": "central",
+                "partidos_jugados": 20,
+                "partidos_titular": 19,
+                "minutos": 1695,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21514",
+                "nombre": "Óscar Valentín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 32,
+                "minutos": 2701,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202401",
+                "nombre": "Unai López",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 28,
+                "minutos": 2126,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2121",
+                "nombre": "Trejo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 19,
+                "minutos": 1384,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21120",
+                "nombre": "Isi",
+                "posicion": "extremo",
+                "partidos_jugados": 37,
+                "partidos_titular": 34,
+                "minutos": 2809,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402020",
+                "nombre": "Álvaro García",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 30,
+                "minutos": 2492,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21812",
+                "nombre": "Camello",
+                "posicion": "delantero centro",
+                "partidos_jugados": 31,
+                "partidos_titular": 20,
+                "minutos": 1668,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23213",
+                "nombre": "Cárdenas",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j22355",
+                "nombre": "De Frutos",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 14,
+                "minutos": 1539,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26734",
+                "nombre": "Pathé Ciss",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 16,
+                "minutos": 1655,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19972",
+                "nombre": "De Tomás",
+                "posicion": "delantero centro",
+                "partidos_jugados": 25,
+                "partidos_titular": 15,
+                "minutos": 1276,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100312",
+                "nombre": "Aridane",
+                "posicion": "central",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1691,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20945",
+                "nombre": "Chavarría",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 22,
+                "partidos_titular": 12,
+                "minutos": 1163,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24419",
+                "nombre": "Kike Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 9,
+                "minutos": 830,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13729",
+                "nombre": "Falcao",
+                "posicion": "delantero centro",
+                "partidos_jugados": 22,
+                "partidos_titular": 2,
+                "minutos": 391,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23548",
+                "nombre": "Ratiu",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 12,
+                "partidos_titular": 6,
+                "minutos": 627,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95465",
+                "nombre": "Bebé",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 0,
+                "minutos": 194,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21649",
+                "nombre": "Nteka",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 3,
+                "minutos": 562,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j46013",
+                "nombre": "Crespo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 4,
+                "minutos": 521,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84014",
+                "nombre": "Pozo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13379",
+                "nombre": "Méndez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 4,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j401011",
+                "nombre": "Salvi",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j23739",
+                "nombre": "Espino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 135,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13748",
+                "nombre": "Lejeune",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 14,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17562",
+                "nombre": "Mumin",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21514",
+                "nombre": "Óscar Valentín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 204,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202401",
+                "nombre": "Unai López",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 212,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2121",
+                "nombre": "Trejo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 24,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21120",
+                "nombre": "Isi",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 124,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402020",
+                "nombre": "Álvaro García",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 24,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21812",
+                "nombre": "Camello",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 100,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23213",
+                "nombre": "Cárdenas",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j22355",
+                "nombre": "De Frutos",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 317,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26734",
+                "nombre": "Pathé Ciss",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 26,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19972",
+                "nombre": "De Tomás",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 232,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100312",
+                "nombre": "Aridane",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20945",
+                "nombre": "Chavarría",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 375,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24419",
+                "nombre": "Kike Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 121,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13729",
+                "nombre": "Falcao",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 149,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23548",
+                "nombre": "Ratiu",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95465",
+                "nombre": "Bebé",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 154,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21649",
+                "nombre": "Nteka",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 266,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84014",
+                "nombre": "Pozo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 0,
+                "minutos": 115,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22711",
+                "nombre": "Martín Pascual",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 376,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13379",
+                "nombre": "Méndez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 152,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

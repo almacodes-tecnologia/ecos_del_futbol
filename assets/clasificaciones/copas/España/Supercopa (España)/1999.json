@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Valencia",
+        "subcampeon": "Barcelona"
+    },
+    "partidos": [
+        {
+            "id_partido": 490130,
+            "ronda": "Final - Ida",
+            "local": "Valencia",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490131,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Valencia",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

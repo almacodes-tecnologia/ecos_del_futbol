@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1986,
+    "temporada": "1986-87",
+    "cuadro_honor": {
+        "campeon": "Steaua București",
+        "subcampeon": "Dynamo Kyiv"
+    },
+    "partidos": [
+        {
+            "id_partido": 440515,
+            "ronda": "Final",
+            "local": "Steaua București",
+            "visitante": "Dynamo Kyiv",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

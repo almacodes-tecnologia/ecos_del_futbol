@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1990,
+    "temporada": "1990-91",
+    "cuadro_honor": {
+        "campeon": "Napoli",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 490302,
+            "ronda": "Final",
+            "local": "Napoli",
+            "visitante": "Juventus",
+            "goles_local": "5",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

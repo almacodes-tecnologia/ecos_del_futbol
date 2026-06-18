@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "Manchester City",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 720057,
+            "ronda": "Final",
+            "local": "Manchester City",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 7,
+            "penaltis_visitante": 6
+        }
+    ]
+}

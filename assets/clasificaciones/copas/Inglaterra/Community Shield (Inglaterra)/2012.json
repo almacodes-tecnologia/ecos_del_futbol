@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "Manchester City",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 720002,
+            "ronda": "Final",
+            "local": "Manchester City",
+            "visitante": "Chelsea",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

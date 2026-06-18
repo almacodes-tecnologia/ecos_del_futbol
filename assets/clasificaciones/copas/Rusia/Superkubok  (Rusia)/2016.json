@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Zenit",
+        "subcampeon": "CSKA Moskva"
+    },
+    "partidos": [
+        {
+            "id_partido": 736488,
+            "ronda": "Final",
+            "local": "Zenit",
+            "visitante": "CSKA Moskva",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

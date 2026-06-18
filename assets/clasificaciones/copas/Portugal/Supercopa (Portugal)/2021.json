@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Sporting de Portugal",
+        "subcampeon": "Braga"
+    },
+    "partidos": [
+        {
+            "id_partido": 490387,
+            "ronda": "Final",
+            "local": "Sporting de Portugal",
+            "visitante": "Braga",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

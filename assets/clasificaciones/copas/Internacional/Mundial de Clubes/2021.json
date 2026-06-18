@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Palmeiras"
+    },
+    "partidos": [
+        {
+            "id_partido": 430261,
+            "ronda": "Semifinal",
+            "local": "Al Ahly",
+            "visitante": "Monterrey",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430262,
+            "ronda": "Semifinal",
+            "local": "Al-Hilal",
+            "visitante": "Al-Jazira",
+            "goles_local": "6",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430263,
+            "ronda": "Semifinal",
+            "local": "Palmeiras",
+            "visitante": "Al Ahly",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430264,
+            "ronda": "Semifinal",
+            "local": "Al-Hilal",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430267,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Palmeiras",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

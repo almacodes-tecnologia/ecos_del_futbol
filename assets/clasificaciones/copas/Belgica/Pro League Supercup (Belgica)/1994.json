@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1994,
+    "temporada": "1994-95",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Anderlecht"
+    },
+    "partidos": [
+        {
+            "id_partido": 721123,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Brugge",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

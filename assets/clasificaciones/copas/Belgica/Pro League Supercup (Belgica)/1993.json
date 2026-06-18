@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Standard Liège"
+    },
+    "partidos": [
+        {
+            "id_partido": 721124,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Standard Liège",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

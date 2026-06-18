@@ -1,0 +1,363 @@
+{
+    "pais": "España",
+    "equipo": "Real Sociedad",
+    "id_bdfutbol": "30",
+    "temporada": "1969-70",
+    "año_inicio": 1969,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j3516",
+                "nombre": "Esnaola",
+                "posicion": "portero",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 37
+            },
+            {
+                "id": "j5396",
+                "nombre": "Gorriti",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2458,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5905",
+                "nombre": "Ormaetxea",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5489",
+                "nombre": "Martínez",
+                "posicion": "central",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2475,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5707",
+                "nombre": "Lema",
+                "posicion": "defensa",
+                "partidos_jugados": 26,
+                "partidos_titular": 24,
+                "minutos": 2172,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5719",
+                "nombre": "Arzak",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2594,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3979",
+                "nombre": "Gaztelu",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 16,
+                "minutos": 1425,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5395",
+                "nombre": "Boronat",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2602,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5490",
+                "nombre": "Urreisti",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2680,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5904",
+                "nombre": "Mendiluce",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 24,
+                "minutos": 2286,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5907",
+                "nombre": "Urtiaga",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 16,
+                "minutos": 1416,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5988",
+                "nombre": "Silvestre",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 16,
+                "minutos": 1447,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6067",
+                "nombre": "Santamaría",
+                "posicion": "defensa",
+                "partidos_jugados": 15,
+                "partidos_titular": 13,
+                "minutos": 1065,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5986",
+                "nombre": "Arambarri",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 8,
+                "minutos": 834,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5906",
+                "nombre": "Soroa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 12,
+                "partidos_titular": 7,
+                "minutos": 631,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8359",
+                "nombre": "Iguaran",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 242,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8358",
+                "nombre": "Arregui",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 108,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5987",
+                "nombre": "Sein",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j3516",
+                "nombre": "Esnaola",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j5396",
+                "nombre": "Gorriti",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5905",
+                "nombre": "Ormaetxea",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5489",
+                "nombre": "Martínez",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5707",
+                "nombre": "Lema",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 423,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5719",
+                "nombre": "Arzak",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5395",
+                "nombre": "Boronat",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 414,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5490",
+                "nombre": "Urreisti",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5904",
+                "nombre": "Mendiluce",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5907",
+                "nombre": "Urtiaga",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5988",
+                "nombre": "Silvestre",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 373,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6067",
+                "nombre": "Santamaría",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5986",
+                "nombre": "Arambarri",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 50,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5906",
+                "nombre": "Soroa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 234,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5720",
+                "nombre": "Corcuera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 36,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6066",
+                "nombre": "Peio Artola",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5231",
+                "nombre": "Araquistain",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 314,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

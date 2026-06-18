@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2002,
+    "temporada": "2002-03",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 721043,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "PSV",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

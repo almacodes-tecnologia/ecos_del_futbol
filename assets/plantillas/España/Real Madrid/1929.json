@@ -1,0 +1,363 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "1929-30",
+    "año_inicio": 1929,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j11664",
+                "nombre": "Vidal",
+                "posicion": "portero",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1121,
+                "goles_marcados": 0,
+                "goles_encajados": 22
+            },
+            {
+                "id": "j11467",
+                "nombre": "Quesada",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11731",
+                "nombre": "Torregrosa",
+                "posicion": "defensa",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1058,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11662",
+                "nombre": "Pachuco Prats",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11660",
+                "nombre": "Esparza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11661",
+                "nombre": "José María Peña",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11730",
+                "nombre": "Morera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10952",
+                "nombre": "Rubio",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1530,
+                "goles_marcados": 19,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11728",
+                "nombre": "Galé",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11618",
+                "nombre": "Olaso",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11560",
+                "nombre": "San Miguel",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10938",
+                "nombre": "Nebot",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 499,
+                "goles_marcados": 0,
+                "goles_encajados": 20
+            },
+            {
+                "id": "j11295",
+                "nombre": "Lazcano",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11794",
+                "nombre": "Lope Peña",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11725",
+                "nombre": "Cosme",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11795",
+                "nombre": "López",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11663",
+                "nombre": "Triana",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11792",
+                "nombre": "Cominges",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11791",
+                "nombre": "Bergareche",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11793",
+                "nombre": "Del Campo",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11796",
+                "nombre": "Moriones",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j11664",
+                "nombre": "Vidal",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 0,
+                "goles_encajados": 11
+            },
+            {
+                "id": "j11467",
+                "nombre": "Quesada",
+                "posicion": "defensa",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11731",
+                "nombre": "Torregrosa",
+                "posicion": "defensa",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11662",
+                "nombre": "Pachuco Prats",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 837,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11660",
+                "nombre": "Esparza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11661",
+                "nombre": "José María Peña",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 840,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11730",
+                "nombre": "Morera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10952",
+                "nombre": "Rubio",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11618",
+                "nombre": "Olaso",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 840,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11295",
+                "nombre": "Lazcano",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 840,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11794",
+                "nombre": "Lope Peña",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11725",
+                "nombre": "Cosme",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 840,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11663",
+                "nombre": "Triana",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 750,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11791",
+                "nombre": "Bergareche",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

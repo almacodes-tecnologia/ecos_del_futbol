@@ -1,0 +1,23 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2020,
+    "temporada": "2020-21",
+    "cuadro_honor": {
+        "campeon": "Trabzonspor",
+        "subcampeon": "Başakşehir"
+    },
+    "partidos": [
+        {
+            "id_partido": 396700,
+            "ronda": "Final",
+            "local": "Başakşehir",
+            "visitante": "Trabzonspor",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

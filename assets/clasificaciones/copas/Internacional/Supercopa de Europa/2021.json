@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Villarreal"
+    },
+    "partidos": [
+        {
+            "id_partido": 440525,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 6,
+            "penaltis_visitante": 5
+        }
+    ]
+}

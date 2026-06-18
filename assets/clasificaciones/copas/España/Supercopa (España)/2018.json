@@ -1,0 +1,23 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2018,
+    "temporada": "2018-19",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Sevilla"
+    },
+    "partidos": [
+        {
+            "id_partido": 490288,
+            "ronda": "Final",
+            "local": "Sevilla",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

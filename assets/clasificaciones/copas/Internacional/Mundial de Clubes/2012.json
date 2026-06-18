@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "Corinthians",
+        "subcampeon": "Al Ahly"
+    },
+    "partidos": [
+        {
+            "id_partido": 430053,
+            "ronda": "Semifinal",
+            "local": "Monterrey",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430054,
+            "ronda": "Semifinal",
+            "local": "Corinthians",
+            "visitante": "Chelsea",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430197,
+            "ronda": "Semifinal",
+            "local": "Ulsan Hyundai",
+            "visitante": "Monterrey",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430198,
+            "ronda": "Semifinal",
+            "local": "Sanfrecce Hiroshima",
+            "visitante": "Al Ahly",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430199,
+            "ronda": "Final",
+            "local": "Al Ahly",
+            "visitante": "Corinthians",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

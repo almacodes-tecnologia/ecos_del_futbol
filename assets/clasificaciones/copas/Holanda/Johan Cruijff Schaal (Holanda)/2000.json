@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "PSV",
+        "subcampeon": "Roda"
+    },
+    "partidos": [
+        {
+            "id_partido": 721041,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Roda",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

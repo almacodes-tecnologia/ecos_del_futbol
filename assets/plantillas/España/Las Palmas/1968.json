@@ -1,0 +1,283 @@
+{
+    "pais": "España",
+    "equipo": "Las Palmas",
+    "id_bdfutbol": "19",
+    "temporada": "1968-69",
+    "año_inicio": 1968,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5789",
+                "nombre": "Oregui",
+                "posicion": "portero",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 34
+            },
+            {
+                "id": "j5238",
+                "nombre": "Martín Marrero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2425,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5320",
+                "nombre": "Castellano",
+                "posicion": "defensa",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2090,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5722",
+                "nombre": "Tonono",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5813",
+                "nombre": "Justo Gilberto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6071",
+                "nombre": "Guedes",
+                "posicion": "centrocampista",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1972,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6006",
+                "nombre": "Niz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1657,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5322",
+                "nombre": "Germán",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5910",
+                "nombre": "Gilberto",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5721",
+                "nombre": "León",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2160,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6072",
+                "nombre": "José Juan",
+                "posicion": "extremo",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 1987,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7630",
+                "nombre": "Aparicio",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6073",
+                "nombre": "José Luis",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5841",
+                "nombre": "Lo",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5789",
+                "nombre": "Oregui",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j5238",
+                "nombre": "Martín Marrero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5320",
+                "nombre": "Castellano",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5722",
+                "nombre": "Tonono",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5813",
+                "nombre": "Justo Gilberto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5322",
+                "nombre": "Germán",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5910",
+                "nombre": "Gilberto",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5721",
+                "nombre": "León",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6072",
+                "nombre": "José Juan",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7630",
+                "nombre": "Aparicio",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6073",
+                "nombre": "José Luis",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5841",
+                "nombre": "Lo",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5498",
+                "nombre": "Trona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

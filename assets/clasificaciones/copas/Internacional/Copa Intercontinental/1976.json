@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1976,
+    "temporada": "1976-77",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Cruzeiro"
+    },
+    "partidos": [
+        {
+            "id_partido": 430022,
+            "ronda": "Final - Ida",
+            "local": "Bayern München",
+            "visitante": "Cruzeiro",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430023,
+            "ronda": "Final - Vuelta",
+            "local": "Cruzeiro",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

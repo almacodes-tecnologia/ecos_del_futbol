@@ -1,0 +1,353 @@
+{
+    "pais": "Internacional",
+    "copa": "Recopa",
+    "año_inicio": 1970,
+    "temporada": "1970-71",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Manchester City"
+    },
+    "partidos": [
+        {
+            "id_partido": 420102,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Wacker Innsbruck",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420103,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Wacker Innsbruck",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420104,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Cardiff",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420105,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Cardiff",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420106,
+            "ronda": "Octavos de Final - Ida",
+            "local": "PSV",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420107,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "PSV",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420108,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 420109,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423056,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Cardiff",
+            "visitante": "Nantes",
+            "goles_local": "5",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423058,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Budapest Honvéd",
+            "visitante": "Manchester City",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423059,
+            "ronda": "Octavos de Final - Ida",
+            "local": "PSV",
+            "visitante": "Steaua București",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423060,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Brugge",
+            "visitante": "Zürich",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423061,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Göztepe",
+            "visitante": "Górnik Zabrze",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423062,
+            "ronda": "Octavos de Final - Ida",
+            "local": "CSKA Septemvriysko Zname",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423063,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Benfica",
+            "visitante": "Vorwärts Berlin",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423064,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Cardiff",
+            "visitante": "Nantes",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423066,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Budapest Honvéd",
+            "visitante": "Manchester City",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423067,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "PSV",
+            "visitante": "Steaua București",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423068,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Brugge",
+            "visitante": "Zürich",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423069,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Göztepe",
+            "visitante": "Górnik Zabrze",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423070,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "CSKA Septemvriysko Zname",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423071,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Vorwärts Berlin",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423072,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Brugge",
+            "visitante": "Chelsea",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423074,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "PSV",
+            "visitante": "Vorwärts Berlin",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423075,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Górnik Zabrze",
+            "visitante": "Manchester City",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423076,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Brugge",
+            "visitante": "Chelsea",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423078,
+            "ronda": "Semifinal - Vuelta",
+            "local": "PSV",
+            "visitante": "Vorwärts Berlin",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423079,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Górnik Zabrze",
+            "visitante": "Manchester City",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423080,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Górnik Zabrze",
+            "visitante": "Manchester City",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423081,
+            "ronda": "Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Manchester City",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 423083,
+            "ronda": "Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Manchester City",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

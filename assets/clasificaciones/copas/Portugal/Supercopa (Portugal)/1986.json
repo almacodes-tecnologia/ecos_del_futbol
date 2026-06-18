@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1986,
+    "temporada": "1986-87",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 720066,
+            "ronda": "Final - Ida",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720067,
+            "ronda": "Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

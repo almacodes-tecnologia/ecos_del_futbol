@@ -1,0 +1,635 @@
+{
+    "pais": "España",
+    "equipo": "Real Madrid",
+    "id_bdfutbol": "1",
+    "temporada": "1969-70",
+    "año_inicio": 1969,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5055",
+                "nombre": "Reina",
+                "posicion": "portero",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 0,
+                "goles_encajados": 22
+            },
+            {
+                "id": "j5427",
+                "nombre": "Rifé",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1427,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5960",
+                "nombre": "Eladio",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2287,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5428",
+                "nombre": "Torres",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5130",
+                "nombre": "Gallego",
+                "posicion": "central",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2430,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5053",
+                "nombre": "Marcial",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2353,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5417",
+                "nombre": "Zabalza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 21,
+                "minutos": 1930,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5169",
+                "nombre": "Castro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 15,
+                "minutos": 1325,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3936",
+                "nombre": "Rexach",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 25,
+                "minutos": 2210,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5941",
+                "nombre": "Zaldúa",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 21,
+                "minutos": 1793,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5418",
+                "nombre": "Alfonseda",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 19,
+                "minutos": 1780,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5663",
+                "nombre": "Sadurní",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j5961",
+                "nombre": "Fusté",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1230,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5749",
+                "nombre": "Pujol",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 14,
+                "minutos": 1243,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5662",
+                "nombre": "Martí Filosia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 898,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3888",
+                "nombre": "Juan Carlos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 10,
+                "minutos": 950,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6000",
+                "nombre": "Ramoní",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 7,
+                "minutos": 670,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5758",
+                "nombre": "Romea",
+                "posicion": "defensa",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 516,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5930",
+                "nombre": "Franch",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5368",
+                "nombre": "García Castany",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 1,
+                "minutos": 233,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5913",
+                "nombre": "Pellicer",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 217,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6036",
+                "nombre": "Sanjuán",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 53,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5344",
+                "nombre": "Bustillo",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 50,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5055",
+                "nombre": "Reina",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 535,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j5427",
+                "nombre": "Rifé",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 535,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5960",
+                "nombre": "Eladio",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 512,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5428",
+                "nombre": "Torres",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 535,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5130",
+                "nombre": "Gallego",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 535,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5053",
+                "nombre": "Marcial",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 523,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5417",
+                "nombre": "Zabalza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 129,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5169",
+                "nombre": "Castro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3936",
+                "nombre": "Rexach",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 457,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5941",
+                "nombre": "Zaldúa",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5418",
+                "nombre": "Alfonseda",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 309,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5961",
+                "nombre": "Fusté",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5749",
+                "nombre": "Pujol",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 491,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5662",
+                "nombre": "Martí Filosia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3888",
+                "nombre": "Juan Carlos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 387,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5368",
+                "nombre": "García Castany",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5344",
+                "nombre": "Bustillo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa de Ferias": [
+            {
+                "id": "j5055",
+                "nombre": "Reina",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j5427",
+                "nombre": "Rifé",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5960",
+                "nombre": "Eladio",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 449,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5428",
+                "nombre": "Torres",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 425,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5130",
+                "nombre": "Gallego",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5053",
+                "nombre": "Marcial",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 160,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5417",
+                "nombre": "Zabalza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 226,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5169",
+                "nombre": "Castro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 334,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3936",
+                "nombre": "Rexach",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 404,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5941",
+                "nombre": "Zaldúa",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 226,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5418",
+                "nombre": "Alfonseda",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5663",
+                "nombre": "Sadurní",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5961",
+                "nombre": "Fusté",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 246,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5749",
+                "nombre": "Pujol",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 316,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5662",
+                "nombre": "Martí Filosia",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3888",
+                "nombre": "Juan Carlos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 295,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6000",
+                "nombre": "Ramoní",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 335,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5758",
+                "nombre": "Romea",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 34,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5930",
+                "nombre": "Franch",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5368",
+                "nombre": "García Castany",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 145,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5913",
+                "nombre": "Pellicer",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 250,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6036",
+                "nombre": "Sanjuán",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

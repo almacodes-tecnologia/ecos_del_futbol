@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Standard Liège"
+    },
+    "partidos": [
+        {
+            "id_partido": 721087,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Standard Liège",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

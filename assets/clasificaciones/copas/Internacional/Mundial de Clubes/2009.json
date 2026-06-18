@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2009,
+    "temporada": "2009-10",
+    "cuadro_honor": {
+        "campeon": "Estudiantes de La Plata",
+        "subcampeon": "Pohang Steelers"
+    },
+    "partidos": [
+        {
+            "id_partido": 430080,
+            "ronda": "Semifinal",
+            "local": "Atlante",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430081,
+            "ronda": "Semifinal",
+            "local": "Estudiantes de La Plata",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430179,
+            "ronda": "Semifinal",
+            "local": "Auckland City",
+            "visitante": "Atlante",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430180,
+            "ronda": "Semifinal",
+            "local": "Mazembe",
+            "visitante": "Pohang Steelers",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430181,
+            "ronda": "Final",
+            "local": "Pohang Steelers",
+            "visitante": "Estudiantes de La Plata",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2007,
+    "temporada": "2007-08",
+    "cuadro_honor": {
+        "campeon": "Boca Juniors",
+        "subcampeon": "Étoile du Sahel"
+    },
+    "partidos": [
+        {
+            "id_partido": 430072,
+            "ronda": "Semifinal",
+            "local": "Urawa Red Diamonds",
+            "visitante": "Milan",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430073,
+            "ronda": "Semifinal",
+            "local": "Boca Juniors",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430168,
+            "ronda": "Semifinal",
+            "local": "Sepahan",
+            "visitante": "Urawa Red Diamonds",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430169,
+            "ronda": "Semifinal",
+            "local": "Étoile du Sahel",
+            "visitante": "Pachuca",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430170,
+            "ronda": "Final",
+            "local": "Étoile du Sahel",
+            "visitante": "Boca Juniors",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

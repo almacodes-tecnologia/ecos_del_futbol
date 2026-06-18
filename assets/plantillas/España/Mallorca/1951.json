@@ -1,0 +1,333 @@
+{
+    "pais": "España",
+    "equipo": "Mallorca",
+    "id_bdfutbol": "24",
+    "temporada": "1951-52",
+    "año_inicio": 1951,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j8113",
+                "nombre": "Caldentey",
+                "posicion": "portero",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 0,
+                "goles_encajados": 36
+            },
+            {
+                "id": "j17370",
+                "nombre": "Ferrer",
+                "posicion": "defensa",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17371",
+                "nombre": "Rullán",
+                "posicion": "defensa",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18424",
+                "nombre": "Prats",
+                "posicion": "defensa",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17712",
+                "nombre": "Ucelay",
+                "posicion": "defensa",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17372",
+                "nombre": "Moreno",
+                "posicion": "defensa",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2135,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9474",
+                "nombre": "Rius",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1440,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9794",
+                "nombre": "Morro",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 19,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9985",
+                "nombre": "Sans",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2610,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18402",
+                "nombre": "Ferrer",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10724",
+                "nombre": "Agustí",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17749",
+                "nombre": "Nadal",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j18428",
+                "nombre": "Ramis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17714",
+                "nombre": "Mijares",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17764",
+                "nombre": "Serra",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9884",
+                "nombre": "Mengó",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10504",
+                "nombre": "Vidal",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18449",
+                "nombre": "Calabuig",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (FED)": [
+            {
+                "id": "j17370",
+                "nombre": "Ferrer",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18424",
+                "nombre": "Prats",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17712",
+                "nombre": "Ucelay",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17372",
+                "nombre": "Moreno",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9474",
+                "nombre": "Rius",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9794",
+                "nombre": "Morro",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 92,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9985",
+                "nombre": "Sans",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18402",
+                "nombre": "Ferrer",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10724",
+                "nombre": "Agustí",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17749",
+                "nombre": "Nadal",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j18428",
+                "nombre": "Ramis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17764",
+                "nombre": "Serra",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9884",
+                "nombre": "Mengó",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10533",
+                "nombre": "Company",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 134,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            }
+        ]
+    }
+}

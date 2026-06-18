@@ -1,0 +1,23 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2015,
+    "temporada": "2015-16",
+    "cuadro_honor": {
+        "campeon": "Galatasaray",
+        "subcampeon": "Bursaspor"
+    },
+    "partidos": [
+        {
+            "id_partido": 396705,
+            "ronda": "Final",
+            "local": "Galatasaray",
+            "visitante": "Bursaspor",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

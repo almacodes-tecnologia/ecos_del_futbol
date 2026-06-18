@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Zulte Waregem"
+    },
+    "partidos": [
+        {
+            "id_partido": 721085,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Zulte Waregem",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

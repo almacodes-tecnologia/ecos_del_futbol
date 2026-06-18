@@ -1,0 +1,585 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "1979-80",
+    "año_inicio": 1979,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j3659",
+                "nombre": "García Remón",
+                "posicion": "portero",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2970,
+                "goles_marcados": 0,
+                "goles_encajados": 32
+            },
+            {
+                "id": "j3232",
+                "nombre": "San José",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1573,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2945",
+                "nombre": "Camacho",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2896,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3883",
+                "nombre": "Benito",
+                "posicion": "central",
+                "partidos_jugados": 27,
+                "partidos_titular": 24,
+                "minutos": 2085,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3526",
+                "nombre": "Ángel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2738,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3658",
+                "nombre": "Del Bosque",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2807,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3535",
+                "nombre": "Stielike",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2468,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5125",
+                "nombre": "Pirri",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2240,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3137",
+                "nombre": "Santillana",
+                "posicion": "delantero centro",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2925,
+                "goles_marcados": 23,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2883",
+                "nombre": "Juanito",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2471,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3666",
+                "nombre": "Cunningham",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2439,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3533",
+                "nombre": "Miguel Ángel",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j2991",
+                "nombre": "Sabido",
+                "posicion": "central",
+                "partidos_jugados": 19,
+                "partidos_titular": 15,
+                "minutos": 1498,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3739",
+                "nombre": "García Hernández",
+                "posicion": "centrocampista",
+                "partidos_jugados": 22,
+                "partidos_titular": 10,
+                "minutos": 1088,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3877",
+                "nombre": "Roberto Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 6,
+                "minutos": 1139,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2901",
+                "nombre": "Isidro",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 9,
+                "minutos": 854,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2942",
+                "nombre": "Rincón",
+                "posicion": "delantero centro",
+                "partidos_jugados": 8,
+                "partidos_titular": 2,
+                "minutos": 326,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3172",
+                "nombre": "Portugal",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 1,
+                "minutos": 267,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3323",
+                "nombre": "García Navajas",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 325,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2961",
+                "nombre": "Pérez García",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 404,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j3659",
+                "nombre": "García Remón",
+                "posicion": "portero",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 660,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j3232",
+                "nombre": "San José",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 323,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2945",
+                "nombre": "Camacho",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3883",
+                "nombre": "Benito",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3526",
+                "nombre": "Ángel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3658",
+                "nombre": "Del Bosque",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 714,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3535",
+                "nombre": "Stielike",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 708,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5125",
+                "nombre": "Pirri",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 442,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3137",
+                "nombre": "Santillana",
+                "posicion": "delantero centro",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2883",
+                "nombre": "Juanito",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 351,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3666",
+                "nombre": "Cunningham",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3533",
+                "nombre": "Miguel Ángel",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 60,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j2991",
+                "nombre": "Sabido",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 312,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3739",
+                "nombre": "García Hernández",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 107,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3877",
+                "nombre": "Roberto Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 3,
+                "minutos": 274,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2901",
+                "nombre": "Isidro",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 49,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3172",
+                "nombre": "Portugal",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 7,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3323",
+                "nombre": "García Navajas",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 307,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2961",
+                "nombre": "Pérez García",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j3659",
+                "nombre": "García Remón",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 240,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j2945",
+                "nombre": "Camacho",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3883",
+                "nombre": "Benito",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3526",
+                "nombre": "Ángel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 531,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3658",
+                "nombre": "Del Bosque",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 525,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3535",
+                "nombre": "Stielike",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 633,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5125",
+                "nombre": "Pirri",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3137",
+                "nombre": "Santillana",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 546,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2883",
+                "nombre": "Juanito",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 510,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3666",
+                "nombre": "Cunningham",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 382,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3533",
+                "nombre": "Miguel Ángel",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 420,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j2991",
+                "nombre": "Sabido",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 631,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3739",
+                "nombre": "García Hernández",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 252,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3877",
+                "nombre": "Roberto Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 413,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2901",
+                "nombre": "Isidro",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 479,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2942",
+                "nombre": "Rincón",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 309,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3172",
+                "nombre": "Portugal",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2961",
+                "nombre": "Pérez García",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 339,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

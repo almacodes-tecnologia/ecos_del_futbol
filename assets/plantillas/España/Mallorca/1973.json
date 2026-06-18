@@ -1,0 +1,383 @@
+{
+    "pais": "España",
+    "equipo": "Mallorca",
+    "id_bdfutbol": "24",
+    "temporada": "1973-74",
+    "año_inicio": 1973,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j4007",
+                "nombre": "Campos",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 32
+            },
+            {
+                "id": "j5259",
+                "nombre": "Cuiñas",
+                "posicion": "defensa",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2880,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5699",
+                "nombre": "Cortés",
+                "posicion": "defensa",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2578,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8353",
+                "nombre": "Sans",
+                "posicion": "defensa",
+                "partidos_jugados": 25,
+                "partidos_titular": 23,
+                "minutos": 1999,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8328",
+                "nombre": "Taberner",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 21,
+                "minutos": 1851,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5885",
+                "nombre": "Frígols",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 37,
+                "minutos": 3345,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5256",
+                "nombre": "Blanco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2923,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6006",
+                "nombre": "Niz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 30,
+                "minutos": 2644,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13818",
+                "nombre": "Urquía",
+                "posicion": "extremo",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 2969,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13344",
+                "nombre": "Tinín",
+                "posicion": "extremo",
+                "partidos_jugados": 35,
+                "partidos_titular": 26,
+                "minutos": 2434,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13346",
+                "nombre": "Jiménez",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1955,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5872",
+                "nombre": "Platas",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 21,
+                "minutos": 1848,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13538",
+                "nombre": "Chango Díaz",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 16,
+                "minutos": 1241,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8342",
+                "nombre": "Mariano",
+                "posicion": "defensa",
+                "partidos_jugados": 18,
+                "partidos_titular": 17,
+                "minutos": 1509,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13539",
+                "nombre": "Bran",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 12,
+                "minutos": 1117,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13557",
+                "nombre": "Vicens",
+                "posicion": "centrocampista",
+                "partidos_jugados": 20,
+                "partidos_titular": 3,
+                "minutos": 496,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12906",
+                "nombre": "Bartolí",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 6,
+                "minutos": 775,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8336",
+                "nombre": "Cáceres",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 600,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5755",
+                "nombre": "Doval",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 656,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5934",
+                "nombre": "Martín",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 252,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13556",
+                "nombre": "Ruiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 34,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j4007",
+                "nombre": "Campos",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j5259",
+                "nombre": "Cuiñas",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5699",
+                "nombre": "Cortés",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8353",
+                "nombre": "Sans",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8328",
+                "nombre": "Taberner",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5256",
+                "nombre": "Blanco",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6006",
+                "nombre": "Niz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13344",
+                "nombre": "Tinín",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13346",
+                "nombre": "Jiménez",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13538",
+                "nombre": "Chango Díaz",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 134,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8342",
+                "nombre": "Mariano",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13557",
+                "nombre": "Vicens",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8336",
+                "nombre": "Cáceres",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5755",
+                "nombre": "Doval",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5934",
+                "nombre": "Martín",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13904",
+                "nombre": "Pons",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

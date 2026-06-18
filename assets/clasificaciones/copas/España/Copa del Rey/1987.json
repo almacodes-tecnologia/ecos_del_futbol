@@ -1,0 +1,331 @@
+{
+    "pais": "España",
+    "copa": "Copa del Rey",
+    "año_inicio": 1987,
+    "temporada": "1987-88",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Real Sociedad"
+    },
+    "partidos": [
+        {
+            "id_partido": 515234,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Castilla",
+            "visitante": "Athletic Club",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515235,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Osasuna",
+            "visitante": "Celta de Vigo",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515236,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sevilla",
+            "visitante": "Castellón",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515237,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Español",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515238,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Las Palmas",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515239,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sporting de Gijón",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515240,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sabadell",
+            "visitante": "Betis",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515241,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Cádiz",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515242,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Castilla",
+            "visitante": "Athletic Club",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515243,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Osasuna",
+            "visitante": "Celta de Vigo",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515244,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sevilla",
+            "visitante": "Castellón",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515245,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Español",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515246,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Las Palmas",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515247,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sporting de Gijón",
+            "visitante": "Real Sociedad",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515248,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sabadell",
+            "visitante": "Betis",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515249,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Cádiz",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515250,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Castilla",
+            "visitante": "Osasuna",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515251,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Castellón",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515252,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Real Sociedad",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515253,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Sabadell",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515254,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Castilla",
+            "visitante": "Osasuna",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515255,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Castellón",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515256,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515257,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Sabadell",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515258,
+            "ronda": "Semifinal - Ida",
+            "local": "Osasuna",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515259,
+            "ronda": "Semifinal - Ida",
+            "local": "Real Sociedad",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515260,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Osasuna",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515261,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Real Sociedad",
+            "visitante": "Real Madrid",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 515262,
+            "ronda": "Final",
+            "local": "Barcelona",
+            "visitante": "Real Sociedad",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

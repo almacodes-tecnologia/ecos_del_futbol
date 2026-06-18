@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 1996,
+    "temporada": "1996-97",
+    "cuadro_honor": {
+        "campeon": "PSV",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 699941,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "PSV",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

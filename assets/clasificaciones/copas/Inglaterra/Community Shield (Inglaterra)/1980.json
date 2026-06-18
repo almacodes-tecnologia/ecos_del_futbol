@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1980,
+    "temporada": "1980-81",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "West Ham"
+    },
+    "partidos": [
+        {
+            "id_partido": 720049,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "West Ham",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

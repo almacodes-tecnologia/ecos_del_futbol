@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Arsenal"
+    },
+    "partidos": [
+        {
+            "id_partido": 720016,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Arsenal",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

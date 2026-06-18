@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1996,
+    "temporada": "1996-97",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "River Plate"
+    },
+    "partidos": [
+        {
+            "id_partido": 430038,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "River Plate",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

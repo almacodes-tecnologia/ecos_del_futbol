@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Feyenoord",
+        "subcampeon": "Vitesse"
+    },
+    "partidos": [
+        {
+            "id_partido": 721058,
+            "ronda": "Final",
+            "local": "Feyenoord",
+            "visitante": "Vitesse",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 2
+        }
+    ]
+}

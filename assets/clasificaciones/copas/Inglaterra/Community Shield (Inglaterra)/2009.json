@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2009,
+    "temporada": "2009-10",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 720012,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Manchester United",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 1
+        }
+    ]
+}

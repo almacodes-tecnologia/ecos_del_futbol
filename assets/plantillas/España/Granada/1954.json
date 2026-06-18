@@ -1,0 +1,383 @@
+{
+    "pais": "España",
+    "equipo": "Granada",
+    "id_bdfutbol": "59",
+    "temporada": "1954-55",
+    "año_inicio": 1954,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j8232",
+                "nombre": "Candi",
+                "posicion": "portero",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 0,
+                "goles_encajados": 25
+            },
+            {
+                "id": "j8243",
+                "nombre": "Vicente",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2520,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9781",
+                "nombre": "Millán",
+                "posicion": "defensa",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2250,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10204",
+                "nombre": "González",
+                "posicion": "defensa",
+                "partidos_jugados": 23,
+                "partidos_titular": 23,
+                "minutos": 2070,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9642",
+                "nombre": "Padilla",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1980,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9890",
+                "nombre": "Valle",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17013",
+                "nombre": "Cea",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2143,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9474",
+                "nombre": "Rius",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2160,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8160",
+                "nombre": "Guerrero",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8240",
+                "nombre": "Rafa",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17021",
+                "nombre": "Rodríguez",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10353",
+                "nombre": "Carrillo",
+                "posicion": "defensa",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1260,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9894",
+                "nombre": "Liz II",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1218,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8239",
+                "nombre": "Olalla",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15429",
+                "nombre": "Sueza",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10092",
+                "nombre": "Galacho",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9816",
+                "nombre": "Pérez Andreu",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17500",
+                "nombre": "Escámez",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j8232",
+                "nombre": "Candi",
+                "posicion": "portero",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 780,
+                "goles_marcados": 0,
+                "goles_encajados": 22
+            },
+            {
+                "id": "j8243",
+                "nombre": "Vicente",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9781",
+                "nombre": "Millán",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10204",
+                "nombre": "González",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9642",
+                "nombre": "Padilla",
+                "posicion": "defensa",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9890",
+                "nombre": "Valle",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17013",
+                "nombre": "Cea",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9474",
+                "nombre": "Rius",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8160",
+                "nombre": "Guerrero",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8240",
+                "nombre": "Rafa",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17021",
+                "nombre": "Rodríguez",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j17062",
+                "nombre": "Balado",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j10353",
+                "nombre": "Carrillo",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9894",
+                "nombre": "Liz II",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8239",
+                "nombre": "Olalla",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15429",
+                "nombre": "Sueza",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j10092",
+                "nombre": "Galacho",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18185",
+                "nombre": "Lopera",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9548",
+                "nombre": "Baena",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

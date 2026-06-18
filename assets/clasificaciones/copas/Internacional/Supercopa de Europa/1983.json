@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1983,
+    "temporada": "1983-84",
+    "cuadro_honor": {
+        "campeon": "Aberdeen",
+        "subcampeon": "Hamburger"
+    },
+    "partidos": [
+        {
+            "id_partido": 440022,
+            "ronda": "Final - Ida",
+            "local": "Hamburger",
+            "visitante": "Aberdeen",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440023,
+            "ronda": "Final - Vuelta",
+            "local": "Aberdeen",
+            "visitante": "Hamburger",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

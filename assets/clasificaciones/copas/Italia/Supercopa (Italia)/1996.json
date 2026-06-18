@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1996,
+    "temporada": "1996-97",
+    "cuadro_honor": {
+        "campeon": "Fiorentina",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 490309,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Fiorentina",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

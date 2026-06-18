@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1955,
+    "temporada": "1955-56",
+    "cuadro_honor": {
+        "campeon": "Stade de Reims",
+        "subcampeon": "Hibernian"
+    },
+    "partidos": [
+        {
+            "id_partido": 400000,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Servette",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400001,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Servette",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400002,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Partizan",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400003,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Partizan",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400004,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Milan",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400005,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400006,
+            "ronda": "Octavos de Final",
+            "local": "Real Madrid",
+            "visitante": "Stade de Reims",
+            "goles_local": "4",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705020,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Milan",
+            "visitante": "Saarbrücken",
+            "goles_local": "3",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705021,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Aarhus",
+            "visitante": "Stade de Reims",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705022,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Rapid Wien",
+            "visitante": "PSV",
+            "goles_local": "6",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705023,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Djurgården",
+            "visitante": "Gwardia Warszawa",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705024,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Rot-Weiss Essen",
+            "visitante": "Hibernian",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705026,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Vörös Lobogó",
+            "visitante": "Anderlecht",
+            "goles_local": "6",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705027,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sporting de Portugal",
+            "visitante": "Partizan",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705028,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Milan",
+            "visitante": "Saarbrücken",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705029,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Rapid Wien",
+            "visitante": "PSV",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705030,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Aarhus",
+            "visitante": "Stade de Reims",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705031,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Vörös Lobogó",
+            "visitante": "Anderlecht",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705032,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Rot-Weiss Essen",
+            "visitante": "Hibernian",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705033,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Djurgården",
+            "visitante": "Gwardia Warszawa",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705035,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Partizan",
+            "goles_local": "2",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705036,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Rapid Wien",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705038,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Stade de Reims",
+            "visitante": "Vörös Lobogó",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705039,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Djurgården",
+            "visitante": "Hibernian",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705040,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Rapid Wien",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "7",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705042,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Stade de Reims",
+            "visitante": "Vörös Lobogó",
+            "goles_local": "4",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705043,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Djurgården",
+            "visitante": "Hibernian",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705045,
+            "ronda": "Final - Ida",
+            "local": "Stade de Reims",
+            "visitante": "Hibernian",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 705047,
+            "ronda": "Final - Vuelta",
+            "local": "Stade de Reims",
+            "visitante": "Hibernian",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

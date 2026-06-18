@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Inter"
+    },
+    "partidos": [
+        {
+            "id_partido": 490334,
+            "ronda": "Final",
+            "local": "Inter",
+            "visitante": "Juventus",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 4
+        }
+    ]
+}

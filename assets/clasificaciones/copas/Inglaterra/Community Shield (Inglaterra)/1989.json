@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1989,
+    "temporada": "1989-90",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Arsenal"
+    },
+    "partidos": [
+        {
+            "id_partido": 720034,
+            "ronda": "Final",
+            "local": "Arsenal",
+            "visitante": "Liverpool",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

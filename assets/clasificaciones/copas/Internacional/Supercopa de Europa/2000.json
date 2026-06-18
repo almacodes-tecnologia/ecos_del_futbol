@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Galatasaray",
+        "subcampeon": "Real Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 440480,
+            "ronda": "Final",
+            "local": "Galatasaray",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

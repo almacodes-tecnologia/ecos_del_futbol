@@ -1,0 +1,797 @@
+{
+    "pais": "España",
+    "equipo": "Zaragoza",
+    "id_bdfutbol": "39",
+    "temporada": "1995-96",
+    "año_inicio": 1995,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j1685",
+                "nombre": "Juanmi",
+                "posicion": "portero",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2790,
+                "goles_marcados": 0,
+                "goles_encajados": 43
+            },
+            {
+                "id": "j63",
+                "nombre": "Belsué",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3264,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 27,
+                "partidos_titular": 26,
+                "minutos": 2228,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2647",
+                "nombre": "Aguado",
+                "posicion": "central",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3177,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j781",
+                "nombre": "Cáceres",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2565,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2450",
+                "nombre": "Aragón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 37,
+                "minutos": 3208,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1008",
+                "nombre": "Poyet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 34,
+                "minutos": 2968,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2124",
+                "nombre": "Óscar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 26,
+                "minutos": 2319,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j764",
+                "nombre": "Morientes",
+                "posicion": "delantero centro",
+                "partidos_jugados": 29,
+                "partidos_titular": 28,
+                "minutos": 2172,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j486",
+                "nombre": "Dani",
+                "posicion": "delantero centro",
+                "partidos_jugados": 38,
+                "partidos_titular": 26,
+                "minutos": 2236,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2474",
+                "nombre": "Rambert",
+                "posicion": "extremo",
+                "partidos_jugados": 20,
+                "partidos_titular": 17,
+                "minutos": 1360,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1430",
+                "nombre": "Belman",
+                "posicion": "portero",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 16
+            },
+            {
+                "id": "j2053",
+                "nombre": "Nayim",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 22,
+                "minutos": 2053,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j896",
+                "nombre": "Paqui",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 26,
+                "partidos_titular": 20,
+                "minutos": 1747,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j815",
+                "nombre": "Higuera",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 16,
+                "minutos": 1657,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1242",
+                "nombre": "García Sanjuán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 16,
+                "minutos": 1567,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1985",
+                "nombre": "Pardeza",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 15,
+                "minutos": 1439,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1793",
+                "nombre": "Cuartero",
+                "posicion": "central",
+                "partidos_jugados": 18,
+                "partidos_titular": 13,
+                "minutos": 1305,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2503",
+                "nombre": "Berti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 12,
+                "minutos": 924,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1010",
+                "nombre": "Gustavo López",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 9,
+                "minutos": 875,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1417",
+                "nombre": "Gay",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 0,
+                "minutos": 201,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1113",
+                "nombre": "Iñigo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 7,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Supercopa de Europa": [
+            {
+                "id": "j1685",
+                "nombre": "Juanmi",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j63",
+                "nombre": "Belsué",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2647",
+                "nombre": "Aguado",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j781",
+                "nombre": "Cáceres",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2450",
+                "nombre": "Aragón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2124",
+                "nombre": "Óscar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 158,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j764",
+                "nombre": "Morientes",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 171,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j486",
+                "nombre": "Dani",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 169,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1430",
+                "nombre": "Belman",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j2053",
+                "nombre": "Nayim",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j815",
+                "nombre": "Higuera",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 155,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1242",
+                "nombre": "García Sanjuán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j145",
+                "nombre": "Cedrún",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 64,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1985",
+                "nombre": "Pardeza",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 11,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1793",
+                "nombre": "Cuartero",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 99,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2503",
+                "nombre": "Berti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 11,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1010",
+                "nombre": "Gustavo López",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 142,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1417",
+                "nombre": "Gay",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j1685",
+                "nombre": "Juanmi",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j63",
+                "nombre": "Belsué",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 172,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2647",
+                "nombre": "Aguado",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j781",
+                "nombre": "Cáceres",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2450",
+                "nombre": "Aragón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1008",
+                "nombre": "Poyet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 333,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2124",
+                "nombre": "Óscar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 253,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j764",
+                "nombre": "Morientes",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 201,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j486",
+                "nombre": "Dani",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2474",
+                "nombre": "Rambert",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 264,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1430",
+                "nombre": "Belman",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j2053",
+                "nombre": "Nayim",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 259,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j896",
+                "nombre": "Paqui",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 125,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j815",
+                "nombre": "Higuera",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 208,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1242",
+                "nombre": "García Sanjuán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 63,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1010",
+                "nombre": "Gustavo López",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 112,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Recopa": [
+            {
+                "id": "j1685",
+                "nombre": "Juanmi",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j63",
+                "nombre": "Belsué",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 523,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 243,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2647",
+                "nombre": "Aguado",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j781",
+                "nombre": "Cáceres",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2450",
+                "nombre": "Aragón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 404,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1008",
+                "nombre": "Poyet",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 510,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2124",
+                "nombre": "Óscar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j764",
+                "nombre": "Morientes",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 391,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j486",
+                "nombre": "Dani",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 386,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1430",
+                "nombre": "Belman",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j2053",
+                "nombre": "Nayim",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 366,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j896",
+                "nombre": "Paqui",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 224,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j815",
+                "nombre": "Higuera",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 351,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1242",
+                "nombre": "García Sanjuán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 211,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1985",
+                "nombre": "Pardeza",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 184,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1793",
+                "nombre": "Cuartero",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2503",
+                "nombre": "Berti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 219,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1010",
+                "nombre": "Gustavo López",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 13,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1417",
+                "nombre": "Gay",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 64,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

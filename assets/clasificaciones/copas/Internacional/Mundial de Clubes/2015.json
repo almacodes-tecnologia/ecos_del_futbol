@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2015,
+    "temporada": "2015-16",
+    "cuadro_honor": {
+        "campeon": "River Plate",
+        "subcampeon": "Sanfrecce Hiroshima"
+    },
+    "partidos": [
+        {
+            "id_partido": 430093,
+            "ronda": "Semifinal",
+            "local": "Barcelona",
+            "visitante": "Guangzhou Evergrande",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430094,
+            "ronda": "Semifinal",
+            "local": "River Plate",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430215,
+            "ronda": "Semifinal",
+            "local": "Mazembe",
+            "visitante": "Sanfrecce Hiroshima",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430216,
+            "ronda": "Semifinal",
+            "local": "Club América",
+            "visitante": "Guangzhou Evergrande",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430217,
+            "ronda": "Final",
+            "local": "Sanfrecce Hiroshima",
+            "visitante": "River Plate",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

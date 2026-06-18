@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2006,
+    "temporada": "2006-07",
+    "cuadro_honor": {
+        "campeon": "Internacional",
+        "subcampeon": "Al Ahly"
+    },
+    "partidos": [
+        {
+            "id_partido": 430070,
+            "ronda": "Semifinal",
+            "local": "Club América",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430071,
+            "ronda": "Semifinal",
+            "local": "Internacional",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430162,
+            "ronda": "Semifinal",
+            "local": "Auckland City",
+            "visitante": "Al Ahly",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430163,
+            "ronda": "Semifinal",
+            "local": "Jeonbuk",
+            "visitante": "Club América",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430165,
+            "ronda": "Final",
+            "local": "Al Ahly",
+            "visitante": "Internacional",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

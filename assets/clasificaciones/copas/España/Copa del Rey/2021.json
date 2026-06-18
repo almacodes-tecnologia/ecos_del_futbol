@@ -1,0 +1,199 @@
+{
+    "pais": "España",
+    "copa": "Copa del Rey",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Betis",
+        "subcampeon": "Valencia"
+    },
+    "partidos": [
+        {
+            "id_partido": 505050,
+            "ronda": "Octavos de Final",
+            "local": "Mallorca",
+            "visitante": "Espanyol",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505051,
+            "ronda": "Octavos de Final",
+            "local": "Girona",
+            "visitante": "Rayo Vallecano",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505052,
+            "ronda": "Octavos de Final",
+            "local": "Sporting de Gijón",
+            "visitante": "Cádiz",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505053,
+            "ronda": "Octavos de Final",
+            "local": "Betis",
+            "visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505054,
+            "ronda": "Cuartos de Final",
+            "local": "Atlético Baleares",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505055,
+            "ronda": "Cuartos de Final",
+            "local": "Real Sociedad",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505056,
+            "ronda": "Cuartos de Final",
+            "local": "Elche",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505057,
+            "ronda": "Cuartos de Final",
+            "local": "Athletic Club",
+            "visitante": "Barcelona",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505058,
+            "ronda": "Cuartos de Final",
+            "local": "Rayo Vallecano",
+            "visitante": "Mallorca",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505059,
+            "ronda": "Cuartos de Final",
+            "local": "Valencia",
+            "visitante": "Cádiz",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505060,
+            "ronda": "Cuartos de Final",
+            "local": "Real Sociedad",
+            "visitante": "Betis",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505061,
+            "ronda": "Cuartos de Final",
+            "local": "Athletic Club",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505062,
+            "ronda": "Semifinal - Ida",
+            "local": "Rayo Vallecano",
+            "visitante": "Betis",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505063,
+            "ronda": "Semifinal - Ida",
+            "local": "Athletic Club",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505064,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Athletic Club",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505065,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Rayo Vallecano",
+            "visitante": "Betis",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 505066,
+            "ronda": "Final",
+            "local": "Betis",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "São Paulo",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 430035,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "São Paulo",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

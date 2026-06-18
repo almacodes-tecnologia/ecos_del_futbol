@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2018,
+    "temporada": "2018-19",
+    "cuadro_honor": {
+        "campeon": "Al-Ain",
+        "subcampeon": "River Plate"
+    },
+    "partidos": [
+        {
+            "id_partido": 430105,
+            "ronda": "Semifinal",
+            "local": "Kashima Antlers",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430106,
+            "ronda": "Semifinal",
+            "local": "Real Madrid",
+            "visitante": "Al-Ain",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430233,
+            "ronda": "Semifinal",
+            "local": "Kashima Antlers",
+            "visitante": "Chivas Guadalajara",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430234,
+            "ronda": "Semifinal",
+            "local": "Espérance de Tunis",
+            "visitante": "Al-Ain",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430236,
+            "ronda": "Final",
+            "local": "River Plate",
+            "visitante": "Al-Ain",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

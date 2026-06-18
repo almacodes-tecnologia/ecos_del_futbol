@@ -1,0 +1,403 @@
+{
+    "pais": "España",
+    "equipo": "Mallorca",
+    "id_bdfutbol": "24",
+    "temporada": "1970-71",
+    "año_inicio": 1970,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5771",
+                "nombre": "Alarcia",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 33
+            },
+            {
+                "id": "j8353",
+                "nombre": "Sans",
+                "posicion": "defensa",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2679,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8348",
+                "nombre": "Puig",
+                "posicion": "defensa",
+                "partidos_jugados": 24,
+                "partidos_titular": 24,
+                "minutos": 2100,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5153",
+                "nombre": "Benegas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3088,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8293",
+                "nombre": "Gerardo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2753,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7142",
+                "nombre": "Pereda",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2356,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5421",
+                "nombre": "Cano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 26,
+                "minutos": 2256,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8349",
+                "nombre": "Reina",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 23,
+                "minutos": 2195,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8336",
+                "nombre": "Cáceres",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 27,
+                "minutos": 2437,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5138",
+                "nombre": "Pérez",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2281,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8339",
+                "nombre": "Domínguez",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 23,
+                "minutos": 1886,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8341",
+                "nombre": "Heredia",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j5835",
+                "nombre": "Quirós",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 15,
+                "minutos": 1470,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5834",
+                "nombre": "Pocholo",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 14,
+                "minutos": 1479,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8342",
+                "nombre": "Mariano",
+                "posicion": "defensa",
+                "partidos_jugados": 19,
+                "partidos_titular": 16,
+                "minutos": 1441,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8351",
+                "nombre": "Rosselló",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 14,
+                "minutos": 1367,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8323",
+                "nombre": "Moya",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 13,
+                "minutos": 1246,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8328",
+                "nombre": "Taberner",
+                "posicion": "defensa",
+                "partidos_jugados": 15,
+                "partidos_titular": 12,
+                "minutos": 1100,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8344",
+                "nombre": "Muñoz",
+                "posicion": "defensa",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13570",
+                "nombre": "Alfaro Martínez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 5,
+                "minutos": 418,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8356",
+                "nombre": "Victoriero",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 537,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13956",
+                "nombre": "García Temprano",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5771",
+                "nombre": "Alarcia",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j8353",
+                "nombre": "Sans",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8348",
+                "nombre": "Puig",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 226,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5153",
+                "nombre": "Benegas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8293",
+                "nombre": "Gerardo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 316,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7142",
+                "nombre": "Pereda",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5421",
+                "nombre": "Cano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8349",
+                "nombre": "Reina",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8336",
+                "nombre": "Cáceres",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5138",
+                "nombre": "Pérez",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 339,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8339",
+                "nombre": "Domínguez",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 256,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5835",
+                "nombre": "Quirós",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 171,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5834",
+                "nombre": "Pocholo",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 268,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8351",
+                "nombre": "Rosselló",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8323",
+                "nombre": "Moya",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 215,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8328",
+                "nombre": "Taberner",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13570",
+                "nombre": "Alfaro Martínez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

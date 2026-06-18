@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "PSV",
+        "subcampeon": "Utrecht"
+    },
+    "partidos": [
+        {
+            "id_partido": 721044,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Utrecht",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

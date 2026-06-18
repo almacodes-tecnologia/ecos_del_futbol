@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1968,
+    "temporada": "1968-69",
+    "cuadro_honor": {
+        "campeon": "Estudiantes de La Plata",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 430126,
+            "ronda": "Final - Ida",
+            "local": "Estudiantes de La Plata",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430127,
+            "ronda": "Final - Vuelta",
+            "local": "Manchester United",
+            "visitante": "Estudiantes de La Plata",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

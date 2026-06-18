@@ -1,0 +1,473 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "1996-97",
+    "año_inicio": 1996,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j325",
+                "nombre": "Illgner",
+                "posicion": "portero",
+                "partidos_jugados": 40,
+                "partidos_titular": 40,
+                "minutos": 3600,
+                "goles_marcados": 0,
+                "goles_encajados": 31
+            },
+            {
+                "id": "j427",
+                "nombre": "Panucci",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1710,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2372",
+                "nombre": "Roberto Carlos",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2258",
+                "nombre": "Alkorta",
+                "posicion": "central",
+                "partidos_jugados": 40,
+                "partidos_titular": 40,
+                "minutos": 3600,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j769",
+                "nombre": "Hierro",
+                "posicion": "central",
+                "partidos_jugados": 39,
+                "partidos_titular": 39,
+                "minutos": 3473,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j438",
+                "nombre": "Seedorf",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 37,
+                "minutos": 3305,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j780",
+                "nombre": "Redondo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 31,
+                "minutos": 2717,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2593",
+                "nombre": "Víctor",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 25,
+                "minutos": 2143,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2296",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 42,
+                "partidos_titular": 41,
+                "minutos": 3622,
+                "goles_marcados": 21,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2252",
+                "nombre": "Mijatović",
+                "posicion": "extremo",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3110,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j556",
+                "nombre": "Šuker",
+                "posicion": "delantero centro",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 2979,
+                "goles_marcados": 24,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1558",
+                "nombre": "Cañizares",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j1425",
+                "nombre": "Amavisca",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 14,
+                "minutos": 1343,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1851",
+                "nombre": "Sanchis",
+                "posicion": "central",
+                "partidos_jugados": 22,
+                "partidos_titular": 13,
+                "minutos": 1278,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1987",
+                "nombre": "Chendo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 16,
+                "partidos_titular": 14,
+                "minutos": 1253,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j373",
+                "nombre": "Secretário",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 13,
+                "partidos_titular": 13,
+                "minutos": 1033,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1787",
+                "nombre": "Milla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 19,
+                "partidos_titular": 6,
+                "minutos": 698,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2030",
+                "nombre": "Lasa",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 13,
+                "partidos_titular": 2,
+                "minutos": 362,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1527",
+                "nombre": "Guti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 0,
+                "minutos": 351,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j124",
+                "nombre": "Álvaro Benito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 351,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1373",
+                "nombre": "Zé Roberto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 2,
+                "minutos": 357,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1399",
+                "nombre": "García Calvo",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 341,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j772",
+                "nombre": "Fernando Sanz",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 2,
+                "minutos": 215,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j559",
+                "nombre": "Petković",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1123",
+                "nombre": "Irurzun",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 22,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j325",
+                "nombre": "Illgner",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j427",
+                "nombre": "Panucci",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2372",
+                "nombre": "Roberto Carlos",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2258",
+                "nombre": "Alkorta",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j769",
+                "nombre": "Hierro",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 524,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j438",
+                "nombre": "Seedorf",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 296,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j780",
+                "nombre": "Redondo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2593",
+                "nombre": "Víctor",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 232,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2296",
+                "nombre": "Raúl",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 385,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2252",
+                "nombre": "Mijatović",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 327,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j556",
+                "nombre": "Šuker",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 371,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1425",
+                "nombre": "Amavisca",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 433,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1987",
+                "nombre": "Chendo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 48,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j373",
+                "nombre": "Secretário",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 229,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1787",
+                "nombre": "Milla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 281,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2030",
+                "nombre": "Lasa",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1527",
+                "nombre": "Guti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 225,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1399",
+                "nombre": "García Calvo",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 31,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j772",
+                "nombre": "Fernando Sanz",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 189,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j559",
+                "nombre": "Petković",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1123",
+                "nombre": "Irurzun",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 15,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

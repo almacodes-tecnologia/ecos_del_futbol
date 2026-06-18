@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2001,
+    "temporada": "2001-02",
+    "cuadro_honor": {
+        "campeon": "Nantes",
+        "subcampeon": "Strasbourg"
+    },
+    "partidos": [
+        {
+            "id_partido": 721019,
+            "ronda": "Final",
+            "local": "Strasbourg",
+            "visitante": "Nantes",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1998,
+    "temporada": "1998-99",
+    "cuadro_honor": {
+        "campeon": "Arsenal",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 720023,
+            "ronda": "Final",
+            "local": "Arsenal",
+            "visitante": "Manchester United",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

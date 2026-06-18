@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Toulouse"
+    },
+    "partidos": [
+        {
+            "id_partido": 721077,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Toulouse",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

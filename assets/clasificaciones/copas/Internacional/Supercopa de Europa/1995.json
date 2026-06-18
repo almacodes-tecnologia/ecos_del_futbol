@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "Zaragoza"
+    },
+    "partidos": [
+        {
+            "id_partido": 440450,
+            "ronda": "Final - Ida",
+            "local": "Zaragoza",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440451,
+            "ronda": "Final - Vuelta",
+            "local": "Ajax",
+            "visitante": "Zaragoza",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

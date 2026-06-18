@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 1992,
+    "temporada": "1992-93",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Atlético de Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 490060,
+            "ronda": "Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490061,
+            "ronda": "Final - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

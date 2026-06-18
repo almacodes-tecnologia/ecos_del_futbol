@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Flamengo"
+    },
+    "partidos": [
+        {
+            "id_partido": 430242,
+            "ronda": "Semifinal",
+            "local": "Al-Hilal",
+            "visitante": "Espérance de Tunis",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430243,
+            "ronda": "Semifinal",
+            "local": "Monterrey",
+            "visitante": "Al-Sadd",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430245,
+            "ronda": "Semifinal",
+            "local": "Flamengo",
+            "visitante": "Al-Hilal",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430246,
+            "ronda": "Semifinal",
+            "local": "Monterrey",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430248,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Flamengo",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

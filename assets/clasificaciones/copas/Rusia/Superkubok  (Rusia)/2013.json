@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2013,
+    "temporada": "2013-14",
+    "cuadro_honor": {
+        "campeon": "CSKA Moskva",
+        "subcampeon": "Zenit"
+    },
+    "partidos": [
+        {
+            "id_partido": 736491,
+            "ronda": "Final",
+            "local": "CSKA Moskva",
+            "visitante": "Zenit",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

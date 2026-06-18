@@ -1,0 +1,615 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "1989-90",
+    "año_inicio": 1989,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j805",
+                "nombre": "Buyo",
+                "posicion": "portero",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3150,
+                "goles_marcados": 0,
+                "goles_encajados": 33
+            },
+            {
+                "id": "j1987",
+                "nombre": "Chendo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3311,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2268",
+                "nombre": "Gordillo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2600,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1851",
+                "nombre": "Sanchis",
+                "posicion": "central",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2837,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2772",
+                "nombre": "Ruggeri",
+                "posicion": "central",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2705,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1543",
+                "nombre": "Míchel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3193,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j769",
+                "nombre": "Hierro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 35,
+                "minutos": 2937,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2273",
+                "nombre": "Martín Vázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 2963,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j316",
+                "nombre": "Schuster",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2433,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1040",
+                "nombre": "Hugo Sánchez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3073,
+                "goles_marcados": 38,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j667",
+                "nombre": "Butragueño",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2452,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27",
+                "nombre": "Agustín",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 21,
+                "partidos_titular": 10,
+                "minutos": 939,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2468",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 8,
+                "minutos": 842,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j821",
+                "nombre": "Paco Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 2,
+                "minutos": 766,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9",
+                "nombre": "Aldana",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 7,
+                "minutos": 806,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1695",
+                "nombre": "Lopetegui",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j257",
+                "nombre": "Parra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 3,
+                "minutos": 572,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1708",
+                "nombre": "Julio Llorente",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 706,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1988",
+                "nombre": "Tendillo",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 4,
+                "minutos": 537,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j701",
+                "nombre": "Esteban",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 466,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j45",
+                "nombre": "Aguilà",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 30,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j805",
+                "nombre": "Buyo",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 315,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1987",
+                "nombre": "Chendo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 258,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2268",
+                "nombre": "Gordillo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 165,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1851",
+                "nombre": "Sanchis",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 317,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2772",
+                "nombre": "Ruggeri",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1543",
+                "nombre": "Míchel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j769",
+                "nombre": "Hierro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2273",
+                "nombre": "Martín Vázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 182,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j316",
+                "nombre": "Schuster",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 105,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1040",
+                "nombre": "Hugo Sánchez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j667",
+                "nombre": "Butragueño",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 165,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27",
+                "nombre": "Agustín",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2468",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 192,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j821",
+                "nombre": "Paco Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 268,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9",
+                "nombre": "Aldana",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 147,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1708",
+                "nombre": "Julio Llorente",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 255,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1988",
+                "nombre": "Tendillo",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j701",
+                "nombre": "Esteban",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j805",
+                "nombre": "Buyo",
+                "posicion": "portero",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j1987",
+                "nombre": "Chendo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2268",
+                "nombre": "Gordillo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 406,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1851",
+                "nombre": "Sanchis",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2772",
+                "nombre": "Ruggeri",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1543",
+                "nombre": "Míchel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 497,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j769",
+                "nombre": "Hierro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 373,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2273",
+                "nombre": "Martín Vázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j316",
+                "nombre": "Schuster",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1040",
+                "nombre": "Hugo Sánchez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 495,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j667",
+                "nombre": "Butragueño",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 410,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1259",
+                "nombre": "Solana",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2468",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 218,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j821",
+                "nombre": "Paco Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 153,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9",
+                "nombre": "Aldana",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 223,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j257",
+                "nombre": "Parra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 137,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1708",
+                "nombre": "Julio Llorente",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 298,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1988",
+                "nombre": "Tendillo",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j701",
+                "nombre": "Esteban",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 209,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

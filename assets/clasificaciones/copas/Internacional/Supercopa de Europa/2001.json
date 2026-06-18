@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2001,
+    "temporada": "2001-02",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 440481,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

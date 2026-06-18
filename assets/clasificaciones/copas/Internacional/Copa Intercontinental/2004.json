@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 2004,
+    "temporada": "2004-05",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Once Caldas"
+    },
+    "partidos": [
+        {
+            "id_partido": 430085,
+            "ronda": "Final",
+            "local": "Porto",
+            "visitante": "Once Caldas",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 8,
+            "penaltis_visitante": 7
+        }
+    ]
+}

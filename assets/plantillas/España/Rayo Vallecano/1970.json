@@ -1,0 +1,403 @@
+{
+    "pais": "España",
+    "equipo": "Rayo Vallecano",
+    "id_bdfutbol": "5",
+    "temporada": "1970-71",
+    "año_inicio": 1970,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5777",
+                "nombre": "Samper",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 28
+            },
+            {
+                "id": "j5071",
+                "nombre": "Aráez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2978,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8790",
+                "nombre": "Fernández",
+                "posicion": "defensa",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2126,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8880",
+                "nombre": "Nico",
+                "posicion": "defensa",
+                "partidos_jugados": 21,
+                "partidos_titular": 20,
+                "minutos": 1831,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14060",
+                "nombre": "Curta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 33,
+                "minutos": 2894,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5295",
+                "nombre": "Felines",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2884,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8791",
+                "nombre": "Arias",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 26,
+                "minutos": 2379,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12112",
+                "nombre": "Bordons",
+                "posicion": "extremo",
+                "partidos_jugados": 37,
+                "partidos_titular": 35,
+                "minutos": 3185,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5892",
+                "nombre": "Roselló",
+                "posicion": "extremo",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 2970,
+                "goles_marcados": 12,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7599",
+                "nombre": "Nieto",
+                "posicion": "extremo",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2717,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5667",
+                "nombre": "Illán",
+                "posicion": "delantero centro",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2468,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13575",
+                "nombre": "Gómez",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j7628",
+                "nombre": "Veloso",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 23,
+                "minutos": 1915,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7632",
+                "nombre": "Alfonso",
+                "posicion": "defensa",
+                "partidos_jugados": 20,
+                "partidos_titular": 18,
+                "minutos": 1637,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8879",
+                "nombre": "Cristóbal",
+                "posicion": "defensa",
+                "partidos_jugados": 21,
+                "partidos_titular": 15,
+                "minutos": 1491,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14142",
+                "nombre": "Benito",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 6,
+                "minutos": 705,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8974",
+                "nombre": "Ráez",
+                "posicion": "defensa",
+                "partidos_jugados": 12,
+                "partidos_titular": 8,
+                "minutos": 681,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8975",
+                "nombre": "Rubio",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 643,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5297",
+                "nombre": "Potele",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 2,
+                "minutos": 366,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8973",
+                "nombre": "Sanjurjo",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 293,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5777",
+                "nombre": "Samper",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j5071",
+                "nombre": "Aráez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 494,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8790",
+                "nombre": "Fernández",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8880",
+                "nombre": "Nico",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14060",
+                "nombre": "Curta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5295",
+                "nombre": "Felines",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 494,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8791",
+                "nombre": "Arias",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12112",
+                "nombre": "Bordons",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5892",
+                "nombre": "Roselló",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7599",
+                "nombre": "Nieto",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 523,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5667",
+                "nombre": "Illán",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 444,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7628",
+                "nombre": "Veloso",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 226,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7632",
+                "nombre": "Alfonso",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 349,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8879",
+                "nombre": "Cristóbal",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 11,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14142",
+                "nombre": "Benito",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 96,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8974",
+                "nombre": "Ráez",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8975",
+                "nombre": "Rubio",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5297",
+                "nombre": "Potele",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8787",
+                "nombre": "Navarro",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 17,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "Grêmio"
+    },
+    "partidos": [
+        {
+            "id_partido": 430148,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "Grêmio",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 3
+        }
+    ]
+}

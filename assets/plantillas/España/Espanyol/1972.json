@@ -1,0 +1,333 @@
+{
+    "pais": "España",
+    "equipo": "Espanyol",
+    "id_bdfutbol": "14",
+    "temporada": "1972-73",
+    "año_inicio": 1972,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5456",
+                "nombre": "Borja",
+                "posicion": "portero",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 3060,
+                "goles_marcados": 0,
+                "goles_encajados": 27
+            },
+            {
+                "id": "j5386",
+                "nombre": "Ochoa",
+                "posicion": "defensa",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2761,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5291",
+                "nombre": "De Felipe",
+                "posicion": "central",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 3051,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5385",
+                "nombre": "Granero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 32,
+                "minutos": 2871,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3782",
+                "nombre": "Solsona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 28,
+                "minutos": 2593,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5689",
+                "nombre": "Glaría",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 27,
+                "minutos": 2377,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3978",
+                "nombre": "Amiano",
+                "posicion": "extremo",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 3060,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5776",
+                "nombre": "Poli",
+                "posicion": "extremo",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2828,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3877",
+                "nombre": "Roberto Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2622,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5363",
+                "nombre": "Pepín",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 29,
+                "minutos": 2533,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5457",
+                "nombre": "José María",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2435,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5341",
+                "nombre": "Romero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 14,
+                "minutos": 1192,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5481",
+                "nombre": "De Diego",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 8,
+                "minutos": 789,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5449",
+                "nombre": "Carbonell",
+                "posicion": "defensa",
+                "partidos_jugados": 13,
+                "partidos_titular": 6,
+                "minutos": 691,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3842",
+                "nombre": "Ramos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 8,
+                "partidos_titular": 3,
+                "minutos": 497,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5775",
+                "nombre": "Juan María",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 148,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5879",
+                "nombre": "Rivero",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 95,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5691",
+                "nombre": "Marfil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 8,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5456",
+                "nombre": "Borja",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j5386",
+                "nombre": "Ochoa",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5291",
+                "nombre": "De Felipe",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5385",
+                "nombre": "Granero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 355,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3782",
+                "nombre": "Solsona",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5689",
+                "nombre": "Glaría",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3978",
+                "nombre": "Amiano",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 330,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3877",
+                "nombre": "Roberto Martínez",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5363",
+                "nombre": "Pepín",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5457",
+                "nombre": "José María",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5341",
+                "nombre": "Romero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5481",
+                "nombre": "De Diego",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5449",
+                "nombre": "Carbonell",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 60,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3842",
+                "nombre": "Ramos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

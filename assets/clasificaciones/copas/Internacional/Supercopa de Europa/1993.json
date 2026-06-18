@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Parma",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 440442,
+            "ronda": "Final - Ida",
+            "local": "Parma",
+            "visitante": "Milan",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440443,
+            "ronda": "Final - Vuelta",
+            "local": "Milan",
+            "visitante": "Parma",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

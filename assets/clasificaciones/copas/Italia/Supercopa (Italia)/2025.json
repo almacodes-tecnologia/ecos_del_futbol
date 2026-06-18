@@ -1,0 +1,45 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2025,
+    "temporada": "2025-26",
+    "cuadro_honor": {
+        "campeon": "Napoli",
+        "subcampeon": "Bologna"
+    },
+    "partidos": [
+        {
+            "id_partido": 720099,
+            "ronda": "Semifinal",
+            "local": "Napoli",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720100,
+            "ronda": "Semifinal",
+            "local": "Bologna",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720101,
+            "ronda": "Final",
+            "local": "Napoli",
+            "visitante": "Bologna",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

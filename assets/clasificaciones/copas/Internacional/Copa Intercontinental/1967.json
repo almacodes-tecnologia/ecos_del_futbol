@@ -1,0 +1,45 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1967,
+    "temporada": "1967-68",
+    "cuadro_honor": {
+        "campeon": "Racing Club",
+        "subcampeon": "Celtic"
+    },
+    "partidos": [
+        {
+            "id_partido": 430123,
+            "ronda": "Final - Ida",
+            "local": "Celtic",
+            "visitante": "Racing Club",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430124,
+            "ronda": "Final - Vuelta",
+            "local": "Racing Club",
+            "visitante": "Celtic",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430125,
+            "ronda": "Final - Desempate",
+            "local": "Racing Club",
+            "visitante": "Celtic",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

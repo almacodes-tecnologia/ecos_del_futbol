@@ -1,0 +1,45 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1994,
+    "temporada": "1994-95",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 490345,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490346,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490347,
+            "ronda": "Final - Desempate",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

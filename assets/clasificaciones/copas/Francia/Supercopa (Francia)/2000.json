@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Monaco",
+        "subcampeon": "Nantes"
+    },
+    "partidos": [
+        {
+            "id_partido": 721018,
+            "ronda": "Final",
+            "local": "Monaco",
+            "visitante": "Nantes",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 6,
+            "penaltis_visitante": 5
+        }
+    ]
+}

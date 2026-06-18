@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2004,
+    "temporada": "2004-05",
+    "cuadro_honor": {
+        "campeon": "Utrecht",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 721045,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "Utrecht",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

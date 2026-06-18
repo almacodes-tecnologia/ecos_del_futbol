@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1971,
+    "temporada": "1971-72",
+    "cuadro_honor": {
+        "campeon": "Club Nacional",
+        "subcampeon": "Panathinaikos"
+    },
+    "partidos": [
+        {
+            "id_partido": 430132,
+            "ronda": "Final - Ida",
+            "local": "Panathinaikos",
+            "visitante": "Club Nacional",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430133,
+            "ronda": "Final - Vuelta",
+            "local": "Club Nacional",
+            "visitante": "Panathinaikos",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

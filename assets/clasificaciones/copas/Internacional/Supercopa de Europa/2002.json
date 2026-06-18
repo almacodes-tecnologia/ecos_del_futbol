@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2002,
+    "temporada": "2002-03",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Feyenoord"
+    },
+    "partidos": [
+        {
+            "id_partido": 440485,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Feyenoord",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

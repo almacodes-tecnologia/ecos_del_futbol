@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Rennes"
+    },
+    "partidos": [
+        {
+            "id_partido": 721037,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Rennes",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

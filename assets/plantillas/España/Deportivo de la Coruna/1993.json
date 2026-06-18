@@ -1,0 +1,555 @@
+{
+    "pais": "España",
+    "equipo": "Deportivo de la Coruna",
+    "id_bdfutbol": "13",
+    "temporada": "1993-94",
+    "año_inicio": 1993,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j820",
+                "nombre": "Liaño",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 18
+            },
+            {
+                "id": "j1808",
+                "nombre": "López Rekarte",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2678,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j761",
+                "nombre": "Nando",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3240,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2046",
+                "nombre": "Djukić",
+                "posicion": "central",
+                "partidos_jugados": 36,
+                "partidos_titular": 35,
+                "minutos": 3182,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2440",
+                "nombre": "Voro",
+                "posicion": "central",
+                "partidos_jugados": 36,
+                "partidos_titular": 34,
+                "minutos": 3066,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1476",
+                "nombre": "Ribera",
+                "posicion": "central",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2813,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j858",
+                "nombre": "Fran",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3163,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1956",
+                "nombre": "Mauro Silva",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3045,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j616",
+                "nombre": "Donato",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 34,
+                "minutos": 2996,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1557",
+                "nombre": "Bebeto",
+                "posicion": "delantero centro",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 2962,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j441",
+                "nombre": "Claudio",
+                "posicion": "delantero centro",
+                "partidos_jugados": 31,
+                "partidos_titular": 27,
+                "minutos": 2305,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1207",
+                "nombre": "Manjarín",
+                "posicion": "extremo",
+                "partidos_jugados": 27,
+                "partidos_titular": 16,
+                "minutos": 1567,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j118",
+                "nombre": "Alfredo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 12,
+                "minutos": 1144,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2221",
+                "nombre": "Pedro Riesco",
+                "posicion": "extremo",
+                "partidos_jugados": 18,
+                "partidos_titular": 4,
+                "minutos": 555,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1900",
+                "nombre": "Mariano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 666,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1895",
+                "nombre": "Marcos Vales",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 0,
+                "minutos": 195,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1551",
+                "nombre": "José Ramón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 1,
+                "minutos": 186,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j816",
+                "nombre": "Paco Jémez",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j820",
+                "nombre": "Liaño",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j1808",
+                "nombre": "López Rekarte",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j761",
+                "nombre": "Nando",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2046",
+                "nombre": "Djukić",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2440",
+                "nombre": "Voro",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 473,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1476",
+                "nombre": "Ribera",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j858",
+                "nombre": "Fran",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 539,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1956",
+                "nombre": "Mauro Silva",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j616",
+                "nombre": "Donato",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 501,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1557",
+                "nombre": "Bebeto",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 338,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j441",
+                "nombre": "Claudio",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1207",
+                "nombre": "Manjarín",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 290,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j118",
+                "nombre": "Alfredo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 52,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2221",
+                "nombre": "Pedro Riesco",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 161,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1895",
+                "nombre": "Marcos Vales",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 0,
+                "minutos": 76,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1551",
+                "nombre": "José Ramón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j816",
+                "nombre": "Paco Jémez",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j820",
+                "nombre": "Liaño",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j761",
+                "nombre": "Nando",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 114,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2046",
+                "nombre": "Djukić",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 110,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2440",
+                "nombre": "Voro",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1476",
+                "nombre": "Ribera",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j858",
+                "nombre": "Fran",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j616",
+                "nombre": "Donato",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1557",
+                "nombre": "Bebeto",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j441",
+                "nombre": "Claudio",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1584",
+                "nombre": "Canales",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1207",
+                "nombre": "Manjarín",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 156,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j118",
+                "nombre": "Alfredo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 86,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2221",
+                "nombre": "Pedro Riesco",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1900",
+                "nombre": "Mariano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1895",
+                "nombre": "Marcos Vales",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1551",
+                "nombre": "José Ramón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j816",
+                "nombre": "Paco Jémez",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6735",
+                "nombre": "Míchel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j673",
+                "nombre": "Viqueira",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,545 @@
+{
+    "pais": "España",
+    "equipo": "Oviedo",
+    "id_bdfutbol": "28",
+    "temporada": "2009-10",
+    "año_inicio": 2009,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j200403",
+                "nombre": "Aulestia",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 36
+            },
+            {
+                "id": "j200410",
+                "nombre": "Rubén González",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2821,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200011",
+                "nombre": "Barral",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 28,
+                "partidos_titular": 26,
+                "minutos": 2270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1348",
+                "nombre": "Jorge Rodríguez",
+                "posicion": "central",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3081,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200401",
+                "nombre": "Invernón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 28,
+                "partidos_titular": 23,
+                "minutos": 2063,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200404",
+                "nombre": "Curro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3041,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200095",
+                "nombre": "Jandro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 23,
+                "minutos": 1955,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100021",
+                "nombre": "Rubén García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 23,
+                "minutos": 2091,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200032",
+                "nombre": "Manu Busto",
+                "posicion": "extremo",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2756,
+                "goles_marcados": 19,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2651",
+                "nombre": "Xavi Moré",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 26,
+                "minutos": 2227,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6165",
+                "nombre": "Rayco",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 19,
+                "minutos": 1623,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200407",
+                "nombre": "Cabrero",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4584",
+                "nombre": "Hedrera",
+                "posicion": "central",
+                "partidos_jugados": 22,
+                "partidos_titular": 19,
+                "minutos": 1728,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200406",
+                "nombre": "Gonzalo",
+                "posicion": "central",
+                "partidos_jugados": 21,
+                "partidos_titular": 20,
+                "minutos": 1759,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1136",
+                "nombre": "Iván Ania",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 13,
+                "minutos": 1124,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2006",
+                "nombre": "Miguel",
+                "posicion": "delantero centro",
+                "partidos_jugados": 25,
+                "partidos_titular": 11,
+                "minutos": 1180,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200409",
+                "nombre": "Pelayo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 11,
+                "minutos": 1136,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6210",
+                "nombre": "Mario Prieto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 23,
+                "partidos_titular": 11,
+                "minutos": 911,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5570",
+                "nombre": "Perona",
+                "posicion": "delantero centro",
+                "partidos_jugados": 14,
+                "partidos_titular": 11,
+                "minutos": 975,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200402",
+                "nombre": "Artabe",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200408",
+                "nombre": "Méndez",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 0,
+                "minutos": 237,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200405",
+                "nombre": "Ernesto",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4769",
+                "nombre": "Villanueva",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 0,
+                "minutos": 138,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR2)": [
+            {
+                "id": "j200403",
+                "nombre": "Aulestia",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j200410",
+                "nombre": "Rubén González",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200011",
+                "nombre": "Barral",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 142,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1348",
+                "nombre": "Jorge Rodríguez",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 149,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200401",
+                "nombre": "Invernón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 98,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200404",
+                "nombre": "Curro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200095",
+                "nombre": "Jandro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 50,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100021",
+                "nombre": "Rubén García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 121,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200032",
+                "nombre": "Manu Busto",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 168,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2651",
+                "nombre": "Xavi Moré",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 150,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200406",
+                "nombre": "Gonzalo",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2006",
+                "nombre": "Miguel",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 24,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200409",
+                "nombre": "Pelayo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5570",
+                "nombre": "Perona",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 178,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j200403",
+                "nombre": "Aulestia",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j200011",
+                "nombre": "Barral",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1348",
+                "nombre": "Jorge Rodríguez",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200401",
+                "nombre": "Invernón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 123,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200404",
+                "nombre": "Curro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200095",
+                "nombre": "Jandro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 174,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100021",
+                "nombre": "Rubén García",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 101,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200032",
+                "nombre": "Manu Busto",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 103,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6165",
+                "nombre": "Rayco",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4584",
+                "nombre": "Hedrera",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 150,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1136",
+                "nombre": "Iván Ania",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 77,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2006",
+                "nombre": "Miguel",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200409",
+                "nombre": "Pelayo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 79,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6210",
+                "nombre": "Mario Prieto",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200408",
+                "nombre": "Méndez",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 6,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100151",
+                "nombre": "Larrea",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 57,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

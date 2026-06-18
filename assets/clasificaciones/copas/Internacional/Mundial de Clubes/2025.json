@@ -1,0 +1,56 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2025,
+    "temporada": "2025-26",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Flamengo"
+    },
+    "partidos": [
+        {
+            "id_partido": 430355,
+            "ronda": "Semifinal",
+            "local": "Al-Ahli",
+            "visitante": "Pyramids",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430356,
+            "ronda": "Semifinal",
+            "local": "Cruz Azul",
+            "visitante": "Flamengo",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430357,
+            "ronda": "Semifinal",
+            "local": "Flamengo",
+            "visitante": "Pyramids",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430358,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Flamengo",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "pais": "España",
+    "equipo": "Celta",
+    "id_bdfutbol": "11",
+    "temporada": "1980-81",
+    "año_inicio": 1980,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j3183",
+                "nombre": "Capó",
+                "posicion": "portero",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2925,
+                "goles_marcados": 0,
+                "goles_encajados": 17
+            },
+            {
+                "id": "j3330",
+                "nombre": "Gelo",
+                "posicion": "defensa",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2810,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3716",
+                "nombre": "Canosa",
+                "posicion": "defensa",
+                "partidos_jugados": 33,
+                "partidos_titular": 31,
+                "minutos": 2890,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5175",
+                "nombre": "Manolo",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2700,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1366",
+                "nombre": "Lemos",
+                "posicion": "defensa",
+                "partidos_jugados": 31,
+                "partidos_titular": 31,
+                "minutos": 2078,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3712",
+                "nombre": "Ademir",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2845,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3011",
+                "nombre": "Andrés Fernández",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 31,
+                "minutos": 2970,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3263",
+                "nombre": "Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 27,
+                "minutos": 2481,
+                "goles_marcados": 13,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3719",
+                "nombre": "Del Cura",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 25,
+                "minutos": 2328,
+                "goles_marcados": 12,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3722",
+                "nombre": "Mori",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 26,
+                "minutos": 2260,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9036",
+                "nombre": "Miguel Ángel",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 1330,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19748",
+                "nombre": "Sánchez",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j3834",
+                "nombre": "Ćulafić",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 17,
+                "minutos": 1701,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14018",
+                "nombre": "Emilio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 20,
+                "partidos_titular": 13,
+                "minutos": 1418,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3720",
+                "nombre": "Antonio Gómez",
+                "posicion": "defensa",
+                "partidos_jugados": 14,
+                "partidos_titular": 13,
+                "minutos": 1213,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5176",
+                "nombre": "Paco Vidal",
+                "posicion": "extremo",
+                "partidos_jugados": 19,
+                "partidos_titular": 7,
+                "minutos": 1213,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j837",
+                "nombre": "Villanueva",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j3726",
+                "nombre": "Santomé",
+                "posicion": "defensa",
+                "partidos_jugados": 16,
+                "partidos_titular": 5,
+                "minutos": 862,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5244",
+                "nombre": "Santomé II",
+                "posicion": "defensa",
+                "partidos_jugados": 11,
+                "partidos_titular": 9,
+                "minutos": 910,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1007877",
+                "nombre": "Cambeiro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 442,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12969",
+                "nombre": "Genaro",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 448,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j271",
+                "nombre": "Pichi Lucas",
+                "posicion": "delantero centro",
+                "partidos_jugados": 13,
+                "partidos_titular": 2,
+                "minutos": 664,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5228",
+                "nombre": "Urbano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 2,
+                "minutos": 305,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1007810",
+                "nombre": "Galera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 225,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j3183",
+                "nombre": "Capó",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 600,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j3330",
+                "nombre": "Gelo",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 600,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3716",
+                "nombre": "Canosa",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 555,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5175",
+                "nombre": "Manolo",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 249,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1366",
+                "nombre": "Lemos",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3712",
+                "nombre": "Ademir",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 549,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3011",
+                "nombre": "Andrés Fernández",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 510,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3263",
+                "nombre": "Suárez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 441,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3719",
+                "nombre": "Del Cura",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 255,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3722",
+                "nombre": "Mori",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 368,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3834",
+                "nombre": "Ćulafić",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 436,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j14018",
+                "nombre": "Emilio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 182,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3720",
+                "nombre": "Antonio Gómez",
+                "posicion": "defensa",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 421,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5176",
+                "nombre": "Paco Vidal",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 406,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3726",
+                "nombre": "Santomé",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 420,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5244",
+                "nombre": "Santomé II",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 225,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1007810",
+                "nombre": "Galera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1000325",
+                "nombre": "Pérez Durán",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5177",
+                "nombre": "Pereira",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 164,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

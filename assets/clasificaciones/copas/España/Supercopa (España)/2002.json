@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2002,
+    "temporada": "2002-03",
+    "cuadro_honor": {
+        "campeon": "Deportivo de La Coruña",
+        "subcampeon": "Valencia"
+    },
+    "partidos": [
+        {
+            "id_partido": 490160,
+            "ronda": "Final - Ida",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Valencia",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490161,
+            "ronda": "Final - Vuelta",
+            "local": "Valencia",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

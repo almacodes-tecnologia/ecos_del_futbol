@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "CSKA Moskva"
+    },
+    "partidos": [
+        {
+            "id_partido": 440491,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "CSKA Moskva",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

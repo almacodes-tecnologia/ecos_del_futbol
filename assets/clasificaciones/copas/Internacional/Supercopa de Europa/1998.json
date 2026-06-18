@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1998,
+    "temporada": "1998-99",
+    "cuadro_honor": {
+        "campeon": "Chelsea",
+        "subcampeon": "Real Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 440470,
+            "ronda": "Final",
+            "local": "Chelsea",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

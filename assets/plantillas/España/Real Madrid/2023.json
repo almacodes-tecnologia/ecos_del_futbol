@@ -1,0 +1,937 @@
+{
+    "pais": "España",
+    "equipo": "Barcelona",
+    "id_bdfutbol": "2",
+    "temporada": "2023-24",
+    "año_inicio": 2023,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j20659",
+                "nombre": "Lunin",
+                "posicion": "portero",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1890,
+                "goles_marcados": 0,
+                "goles_encajados": 17
+            },
+            {
+                "id": "j101005",
+                "nombre": "Carvajal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 28,
+                "partidos_titular": 25,
+                "minutos": 2176,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28266",
+                "nombre": "Mendy",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 23,
+                "partidos_titular": 21,
+                "minutos": 1727,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93402",
+                "nombre": "Rüdiger",
+                "posicion": "central",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2708,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22396",
+                "nombre": "Valverde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 33,
+                "minutos": 2911,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29482",
+                "nombre": "Bellingham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 27,
+                "minutos": 2324,
+                "goles_marcados": 19,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j92802",
+                "nombre": "Kroos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 24,
+                "minutos": 2129,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28344",
+                "nombre": "Tchouaméni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 22,
+                "minutos": 1987,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22869",
+                "nombre": "Camavinga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 21,
+                "minutos": 1824,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25618",
+                "nombre": "Rodrygo",
+                "posicion": "extremo",
+                "partidos_jugados": 34,
+                "partidos_titular": 28,
+                "minutos": 2390,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20660",
+                "nombre": "Vinícius",
+                "posicion": "extremo",
+                "partidos_jugados": 26,
+                "partidos_titular": 22,
+                "minutos": 1875,
+                "goles_marcados": 15,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19970",
+                "nombre": "Kepa",
+                "posicion": "portero",
+                "partidos_jugados": 14,
+                "partidos_titular": 13,
+                "minutos": 1197,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j18002",
+                "nombre": "Modrić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 18,
+                "minutos": 1686,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25251",
+                "nombre": "Brahim Díaz",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 18,
+                "minutos": 1551,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9301",
+                "nombre": "Joselu",
+                "posicion": "delantero centro",
+                "partidos_jugados": 34,
+                "partidos_titular": 15,
+                "minutos": 1674,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200113",
+                "nombre": "Nacho",
+                "posicion": "central",
+                "partidos_jugados": 29,
+                "partidos_titular": 18,
+                "minutos": 1740,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13727",
+                "nombre": "Courtois",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 333,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101266",
+                "nombre": "Lucas Vázquez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 29,
+                "partidos_titular": 14,
+                "minutos": 1411,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28183",
+                "nombre": "Fran García",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 25,
+                "partidos_titular": 15,
+                "minutos": 1395,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93161",
+                "nombre": "Alaba",
+                "posicion": "central",
+                "partidos_jugados": 14,
+                "partidos_titular": 14,
+                "minutos": 1156,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15261",
+                "nombre": "Dani Ceballos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 20,
+                "partidos_titular": 5,
+                "minutos": 586,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j42745",
+                "nombre": "Güler",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 4,
+                "minutos": 373,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20583",
+                "nombre": "Militão",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 497,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j205146",
+                "nombre": "Nico Paz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 0,
+                "minutos": 19,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j104319",
+                "nombre": "Gonzalo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 17,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j104222",
+                "nombre": "Mario Martín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 16,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j104227",
+                "nombre": "Álvaro",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 1,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Supercopa (España)": [
+            {
+                "id": "j20659",
+                "nombre": "Lunin",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j101005",
+                "nombre": "Carvajal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28266",
+                "nombre": "Mendy",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 170,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93402",
+                "nombre": "Rüdiger",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22396",
+                "nombre": "Valverde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 197,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29482",
+                "nombre": "Bellingham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 206,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j92802",
+                "nombre": "Kroos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28344",
+                "nombre": "Tchouaméni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 170,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22869",
+                "nombre": "Camavinga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 48,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25618",
+                "nombre": "Rodrygo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 183,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20660",
+                "nombre": "Vinícius",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 188,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19970",
+                "nombre": "Kepa",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j18002",
+                "nombre": "Modrić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25251",
+                "nombre": "Brahim Díaz",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 53,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9301",
+                "nombre": "Joselu",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200113",
+                "nombre": "Nacho",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15261",
+                "nombre": "Dani Ceballos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j42745",
+                "nombre": "Güler",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j20659",
+                "nombre": "Lunin",
+                "posicion": "portero",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 750,
+                "goles_marcados": 0,
+                "goles_encajados": 10
+            },
+            {
+                "id": "j101005",
+                "nombre": "Carvajal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 10,
+                "partidos_titular": 9,
+                "minutos": 846,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28266",
+                "nombre": "Mendy",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 11,
+                "partidos_titular": 9,
+                "minutos": 871,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93402",
+                "nombre": "Rüdiger",
+                "posicion": "central",
+                "partidos_jugados": 12,
+                "partidos_titular": 11,
+                "minutos": 1039,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22396",
+                "nombre": "Valverde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 12,
+                "minutos": 1068,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29482",
+                "nombre": "Bellingham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 994,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j92802",
+                "nombre": "Kroos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 12,
+                "partidos_titular": 10,
+                "minutos": 860,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28344",
+                "nombre": "Tchouaméni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 604,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22869",
+                "nombre": "Camavinga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 9,
+                "minutos": 791,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25618",
+                "nombre": "Rodrygo",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 12,
+                "minutos": 1021,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20660",
+                "nombre": "Vinícius",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 902,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19970",
+                "nombre": "Kepa",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j18002",
+                "nombre": "Modrić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 3,
+                "minutos": 415,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25251",
+                "nombre": "Brahim Díaz",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 3,
+                "minutos": 322,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9301",
+                "nombre": "Joselu",
+                "posicion": "delantero centro",
+                "partidos_jugados": 11,
+                "partidos_titular": 2,
+                "minutos": 273,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200113",
+                "nombre": "Nacho",
+                "posicion": "central",
+                "partidos_jugados": 12,
+                "partidos_titular": 11,
+                "minutos": 981,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13727",
+                "nombre": "Courtois",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101266",
+                "nombre": "Lucas Vázquez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 9,
+                "partidos_titular": 4,
+                "minutos": 373,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28183",
+                "nombre": "Fran García",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 189,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93161",
+                "nombre": "Alaba",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 251,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15261",
+                "nombre": "Dani Ceballos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 153,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20583",
+                "nombre": "Militão",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 12,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j205146",
+                "nombre": "Nico Paz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 39,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j20659",
+                "nombre": "Lunin",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j101005",
+                "nombre": "Carvajal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28266",
+                "nombre": "Mendy",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 66,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93402",
+                "nombre": "Rüdiger",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22396",
+                "nombre": "Valverde",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 104,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29482",
+                "nombre": "Bellingham",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j92802",
+                "nombre": "Kroos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 54,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28344",
+                "nombre": "Tchouaméni",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 47,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22869",
+                "nombre": "Camavinga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 165,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25618",
+                "nombre": "Rodrygo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 111,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20660",
+                "nombre": "Vinícius",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19970",
+                "nombre": "Kepa",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j18002",
+                "nombre": "Modrić",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 66,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25251",
+                "nombre": "Brahim Díaz",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 144,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9301",
+                "nombre": "Joselu",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 130,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200113",
+                "nombre": "Nacho",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 196,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28183",
+                "nombre": "Fran García",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 104,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15261",
+                "nombre": "Dani Ceballos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 104,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j42745",
+                "nombre": "Güler",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 59,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j205146",
+                "nombre": "Nico Paz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 70,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j104222",
+                "nombre": "Mario Martín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 20,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j104227",
+                "nombre": "Álvaro",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 2,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j43216",
+                "nombre": "Carrillo",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j32927",
+                "nombre": "Vinícius Tobías",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 88,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

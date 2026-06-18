@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2001,
+    "temporada": "2001-02",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Westerlo"
+    },
+    "partidos": [
+        {
+            "id_partido": 721102,
+            "ronda": "Final",
+            "local": "Westerlo",
+            "visitante": "Anderlecht",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

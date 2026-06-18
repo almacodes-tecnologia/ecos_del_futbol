@@ -1,0 +1,605 @@
+{
+    "pais": "España",
+    "equipo": "Athletic",
+    "id_bdfutbol": "6",
+    "temporada": "1976-77",
+    "año_inicio": 1976,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5056",
+                "nombre": "Iribar",
+                "posicion": "portero",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2636,
+                "goles_marcados": 0,
+                "goles_encajados": 36
+            },
+            {
+                "id": "j5094",
+                "nombre": "Lasa",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2880,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3727",
+                "nombre": "Escalza",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2886,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3692",
+                "nombre": "Gisasola",
+                "posicion": "central",
+                "partidos_jugados": 27,
+                "partidos_titular": 24,
+                "minutos": 2231,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3929",
+                "nombre": "Villar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2759,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5057",
+                "nombre": "Irureta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 32,
+                "partidos_titular": 28,
+                "minutos": 2529,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5223",
+                "nombre": "Rojo II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 11,
+                "minutos": 907,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3849",
+                "nombre": "Churruca",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 30,
+                "minutos": 2618,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3293",
+                "nombre": "Dani",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 27,
+                "minutos": 2355,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3804",
+                "nombre": "Txetxu Rojo",
+                "posicion": "extremo",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2194,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3873",
+                "nombre": "Carlos",
+                "posicion": "delantero centro",
+                "partidos_jugados": 23,
+                "partidos_titular": 18,
+                "minutos": 1785,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5246",
+                "nombre": "Zaldua",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 424,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j3711",
+                "nombre": "Amorrortu",
+                "posicion": "extremo",
+                "partidos_jugados": 24,
+                "partidos_titular": 11,
+                "minutos": 1242,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5220",
+                "nombre": "Madariaga",
+                "posicion": "central",
+                "partidos_jugados": 16,
+                "partidos_titular": 16,
+                "minutos": 1416,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1552",
+                "nombre": "Alexanco",
+                "posicion": "central",
+                "partidos_jugados": 14,
+                "partidos_titular": 13,
+                "minutos": 1186,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3866",
+                "nombre": "Oñaederra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 7,
+                "minutos": 680,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5152",
+                "nombre": "Astrain",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 889,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3912",
+                "nombre": "Garay",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 7,
+                "minutos": 627,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2676",
+                "nombre": "Goikoetxea",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 7,
+                "minutos": 614,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3928",
+                "nombre": "Bengoetxea",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 310,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1852",
+                "nombre": "Sarabia",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 147,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3408",
+                "nombre": "Martín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 163,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j5056",
+                "nombre": "Iribar",
+                "posicion": "portero",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 990,
+                "goles_marcados": 0,
+                "goles_encajados": 12
+            },
+            {
+                "id": "j5094",
+                "nombre": "Lasa",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 11,
+                "partidos_titular": 9,
+                "minutos": 795,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3727",
+                "nombre": "Escalza",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3692",
+                "nombre": "Gisasola",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3929",
+                "nombre": "Villar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 970,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5057",
+                "nombre": "Irureta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 974,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5223",
+                "nombre": "Rojo II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 412,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3849",
+                "nombre": "Churruca",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 528,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3293",
+                "nombre": "Dani",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 8,
+                "minutos": 661,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3804",
+                "nombre": "Txetxu Rojo",
+                "posicion": "extremo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1080,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3873",
+                "nombre": "Carlos",
+                "posicion": "delantero centro",
+                "partidos_jugados": 8,
+                "partidos_titular": 4,
+                "minutos": 412,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5246",
+                "nombre": "Zaldua",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j3711",
+                "nombre": "Amorrortu",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 10,
+                "minutos": 888,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5220",
+                "nombre": "Madariaga",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1552",
+                "nombre": "Alexanco",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3866",
+                "nombre": "Oñaederra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 394,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5152",
+                "nombre": "Astrain",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3912",
+                "nombre": "Garay",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 3,
+                "minutos": 336,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2676",
+                "nombre": "Goikoetxea",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3928",
+                "nombre": "Bengoetxea",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 20,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5056",
+                "nombre": "Iribar",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 570,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j5094",
+                "nombre": "Lasa",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 534,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3727",
+                "nombre": "Escalza",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 570,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3692",
+                "nombre": "Gisasola",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 612,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3929",
+                "nombre": "Villar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 570,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5057",
+                "nombre": "Irureta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 660,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5223",
+                "nombre": "Rojo II",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 199,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3849",
+                "nombre": "Churruca",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 550,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3293",
+                "nombre": "Dani",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 570,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3804",
+                "nombre": "Txetxu Rojo",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 551,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3873",
+                "nombre": "Carlos",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 530,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5246",
+                "nombre": "Zaldua",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3711",
+                "nombre": "Amorrortu",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 220,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1552",
+                "nombre": "Alexanco",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 500,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3866",
+                "nombre": "Oñaederra",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5152",
+                "nombre": "Astrain",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 0,
+                "minutos": 174,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2676",
+                "nombre": "Goikoetxea",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

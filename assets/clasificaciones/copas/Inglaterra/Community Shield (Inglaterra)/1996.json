@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1996,
+    "temporada": "1996-97",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Newcastle"
+    },
+    "partidos": [
+        {
+            "id_partido": 720025,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Newcastle",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

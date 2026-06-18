@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "Olympique Lyonnais",
+        "subcampeon": "Montpellier"
+    },
+    "partidos": [
+        {
+            "id_partido": 721030,
+            "ronda": "Final",
+            "local": "Montpellier",
+            "visitante": "Olympique Lyonnais",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 2,
+            "penaltis_visitante": 4
+        }
+    ]
+}

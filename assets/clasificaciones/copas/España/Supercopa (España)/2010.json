@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2010,
+    "temporada": "2010-11",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Sevilla"
+    },
+    "partidos": [
+        {
+            "id_partido": 490240,
+            "ronda": "Final - Ida",
+            "local": "Sevilla",
+            "visitante": "Barcelona",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490241,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Sevilla",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

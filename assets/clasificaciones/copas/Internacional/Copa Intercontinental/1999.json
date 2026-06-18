@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Palmeiras"
+    },
+    "partidos": [
+        {
+            "id_partido": 430090,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Palmeiras",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1969,
+    "temporada": "1969-70",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Estudiantes de La Plata"
+    },
+    "partidos": [
+        {
+            "id_partido": 430128,
+            "ronda": "Final - Ida",
+            "local": "Milan",
+            "visitante": "Estudiantes de La Plata",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430129,
+            "ronda": "Final - Vuelta",
+            "local": "Estudiantes de La Plata",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1981,
+    "temporada": "1981-82",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 720078,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720079,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Benfica",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

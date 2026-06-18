@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Manchester City",
+        "subcampeon": "Sevilla"
+    },
+    "partidos": [
+        {
+            "id_partido": 440528,
+            "ronda": "Final",
+            "local": "Manchester City",
+            "visitante": "Sevilla",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

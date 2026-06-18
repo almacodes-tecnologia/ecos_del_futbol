@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Kashima Antlers",
+        "subcampeon": "Atlético Nacional"
+    },
+    "partidos": [
+        {
+            "id_partido": 430098,
+            "ronda": "Semifinal",
+            "local": "Club América",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430099,
+            "ronda": "Semifinal",
+            "local": "Real Madrid",
+            "visitante": "Kashima Antlers",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430221,
+            "ronda": "Semifinal",
+            "local": "Jeonbuk",
+            "visitante": "Club América",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430222,
+            "ronda": "Semifinal",
+            "local": "Mamelodi Sundowns",
+            "visitante": "Kashima Antlers",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430223,
+            "ronda": "Final",
+            "local": "Atlético Nacional",
+            "visitante": "Kashima Antlers",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

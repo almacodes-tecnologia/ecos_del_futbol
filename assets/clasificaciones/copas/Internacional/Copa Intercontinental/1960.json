@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1960,
+    "temporada": "1960-61",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Peñarol"
+    },
+    "partidos": [
+        {
+            "id_partido": 430000,
+            "ronda": "Final - Ida",
+            "local": "Peñarol",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430001,
+            "ronda": "Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Peñarol",
+            "goles_local": "5",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

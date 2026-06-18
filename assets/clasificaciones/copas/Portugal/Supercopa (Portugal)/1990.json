@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1990,
+    "temporada": "1990-91",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Estrela da Amadora"
+    },
+    "partidos": [
+        {
+            "id_partido": 490335,
+            "ronda": "Final - Ida",
+            "local": "Estrela da Amadora",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490336,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Estrela da Amadora",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

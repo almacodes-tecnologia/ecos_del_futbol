@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Benfica",
+        "subcampeon": "Braga"
+    },
+    "partidos": [
+        {
+            "id_partido": 490382,
+            "ronda": "Final",
+            "local": "Benfica",
+            "visitante": "Braga",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

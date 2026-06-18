@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "PSV",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 721062,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "PSV",
+            "goles_local": "3",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

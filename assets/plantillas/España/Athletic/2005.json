@@ -1,0 +1,655 @@
+{
+    "pais": "España",
+    "equipo": "Athletic",
+    "id_bdfutbol": "6",
+    "temporada": "2005-06",
+    "año_inicio": 2005,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j1105",
+                "nombre": "Lafuente",
+                "posicion": "portero",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1800,
+                "goles_marcados": 0,
+                "goles_encajados": 21
+            },
+            {
+                "id": "j1528",
+                "nombre": "Lacruz",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 30,
+                "partidos_titular": 25,
+                "minutos": 2224,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1188",
+                "nombre": "Casas",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 24,
+                "partidos_titular": 21,
+                "minutos": 1800,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1789",
+                "nombre": "Luis Prieto",
+                "posicion": "central",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 2998,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2559",
+                "nombre": "Expósito",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 24,
+                "partidos_titular": 19,
+                "minutos": 1745,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2163",
+                "nombre": "Orbaiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3228,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j147",
+                "nombre": "Iraola",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 34,
+                "minutos": 3170,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j880",
+                "nombre": "Yeste",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 34,
+                "minutos": 2878,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j361",
+                "nombre": "Gurpegui",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2595,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j140",
+                "nombre": "Murillo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 19,
+                "minutos": 1904,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1563",
+                "nombre": "Etxeberria",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 24,
+                "minutos": 1990,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j479",
+                "nombre": "Aranzubia",
+                "posicion": "portero",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1620,
+                "goles_marcados": 0,
+                "goles_encajados": 25
+            },
+            {
+                "id": "j1127",
+                "nombre": "Urzaiz",
+                "posicion": "delantero centro",
+                "partidos_jugados": 26,
+                "partidos_titular": 16,
+                "minutos": 1551,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j757",
+                "nombre": "Llorente",
+                "posicion": "delantero centro",
+                "partidos_jugados": 22,
+                "partidos_titular": 12,
+                "minutos": 1099,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2353",
+                "nombre": "Tiko",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 6,
+                "minutos": 877,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2564",
+                "nombre": "Ustaritz",
+                "posicion": "central",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1431,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2027",
+                "nombre": "Dañobeitia",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 8,
+                "minutos": 818,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j752",
+                "nombre": "Amorebieta",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1118,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j278",
+                "nombre": "Aduriz",
+                "posicion": "delantero centro",
+                "partidos_jugados": 15,
+                "partidos_titular": 13,
+                "minutos": 1119,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1694",
+                "nombre": "Julen Guerrero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 4,
+                "minutos": 501,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1054",
+                "nombre": "Ibon Gutiérrez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 457,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1201",
+                "nombre": "Javi González",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 217,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1218",
+                "nombre": "Tarantino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 160,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j678",
+                "nombre": "Bordas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 119,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j740",
+                "nombre": "Felipe",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 39,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2563",
+                "nombre": "Urko Arroyo",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 6,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (ITT)": [
+            {
+                "id": "j1105",
+                "nombre": "Lafuente",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j1188",
+                "nombre": "Casas",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2564",
+                "nombre": "Ustaritz",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2027",
+                "nombre": "Dañobeitia",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j752",
+                "nombre": "Amorebieta",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1694",
+                "nombre": "Julen Guerrero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1054",
+                "nombre": "Ibon Gutiérrez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1201",
+                "nombre": "Javi González",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 128,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1562",
+                "nombre": "Arriaga",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2824",
+                "nombre": "Gontzal",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2828",
+                "nombre": "Ormazábal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2823",
+                "nombre": "Eder",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 164,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1307",
+                "nombre": "Jonan",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 164,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2829",
+                "nombre": "Paredes",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j279",
+                "nombre": "Solabarrieta",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100028",
+                "nombre": "De Paula",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 157,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2825",
+                "nombre": "Lizoain",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 43,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j1105",
+                "nombre": "Lafuente",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j1528",
+                "nombre": "Lacruz",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 275,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1188",
+                "nombre": "Casas",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 198,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1789",
+                "nombre": "Luis Prieto",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2559",
+                "nombre": "Expósito",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 332,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2163",
+                "nombre": "Orbaiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j147",
+                "nombre": "Iraola",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 285,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j880",
+                "nombre": "Yeste",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 165,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j361",
+                "nombre": "Gurpegui",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j140",
+                "nombre": "Murillo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 225,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1563",
+                "nombre": "Etxeberria",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 152,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j479",
+                "nombre": "Aranzubia",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1127",
+                "nombre": "Urzaiz",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 1,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j757",
+                "nombre": "Llorente",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 149,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2353",
+                "nombre": "Tiko",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 301,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2027",
+                "nombre": "Dañobeitia",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 208,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j752",
+                "nombre": "Amorebieta",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 98,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j278",
+                "nombre": "Aduriz",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 162,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1694",
+                "nombre": "Julen Guerrero",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 101,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1201",
+                "nombre": "Javi González",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j678",
+                "nombre": "Bordas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 49,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

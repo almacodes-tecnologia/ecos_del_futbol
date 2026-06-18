@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Deportivo de La Coruña",
+        "subcampeon": "Espanyol"
+    },
+    "partidos": [
+        {
+            "id_partido": 490140,
+            "ronda": "Final - Ida",
+            "local": "Espanyol",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490141,
+            "ronda": "Final - Vuelta",
+            "local": "Deportivo de La Coruña",
+            "visitante": "Espanyol",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

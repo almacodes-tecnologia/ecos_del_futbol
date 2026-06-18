@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 1994,
+    "temporada": "1994-95",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Zaragoza"
+    },
+    "partidos": [
+        {
+            "id_partido": 490080,
+            "ronda": "Final - Ida",
+            "local": "Zaragoza",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490081,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Zaragoza",
+            "goles_local": "4",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

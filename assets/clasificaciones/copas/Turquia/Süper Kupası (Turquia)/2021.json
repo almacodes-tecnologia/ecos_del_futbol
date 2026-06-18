@@ -1,0 +1,23 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Beşiktaş",
+        "subcampeon": "Antalyaspor"
+    },
+    "partidos": [
+        {
+            "id_partido": 396699,
+            "ronda": "Final",
+            "local": "Beşiktaş",
+            "visitante": "Antalyaspor",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2025,
+    "temporada": "2025-26",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Tottenham"
+    },
+    "partidos": [
+        {
+            "id_partido": 440530,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Tottenham",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 3
+        }
+    ]
+}

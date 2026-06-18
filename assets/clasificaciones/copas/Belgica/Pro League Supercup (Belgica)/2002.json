@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2002,
+    "temporada": "2002-03",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Genk"
+    },
+    "partidos": [
+        {
+            "id_partido": 721101,
+            "ronda": "Final",
+            "local": "Genk",
+            "visitante": "Brugge",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "pais": "Escocia",
+    "copa": "Premiership Relegation (Escocia)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Livingston",
+        "subcampeon": "Dundee"
+    },
+    "partidos": [
+        {
+            "id_partido": 355657,
+            "ronda": "Octavos de Final",
+            "local": "Aberdeen",
+            "visitante": "Livingston",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355658,
+            "ronda": "Octavos de Final",
+            "local": "Dundee",
+            "visitante": "St Johnstone",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355659,
+            "ronda": "Cuartos de Final",
+            "local": "St Mirren",
+            "visitante": "Hibernian",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355663,
+            "ronda": "Cuartos de Final",
+            "local": "Aberdeen",
+            "visitante": "Dundee",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355664,
+            "ronda": "Cuartos de Final",
+            "local": "Livingston",
+            "visitante": "Hibernian",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355665,
+            "ronda": "Cuartos de Final",
+            "local": "St Johnstone",
+            "visitante": "St Mirren",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355669,
+            "ronda": "Cuartos de Final",
+            "local": "Hibernian",
+            "visitante": "Aberdeen",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355670,
+            "ronda": "Cuartos de Final",
+            "local": "Livingston",
+            "visitante": "St Johnstone",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355671,
+            "ronda": "Cuartos de Final",
+            "local": "St Mirren",
+            "visitante": "Dundee",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355675,
+            "ronda": "Cuartos de Final",
+            "local": "Dundee",
+            "visitante": "Hibernian",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355676,
+            "ronda": "Semifinal",
+            "local": "St Johnstone",
+            "visitante": "Aberdeen",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355677,
+            "ronda": "Semifinal",
+            "local": "St Mirren",
+            "visitante": "Livingston",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355681,
+            "ronda": "Semifinal",
+            "local": "Aberdeen",
+            "visitante": "St Mirren",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355682,
+            "ronda": "Semifinal",
+            "local": "Hibernian",
+            "visitante": "St Johnstone",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355683,
+            "ronda": "Final",
+            "local": "Livingston",
+            "visitante": "Dundee",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

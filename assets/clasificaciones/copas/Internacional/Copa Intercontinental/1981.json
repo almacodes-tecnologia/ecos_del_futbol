@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1981,
+    "temporada": "1981-82",
+    "cuadro_honor": {
+        "campeon": "Flamengo",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 430140,
+            "ronda": "Final",
+            "local": "Flamengo",
+            "visitante": "Liverpool",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

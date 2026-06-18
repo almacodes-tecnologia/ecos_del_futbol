@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1979,
+    "temporada": "1979-80",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Arsenal"
+    },
+    "partidos": [
+        {
+            "id_partido": 720050,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Arsenal",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

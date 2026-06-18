@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1998,
+    "temporada": "1998-99",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Genk"
+    },
+    "partidos": [
+        {
+            "id_partido": 721119,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Genk",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

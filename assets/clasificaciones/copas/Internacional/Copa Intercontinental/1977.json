@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1977,
+    "temporada": "1977-78",
+    "cuadro_honor": {
+        "campeon": "Boca Juniors",
+        "subcampeon": "Borussia Mönchengladbach"
+    },
+    "partidos": [
+        {
+            "id_partido": 430024,
+            "ronda": "Final - Ida",
+            "local": "Boca Juniors",
+            "visitante": "Borussia Mönchengladbach",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430025,
+            "ronda": "Final - Vuelta",
+            "local": "Borussia Mönchengladbach",
+            "visitante": "Boca Juniors",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

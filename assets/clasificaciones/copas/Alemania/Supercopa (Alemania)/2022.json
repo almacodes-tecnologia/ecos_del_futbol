@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "RB Leipzig"
+    },
+    "partidos": [
+        {
+            "id_partido": 721012,
+            "ronda": "Final",
+            "local": "RB Leipzig",
+            "visitante": "Bayern München",
+            "goles_local": "3",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

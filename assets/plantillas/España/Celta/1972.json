@@ -1,0 +1,383 @@
+{
+    "pais": "España",
+    "equipo": "Celta",
+    "id_bdfutbol": "11",
+    "temporada": "1972-73",
+    "año_inicio": 1972,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j5771",
+                "nombre": "Alarcia",
+                "posicion": "portero",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2929,
+                "goles_marcados": 0,
+                "goles_encajados": 32
+            },
+            {
+                "id": "j5681",
+                "nombre": "Rivas",
+                "posicion": "defensa",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2403,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5383",
+                "nombre": "Navarro",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 34,
+                "partidos_titular": 33,
+                "minutos": 2937,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5175",
+                "nombre": "Manolo",
+                "posicion": "central",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2771,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5773",
+                "nombre": "Domínguez",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1743,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5169",
+                "nombre": "Castro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 31,
+                "minutos": 2763,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3812",
+                "nombre": "Fernández Amado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2470,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5174",
+                "nombre": "Juan",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 29,
+                "minutos": 2566,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5679",
+                "nombre": "Lezcano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 20,
+                "partidos_titular": 19,
+                "minutos": 1652,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5678",
+                "nombre": "Jiménez",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2686,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5381",
+                "nombre": "Doblas",
+                "posicion": "extremo",
+                "partidos_jugados": 22,
+                "partidos_titular": 17,
+                "minutos": 1504,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5858",
+                "nombre": "Gost",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 131,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j5181",
+                "nombre": "Villar",
+                "posicion": "defensa",
+                "partidos_jugados": 21,
+                "partidos_titular": 10,
+                "minutos": 1093,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5857",
+                "nombre": "Dolfi",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 10,
+                "minutos": 1030,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5178",
+                "nombre": "Sanromán",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 9,
+                "minutos": 903,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5683",
+                "nombre": "Rodilla",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 10,
+                "minutos": 851,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5680",
+                "nombre": "Navas",
+                "posicion": "defensa",
+                "partidos_jugados": 11,
+                "partidos_titular": 8,
+                "minutos": 688,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5677",
+                "nombre": "Hidalgo",
+                "posicion": "defensa",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 583,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5859",
+                "nombre": "Pedrito",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 8,
+                "partidos_titular": 6,
+                "minutos": 560,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5682",
+                "nombre": "Rivera",
+                "posicion": "defensa",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5772",
+                "nombre": "Canario",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 259,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5861",
+                "nombre": "Yáñez",
+                "posicion": "defensa",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5860",
+                "nombre": "Waldo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j5771",
+                "nombre": "Alarcia",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j5681",
+                "nombre": "Rivas",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5383",
+                "nombre": "Navarro",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5175",
+                "nombre": "Manolo",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5169",
+                "nombre": "Castro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3812",
+                "nombre": "Fernández Amado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5174",
+                "nombre": "Juan",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5678",
+                "nombre": "Jiménez",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 132,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5381",
+                "nombre": "Doblas",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5178",
+                "nombre": "Sanromán",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 26,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5683",
+                "nombre": "Rodilla",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 64,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5677",
+                "nombre": "Hidalgo",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5682",
+                "nombre": "Rivera",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j5860",
+                "nombre": "Waldo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 92,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

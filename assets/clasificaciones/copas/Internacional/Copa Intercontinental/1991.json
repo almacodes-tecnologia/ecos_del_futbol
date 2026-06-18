@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Crvena Zvezda",
+        "subcampeon": "Colo-Colo"
+    },
+    "partidos": [
+        {
+            "id_partido": 430147,
+            "ronda": "Final",
+            "local": "Crvena Zvezda",
+            "visitante": "Colo-Colo",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Brugge"
+    },
+    "partidos": [
+        {
+            "id_partido": 721122,
+            "ronda": "Final",
+            "local": "Anderlecht",
+            "visitante": "Brugge",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

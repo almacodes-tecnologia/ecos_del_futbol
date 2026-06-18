@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Barcelona"
+    },
+    "partidos": [
+        {
+            "id_partido": 490070,
+            "ronda": "Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490071,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

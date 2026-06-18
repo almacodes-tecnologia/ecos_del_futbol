@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2008,
+    "temporada": "2008-09",
+    "cuadro_honor": {
+        "campeon": "Liga de Quito",
+        "subcampeon": "Pachuca"
+    },
+    "partidos": [
+        {
+            "id_partido": 430075,
+            "ronda": "Semifinal",
+            "local": "Gamba Osaka",
+            "visitante": "Manchester United",
+            "goles_local": "3",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430076,
+            "ronda": "Semifinal",
+            "local": "Liga de Quito",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430173,
+            "ronda": "Semifinal",
+            "local": "Adelaide United",
+            "visitante": "Gamba Osaka",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430174,
+            "ronda": "Semifinal",
+            "local": "Al Ahly",
+            "visitante": "Pachuca",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430175,
+            "ronda": "Final",
+            "local": "Pachuca",
+            "visitante": "Liga de Quito",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

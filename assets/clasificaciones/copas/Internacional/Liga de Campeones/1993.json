@@ -1,0 +1,45 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Monaco"
+    },
+    "partidos": [
+        {
+            "id_partido": 400470,
+            "ronda": "Semifinal",
+            "local": "Barcelona",
+            "visitante": "Porto",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400471,
+            "ronda": "Semifinal",
+            "local": "Milan",
+            "visitante": "Barcelona",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408402,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Monaco",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

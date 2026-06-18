@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2009,
+    "temporada": "2009-10",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Shakhtar Donetsk"
+    },
+    "partidos": [
+        {
+            "id_partido": 440496,
+            "ronda": "Final",
+            "local": "Barcelona",
+            "visitante": "Shakhtar Donetsk",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

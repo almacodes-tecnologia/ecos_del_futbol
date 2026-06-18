@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Borussia Dortmund"
+    },
+    "partidos": [
+        {
+            "id_partido": 721006,
+            "ronda": "Final",
+            "local": "Borussia Dortmund",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

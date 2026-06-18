@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2008,
+    "temporada": "2008-09",
+    "cuadro_honor": {
+        "campeon": "Zenit",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 440495,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Zenit",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

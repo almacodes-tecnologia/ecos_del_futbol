@@ -1,0 +1,595 @@
+{
+    "pais": "España",
+    "equipo": "Real Madrid",
+    "id_bdfutbol": "1",
+    "temporada": "1987-88",
+    "año_inicio": 1987,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j149",
+                "nombre": "Zubizarreta",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 44
+            },
+            {
+                "id": "j3013",
+                "nombre": "Gerardo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 22,
+                "partidos_titular": 22,
+                "minutos": 1867,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1713",
+                "nombre": "Julio Alberto",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 26,
+                "partidos_titular": 26,
+                "minutos": 2282,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3015",
+                "nombre": "Moratalla",
+                "posicion": "central",
+                "partidos_jugados": 26,
+                "partidos_titular": 25,
+                "minutos": 2260,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3014",
+                "nombre": "Migueli",
+                "posicion": "central",
+                "partidos_jugados": 24,
+                "partidos_titular": 23,
+                "minutos": 1913,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2591",
+                "nombre": "Víctor Muñoz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 2813,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2347",
+                "nombre": "Robert",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 32,
+                "minutos": 2881,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2561",
+                "nombre": "Urbano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 31,
+                "minutos": 2687,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j316",
+                "nombre": "Schuster",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 30,
+                "minutos": 2655,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2915",
+                "nombre": "Lineker",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 34,
+                "minutos": 2922,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2914",
+                "nombre": "Carrasco",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 27,
+                "minutos": 2424,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2937",
+                "nombre": "Calderé",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 21,
+                "minutos": 2031,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j466",
+                "nombre": "Cristóbal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 20,
+                "partidos_titular": 18,
+                "minutos": 1657,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2439",
+                "nombre": "Salva",
+                "posicion": "central",
+                "partidos_jugados": 17,
+                "partidos_titular": 11,
+                "minutos": 1206,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1552",
+                "nombre": "Alexanco",
+                "posicion": "central",
+                "partidos_jugados": 13,
+                "partidos_titular": 11,
+                "minutos": 891,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2959",
+                "nombre": "Manolo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 12,
+                "partidos_titular": 11,
+                "minutos": 961,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2950",
+                "nombre": "Clos",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 7,
+                "minutos": 709,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j174",
+                "nombre": "Pedraza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 5,
+                "minutos": 586,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2970",
+                "nombre": "López López",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 5,
+                "minutos": 622,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3012",
+                "nombre": "Amarilla",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 5,
+                "minutos": 501,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2053",
+                "nombre": "Nayim",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 0,
+                "minutos": 153,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j539",
+                "nombre": "Linde",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 72,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j149",
+                "nombre": "Zubizarreta",
+                "posicion": "portero",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j3013",
+                "nombre": "Gerardo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 585,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1713",
+                "nombre": "Julio Alberto",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 626,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3015",
+                "nombre": "Moratalla",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 606,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3014",
+                "nombre": "Migueli",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 612,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2591",
+                "nombre": "Víctor Muñoz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 776,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2347",
+                "nombre": "Robert",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 5,
+                "minutos": 560,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2561",
+                "nombre": "Urbano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j316",
+                "nombre": "Schuster",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2915",
+                "nombre": "Lineker",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2914",
+                "nombre": "Carrasco",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 641,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2937",
+                "nombre": "Calderé",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 4,
+                "minutos": 339,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j466",
+                "nombre": "Cristóbal",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 315,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2439",
+                "nombre": "Salva",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 267,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1552",
+                "nombre": "Alexanco",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 204,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2959",
+                "nombre": "Manolo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 94,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2950",
+                "nombre": "Clos",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 315,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j174",
+                "nombre": "Pedraza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3012",
+                "nombre": "Amarilla",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j149",
+                "nombre": "Zubizarreta",
+                "posicion": "portero",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j3013",
+                "nombre": "Gerardo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 602,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1713",
+                "nombre": "Julio Alberto",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3015",
+                "nombre": "Moratalla",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 480,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3014",
+                "nombre": "Migueli",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 496,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2591",
+                "nombre": "Víctor Muñoz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 564,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2347",
+                "nombre": "Robert",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 573,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2561",
+                "nombre": "Urbano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 676,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j316",
+                "nombre": "Schuster",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2915",
+                "nombre": "Lineker",
+                "posicion": "extremo",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 720,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2914",
+                "nombre": "Carrasco",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2937",
+                "nombre": "Calderé",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 392,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2439",
+                "nombre": "Salva",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 222,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1552",
+                "nombre": "Alexanco",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2959",
+                "nombre": "Manolo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3012",
+                "nombre": "Amarilla",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2053",
+                "nombre": "Nayim",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

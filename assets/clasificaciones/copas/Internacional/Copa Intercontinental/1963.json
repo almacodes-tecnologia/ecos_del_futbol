@@ -1,0 +1,45 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1963,
+    "temporada": "1963-64",
+    "cuadro_honor": {
+        "campeon": "Santos",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 430115,
+            "ronda": "Final - Ida",
+            "local": "Milan",
+            "visitante": "Santos",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430116,
+            "ronda": "Final - Vuelta",
+            "local": "Santos",
+            "visitante": "Milan",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430117,
+            "ronda": "Final - Desempate",
+            "local": "Santos",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

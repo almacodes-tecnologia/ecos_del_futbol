@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 1998,
+    "temporada": "1998-99",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Lens"
+    },
+    "partidos": [
+        {
+            "id_partido": 721016,
+            "ronda": "Final",
+            "local": "Lens",
+            "visitante": "PSG",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

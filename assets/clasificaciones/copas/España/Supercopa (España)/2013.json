@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2013,
+    "temporada": "2013-14",
+    "cuadro_honor": {
+        "campeon": "Empate global entre Atlético de Madrid y Barcelona",
+        "subcampeon": "No determinado"
+    },
+    "partidos": [
+        {
+            "id_partido": 490273,
+            "ronda": "Final - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490274,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

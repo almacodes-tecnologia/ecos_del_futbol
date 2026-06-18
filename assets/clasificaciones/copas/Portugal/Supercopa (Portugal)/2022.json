@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Tondela"
+    },
+    "partidos": [
+        {
+            "id_partido": 490388,
+            "ronda": "Final",
+            "local": "Porto",
+            "visitante": "Tondela",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

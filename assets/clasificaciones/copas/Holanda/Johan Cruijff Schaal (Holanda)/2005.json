@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "Ajax",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 721046,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

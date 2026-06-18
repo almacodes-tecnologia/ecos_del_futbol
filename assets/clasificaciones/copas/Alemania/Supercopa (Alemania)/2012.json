@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Borussia Dortmund"
+    },
+    "partidos": [
+        {
+            "id_partido": 721002,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

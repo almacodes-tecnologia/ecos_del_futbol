@@ -1,0 +1,342 @@
+{
+    "pais": "Internacional",
+    "copa": "Europa League",
+    "año_inicio": 1985,
+    "temporada": "1985-86",
+    "cuadro_honor": {
+        "campeon": "Köln",
+        "subcampeon": "Waregem"
+    },
+    "partidos": [
+        {
+            "id_partido": 410284,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Athletic Club",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410285,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Athletic Club",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410286,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Borussia Mönchengladbach",
+            "visitante": "Real Madrid",
+            "goles_local": "5",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410287,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Borussia Mönchengladbach",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410288,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Neuchâtel Xamax",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410289,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Neuchâtel Xamax",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410290,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Inter",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410291,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Inter",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410292,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Köln",
+            "goles_local": "5",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410293,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Köln",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702496,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Inter",
+            "visitante": "Legia Warszawa",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702497,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Dundee United",
+            "visitante": "Neuchâtel Xamax",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702500,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Waregem",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702501,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Hammarby",
+            "visitante": "Köln",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702502,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Dnipro",
+            "visitante": "Hajduk Split",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702503,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Spartak Moskva",
+            "visitante": "Nantes",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702506,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Waregem",
+            "visitante": "Milan",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702507,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Dundee United",
+            "visitante": "Neuchâtel Xamax",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702508,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Spartak Moskva",
+            "visitante": "Nantes",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702509,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Hammarby",
+            "visitante": "Köln",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702510,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Inter",
+            "visitante": "Legia Warszawa",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702511,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Dnipro",
+            "visitante": "Hajduk Split",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702513,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Inter",
+            "visitante": "Nantes",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702514,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Hajduk Split",
+            "visitante": "Waregem",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702515,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Sporting de Portugal",
+            "visitante": "Köln",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702517,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Inter",
+            "visitante": "Nantes",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702518,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Hajduk Split",
+            "visitante": "Waregem",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702519,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Köln",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702521,
+            "ronda": "Final - Ida",
+            "local": "Köln",
+            "visitante": "Waregem",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 702523,
+            "ronda": "Final - Vuelta",
+            "local": "Köln",
+            "visitante": "Waregem",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

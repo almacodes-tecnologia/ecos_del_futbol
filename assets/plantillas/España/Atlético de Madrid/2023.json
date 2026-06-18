@@ -1,0 +1,887 @@
+{
+    "pais": "España",
+    "equipo": "Atlético de Madrid",
+    "id_bdfutbol": "7",
+    "temporada": "2023-24",
+    "año_inicio": 2023,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j18149",
+                "nombre": "Oblak",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 43
+            },
+            {
+                "id": "j29588",
+                "nombre": "Molina",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 30,
+                "partidos_titular": 19,
+                "minutos": 1852,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25825",
+                "nombre": "Lino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 34,
+                "partidos_titular": 25,
+                "minutos": 2090,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70839",
+                "nombre": "Witsel",
+                "posicion": "central",
+                "partidos_jugados": 35,
+                "partidos_titular": 30,
+                "minutos": 2782,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20150",
+                "nombre": "Hermoso",
+                "posicion": "central",
+                "partidos_jugados": 31,
+                "partidos_titular": 29,
+                "minutos": 2557,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12503",
+                "nombre": "Koke",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2504,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22037",
+                "nombre": "Marcos Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 29,
+                "minutos": 2569,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18142",
+                "nombre": "De Paul",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 25,
+                "minutos": 2086,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12581",
+                "nombre": "Griezmann",
+                "posicion": "extremo",
+                "partidos_jugados": 33,
+                "partidos_titular": 31,
+                "minutos": 2653,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8571",
+                "nombre": "Morata",
+                "posicion": "delantero centro",
+                "partidos_jugados": 32,
+                "partidos_titular": 21,
+                "minutos": 1909,
+                "goles_marcados": 15,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20017",
+                "nombre": "Correa",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 14,
+                "minutos": 1520,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23741",
+                "nombre": "Riquelme",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 34,
+                "partidos_titular": 17,
+                "minutos": 1525,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101062",
+                "nombre": "Saúl",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 14,
+                "minutos": 1364,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95524",
+                "nombre": "Savić",
+                "posicion": "central",
+                "partidos_jugados": 23,
+                "partidos_titular": 19,
+                "minutos": 1631,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13283",
+                "nombre": "Barrios",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 17,
+                "minutos": 1558,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j405",
+                "nombre": "Azpilicueta",
+                "posicion": "central",
+                "partidos_jugados": 25,
+                "partidos_titular": 14,
+                "minutos": 1420,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15204",
+                "nombre": "Giménez",
+                "posicion": "central",
+                "partidos_jugados": 22,
+                "partidos_titular": 14,
+                "minutos": 1323,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25004",
+                "nombre": "Memphis",
+                "posicion": "extremo",
+                "partidos_jugados": 23,
+                "partidos_titular": 9,
+                "minutos": 887,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20525",
+                "nombre": "Reinildo",
+                "posicion": "central",
+                "partidos_jugados": 16,
+                "partidos_titular": 7,
+                "minutos": 724,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15211",
+                "nombre": "Gabriel Paulista",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 406,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j45302",
+                "nombre": "Vermeeren",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 160,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26190",
+                "nombre": "Söyüncü",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 1,
+                "minutos": 111,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20173",
+                "nombre": "Galán",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 0,
+                "minutos": 84,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82564",
+                "nombre": "Lemar",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 166,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82276",
+                "nombre": "Carrasco",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 223,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13634",
+                "nombre": "El Jebari",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 12,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13621",
+                "nombre": "Raihani",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j18149",
+                "nombre": "Oblak",
+                "posicion": "portero",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 480,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j29588",
+                "nombre": "Molina",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 320,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25825",
+                "nombre": "Lino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 335,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70839",
+                "nombre": "Witsel",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 480,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20150",
+                "nombre": "Hermoso",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 307,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12503",
+                "nombre": "Koke",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 409,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22037",
+                "nombre": "Marcos Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 279,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18142",
+                "nombre": "De Paul",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 420,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12581",
+                "nombre": "Griezmann",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 320,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8571",
+                "nombre": "Morata",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 302,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20017",
+                "nombre": "Correa",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 141,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23741",
+                "nombre": "Riquelme",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 101,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101062",
+                "nombre": "Saúl",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 203,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95524",
+                "nombre": "Savić",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 184,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13283",
+                "nombre": "Barrios",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 165,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j405",
+                "nombre": "Azpilicueta",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 100,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15204",
+                "nombre": "Giménez",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25004",
+                "nombre": "Memphis",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 215,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20525",
+                "nombre": "Reinildo",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 83,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26190",
+                "nombre": "Söyüncü",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20173",
+                "nombre": "Galán",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Liga de Campeones": [
+            {
+                "id": "j18149",
+                "nombre": "Oblak",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 930,
+                "goles_marcados": 0,
+                "goles_encajados": 13
+            },
+            {
+                "id": "j29588",
+                "nombre": "Molina",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 793,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25825",
+                "nombre": "Lino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 508,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70839",
+                "nombre": "Witsel",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 888,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20150",
+                "nombre": "Hermoso",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 818,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12503",
+                "nombre": "Koke",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 8,
+                "minutos": 771,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22037",
+                "nombre": "Marcos Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 6,
+                "minutos": 646,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18142",
+                "nombre": "De Paul",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 8,
+                "minutos": 617,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12581",
+                "nombre": "Griezmann",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 823,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8571",
+                "nombre": "Morata",
+                "posicion": "delantero centro",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 669,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20017",
+                "nombre": "Correa",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 2,
+                "minutos": 317,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23741",
+                "nombre": "Riquelme",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 8,
+                "partidos_titular": 2,
+                "minutos": 314,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101062",
+                "nombre": "Saúl",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 5,
+                "minutos": 433,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95524",
+                "nombre": "Savić",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 413,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13283",
+                "nombre": "Barrios",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 2,
+                "minutos": 259,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j405",
+                "nombre": "Azpilicueta",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 289,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15204",
+                "nombre": "Giménez",
+                "posicion": "central",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 483,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25004",
+                "nombre": "Memphis",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 101,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20525",
+                "nombre": "Reinildo",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 22,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26190",
+                "nombre": "Söyüncü",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 57,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20173",
+                "nombre": "Galán",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j403887",
+                "nombre": "Kostis",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 1,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Supercopa (España)": [
+            {
+                "id": "j18149",
+                "nombre": "Oblak",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j29588",
+                "nombre": "Molina",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 54,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25825",
+                "nombre": "Lino",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 66,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j70839",
+                "nombre": "Witsel",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 31,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20150",
+                "nombre": "Hermoso",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12503",
+                "nombre": "Koke",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 104,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22037",
+                "nombre": "Marcos Llorente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 106,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18142",
+                "nombre": "De Paul",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 89,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12581",
+                "nombre": "Griezmann",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8571",
+                "nombre": "Morata",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 91,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20017",
+                "nombre": "Correa",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23741",
+                "nombre": "Riquelme",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 54,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101062",
+                "nombre": "Saúl",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 66,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95524",
+                "nombre": "Savić",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j405",
+                "nombre": "Azpilicueta",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 14,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15204",
+                "nombre": "Giménez",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20173",
+                "nombre": "Galán",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 16,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,473 @@
+{
+    "pais": "España",
+    "equipo": "Malaga",
+    "id_bdfutbol": "23",
+    "temporada": "1999-00",
+    "año_inicio": 1999,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j2209",
+                "nombre": "Contreras",
+                "posicion": "portero",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 0,
+                "goles_encajados": 48
+            },
+            {
+                "id": "j2361",
+                "nombre": "Rojas",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2675,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2586",
+                "nombre": "Valcarce",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3266,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2556",
+                "nombre": "Txomin Larrainzar",
+                "posicion": "central",
+                "partidos_jugados": 33,
+                "partidos_titular": 32,
+                "minutos": 2842,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j861",
+                "nombre": "Bravo",
+                "posicion": "central",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2290,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j971",
+                "nombre": "De los Santos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3210,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1533",
+                "nombre": "Movilla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 34,
+                "minutos": 2757,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j871",
+                "nombre": "Rufete",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 28,
+                "minutos": 2400,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1030",
+                "nombre": "Catanha",
+                "posicion": "delantero centro",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2874,
+                "goles_marcados": 24,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j631",
+                "nombre": "Edgar",
+                "posicion": "extremo",
+                "partidos_jugados": 27,
+                "partidos_titular": 27,
+                "minutos": 2150,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j557",
+                "nombre": "Darío Silva",
+                "posicion": "delantero centro",
+                "partidos_jugados": 23,
+                "partidos_titular": 16,
+                "minutos": 1386,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2267",
+                "nombre": "Rafa",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j772",
+                "nombre": "Fernando Sanz",
+                "posicion": "central",
+                "partidos_jugados": 26,
+                "partidos_titular": 21,
+                "minutos": 1917,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1281",
+                "nombre": "Agostinho",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 18,
+                "minutos": 1516,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j894",
+                "nombre": "Ruano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 14,
+                "minutos": 1345,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j381",
+                "nombre": "Sandro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 7,
+                "minutos": 1125,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j53",
+                "nombre": "Luque",
+                "posicion": "extremo",
+                "partidos_jugados": 23,
+                "partidos_titular": 5,
+                "minutos": 758,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2031",
+                "nombre": "Roteta",
+                "posicion": "central",
+                "partidos_jugados": 16,
+                "partidos_titular": 8,
+                "minutos": 904,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1726",
+                "nombre": "Musampa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 2,
+                "minutos": 305,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2299",
+                "nombre": "Iznata",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 277,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j935",
+                "nombre": "Genilson",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 65,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2466",
+                "nombre": "Basti",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j275",
+                "nombre": "Zárate",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1975",
+                "nombre": "Burrezo",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 6,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j2361",
+                "nombre": "Rojas",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2586",
+                "nombre": "Valcarce",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2556",
+                "nombre": "Txomin Larrainzar",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j971",
+                "nombre": "De los Santos",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1533",
+                "nombre": "Movilla",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j871",
+                "nombre": "Rufete",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 115,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1030",
+                "nombre": "Catanha",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j631",
+                "nombre": "Edgar",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j557",
+                "nombre": "Darío Silva",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 194,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2267",
+                "nombre": "Rafa",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j772",
+                "nombre": "Fernando Sanz",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1281",
+                "nombre": "Agostinho",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 76,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j894",
+                "nombre": "Ruano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 335,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j381",
+                "nombre": "Sandro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j53",
+                "nombre": "Luque",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 233,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2031",
+                "nombre": "Roteta",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1726",
+                "nombre": "Musampa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 194,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2299",
+                "nombre": "Iznata",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 155,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j935",
+                "nombre": "Genilson",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 113,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2466",
+                "nombre": "Basti",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j275",
+                "nombre": "Zárate",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2816",
+                "nombre": "Dorado",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

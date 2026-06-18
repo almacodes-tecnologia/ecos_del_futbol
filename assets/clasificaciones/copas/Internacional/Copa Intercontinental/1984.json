@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1984,
+    "temporada": "1984-85",
+    "cuadro_honor": {
+        "campeon": "Independiente",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 430142,
+            "ronda": "Final",
+            "local": "Independiente",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

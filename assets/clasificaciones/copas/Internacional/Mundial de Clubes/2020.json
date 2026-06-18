@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2020,
+    "temporada": "2020-21",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Tigres UANL"
+    },
+    "partidos": [
+        {
+            "id_partido": 430251,
+            "ronda": "Semifinal",
+            "local": "Tigres UANL",
+            "visitante": "Ulsan Hyundai",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430252,
+            "ronda": "Semifinal",
+            "local": "Al-Duhail",
+            "visitante": "Al Ahly",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430254,
+            "ronda": "Semifinal",
+            "local": "Palmeiras",
+            "visitante": "Tigres UANL",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430255,
+            "ronda": "Semifinal",
+            "local": "Al Ahly",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430257,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Tigres UANL",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

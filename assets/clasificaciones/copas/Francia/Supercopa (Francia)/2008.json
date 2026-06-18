@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2008,
+    "temporada": "2008-09",
+    "cuadro_honor": {
+        "campeon": "Girondins de Bordeaux",
+        "subcampeon": "Olympique Lyonnais"
+    },
+    "partidos": [
+        {
+            "id_partido": 721026,
+            "ronda": "Final",
+            "local": "Girondins de Bordeaux",
+            "visitante": "Olympique Lyonnais",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

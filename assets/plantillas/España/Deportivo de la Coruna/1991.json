@@ -1,0 +1,635 @@
+{
+    "pais": "España",
+    "equipo": "Deportivo de la Coruna",
+    "id_bdfutbol": "13",
+    "temporada": "1991-92",
+    "año_inicio": 1991,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j820",
+                "nombre": "Liaño",
+                "posicion": "portero",
+                "partidos_jugados": 17,
+                "partidos_titular": 16,
+                "minutos": 1412,
+                "goles_marcados": 0,
+                "goles_encajados": 17
+            },
+            {
+                "id": "j1808",
+                "nombre": "López Rekarte",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 25,
+                "partidos_titular": 25,
+                "minutos": 2031,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2431",
+                "nombre": "Sabin Bilbao",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2741,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2046",
+                "nombre": "Djukić",
+                "posicion": "central",
+                "partidos_jugados": 38,
+                "partidos_titular": 37,
+                "minutos": 3331,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1937",
+                "nombre": "Lasarte",
+                "posicion": "central",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3150,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1900",
+                "nombre": "Mariano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 26,
+                "partidos_titular": 22,
+                "minutos": 1933,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j858",
+                "nombre": "Fran",
+                "posicion": "centrocampista",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3289,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1093",
+                "nombre": "Kiriakov",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 32,
+                "minutos": 2897,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j622",
+                "nombre": "Kanatlarovski",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 23,
+                "minutos": 1986,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1551",
+                "nombre": "José Ramón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 22,
+                "minutos": 2037,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j441",
+                "nombre": "Claudio",
+                "posicion": "delantero centro",
+                "partidos_jugados": 34,
+                "partidos_titular": 34,
+                "minutos": 2927,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1573",
+                "nombre": "Yosu",
+                "posicion": "portero",
+                "partidos_jugados": 12,
+                "partidos_titular": 11,
+                "minutos": 1052,
+                "goles_marcados": 0,
+                "goles_encajados": 19
+            },
+            {
+                "id": "j61",
+                "nombre": "Albístegi",
+                "posicion": "central",
+                "partidos_jugados": 24,
+                "partidos_titular": 21,
+                "minutos": 1872,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2222",
+                "nombre": "Uralde",
+                "posicion": "extremo",
+                "partidos_jugados": 25,
+                "partidos_titular": 10,
+                "minutos": 1156,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j212",
+                "nombre": "Antonio Doncel",
+                "posicion": "central",
+                "partidos_jugados": 18,
+                "partidos_titular": 17,
+                "minutos": 1418,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1283",
+                "nombre": "Joaquín Villa",
+                "posicion": "extremo",
+                "partidos_jugados": 23,
+                "partidos_titular": 8,
+                "minutos": 956,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1584",
+                "nombre": "Canales",
+                "posicion": "portero",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 956,
+                "goles_marcados": 0,
+                "goles_encajados": 12
+            },
+            {
+                "id": "j1476",
+                "nombre": "Ribera",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 946,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j651",
+                "nombre": "Gustavo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 505,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1684",
+                "nombre": "Mujika",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 2,
+                "minutos": 258,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1310",
+                "nombre": "Aspiazu",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 1,
+                "minutos": 218,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j291",
+                "nombre": "Arturo",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 125,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j633",
+                "nombre": "Dinho",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 173,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2667",
+                "nombre": "Stojadinović",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j820",
+                "nombre": "Liaño",
+                "posicion": "portero",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 660,
+                "goles_marcados": 0,
+                "goles_encajados": 8
+            },
+            {
+                "id": "j1808",
+                "nombre": "López Rekarte",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 345,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2431",
+                "nombre": "Sabin Bilbao",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 9,
+                "partidos_titular": 8,
+                "minutos": 740,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2046",
+                "nombre": "Djukić",
+                "posicion": "central",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1110,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1937",
+                "nombre": "Lasarte",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 1020,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1900",
+                "nombre": "Mariano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 801,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j858",
+                "nombre": "Fran",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 10,
+                "minutos": 931,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1093",
+                "nombre": "Kiriakov",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 812,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j622",
+                "nombre": "Kanatlarovski",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 482,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1551",
+                "nombre": "José Ramón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 474,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j441",
+                "nombre": "Claudio",
+                "posicion": "delantero centro",
+                "partidos_jugados": 9,
+                "partidos_titular": 8,
+                "minutos": 619,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1573",
+                "nombre": "Yosu",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j61",
+                "nombre": "Albístegi",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 7,
+                "minutos": 651,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2222",
+                "nombre": "Uralde",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 7,
+                "minutos": 667,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j212",
+                "nombre": "Antonio Doncel",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 480,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1283",
+                "nombre": "Joaquín Villa",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 2,
+                "minutos": 272,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1584",
+                "nombre": "Canales",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1476",
+                "nombre": "Ribera",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j651",
+                "nombre": "Gustavo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1684",
+                "nombre": "Mujika",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 5,
+                "minutos": 550,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1310",
+                "nombre": "Aspiazu",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 206,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j291",
+                "nombre": "Arturo",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 38,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2667",
+                "nombre": "Stojadinović",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 88,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j1808",
+                "nombre": "López Rekarte",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2431",
+                "nombre": "Sabin Bilbao",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2046",
+                "nombre": "Djukić",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1937",
+                "nombre": "Lasarte",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 174,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1900",
+                "nombre": "Mariano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j858",
+                "nombre": "Fran",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1093",
+                "nombre": "Kiriakov",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 106,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j622",
+                "nombre": "Kanatlarovski",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 106,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1551",
+                "nombre": "José Ramón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j441",
+                "nombre": "Claudio",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 171,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j61",
+                "nombre": "Albístegi",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2222",
+                "nombre": "Uralde",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 15,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1283",
+                "nombre": "Joaquín Villa",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1584",
+                "nombre": "Canales",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j1476",
+                "nombre": "Ribera",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 148,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

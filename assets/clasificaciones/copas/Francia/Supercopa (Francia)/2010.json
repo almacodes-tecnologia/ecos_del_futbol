@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2010,
+    "temporada": "2010-11",
+    "cuadro_honor": {
+        "campeon": "Olympique de Marseille",
+        "subcampeon": "PSG"
+    },
+    "partidos": [
+        {
+            "id_partido": 721028,
+            "ronda": "Final",
+            "local": "Olympique de Marseille",
+            "visitante": "PSG",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

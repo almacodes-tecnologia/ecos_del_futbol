@@ -1,0 +1,795 @@
+{
+    "pais": "España",
+    "equipo": "Sevilla",
+    "id_bdfutbol": "33",
+    "temporada": "2019-20",
+    "año_inicio": 2019,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j20293",
+                "nombre": "Vaclík",
+                "posicion": "portero",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2926,
+                "goles_marcados": 0,
+                "goles_encajados": 31
+            },
+            {
+                "id": "j1251",
+                "nombre": "Jesús Navas",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 38,
+                "partidos_titular": 37,
+                "minutos": 3368,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21191",
+                "nombre": "Reguilón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 31,
+                "partidos_titular": 29,
+                "minutos": 2509,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28000",
+                "nombre": "Diego Carlos",
+                "posicion": "central",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3134,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84324",
+                "nombre": "Koundé",
+                "posicion": "central",
+                "partidos_jugados": 29,
+                "partidos_titular": 25,
+                "minutos": 2309,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84013",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 30,
+                "minutos": 2657,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4152",
+                "nombre": "Banega",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 28,
+                "minutos": 2475,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301804",
+                "nombre": "Jordán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 27,
+                "minutos": 2254,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19973",
+                "nombre": "Óliver Torres",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 21,
+                "minutos": 1597,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82287",
+                "nombre": "Ocampos",
+                "posicion": "extremo",
+                "partidos_jugados": 33,
+                "partidos_titular": 31,
+                "minutos": 2744,
+                "goles_marcados": 14,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93439",
+                "nombre": "De Jong",
+                "posicion": "delantero centro",
+                "partidos_jugados": 35,
+                "partidos_titular": 24,
+                "minutos": 2059,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101861",
+                "nombre": "Bono",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 494,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j18024",
+                "nombre": "Vázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 11,
+                "minutos": 1093,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j16773",
+                "nombre": "Munir",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 14,
+                "minutos": 1250,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j78077",
+                "nombre": "Gudelj",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 9,
+                "minutos": 1214,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300046",
+                "nombre": "Nolito",
+                "posicion": "extremo",
+                "partidos_jugados": 15,
+                "partidos_titular": 12,
+                "minutos": 898,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20092",
+                "nombre": "En-Nesyri",
+                "posicion": "delantero centro",
+                "partidos_jugados": 18,
+                "partidos_titular": 7,
+                "minutos": 805,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19975",
+                "nombre": "Suso",
+                "posicion": "extremo",
+                "partidos_jugados": 17,
+                "partidos_titular": 8,
+                "minutos": 784,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9392",
+                "nombre": "Escudero",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 11,
+                "partidos_titular": 8,
+                "minutos": 773,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300366",
+                "nombre": "Sergi Gómez",
+                "posicion": "central",
+                "partidos_jugados": 13,
+                "partidos_titular": 8,
+                "minutos": 718,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95746",
+                "nombre": "Carriço",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 10,
+                "minutos": 849,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95418",
+                "nombre": "Chicharito Hernández",
+                "posicion": "delantero centro",
+                "partidos_jugados": 9,
+                "partidos_titular": 4,
+                "minutos": 447,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j97413",
+                "nombre": "Rony Lopes",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 2,
+                "minutos": 135,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20084",
+                "nombre": "Pozo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 38,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21682",
+                "nombre": "Bryan Gil",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 66,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25620",
+                "nombre": "Dabbur",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j20293",
+                "nombre": "Vaclík",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j1251",
+                "nombre": "Jesús Navas",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 508,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21191",
+                "nombre": "Reguilón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 450,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28000",
+                "nombre": "Diego Carlos",
+                "posicion": "central",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 646,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84324",
+                "nombre": "Koundé",
+                "posicion": "central",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 810,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84013",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 569,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4152",
+                "nombre": "Banega",
+                "posicion": "centrocampista",
+                "partidos_jugados": 7,
+                "partidos_titular": 4,
+                "minutos": 429,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301804",
+                "nombre": "Jordán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 754,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19973",
+                "nombre": "Óliver Torres",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 339,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82287",
+                "nombre": "Ocampos",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 565,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93439",
+                "nombre": "De Jong",
+                "posicion": "delantero centro",
+                "partidos_jugados": 8,
+                "partidos_titular": 4,
+                "minutos": 396,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101861",
+                "nombre": "Bono",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j18024",
+                "nombre": "Vázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 3,
+                "minutos": 371,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j16773",
+                "nombre": "Munir",
+                "posicion": "extremo",
+                "partidos_jugados": 9,
+                "partidos_titular": 4,
+                "minutos": 445,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j78077",
+                "nombre": "Gudelj",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 727,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300046",
+                "nombre": "Nolito",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20092",
+                "nombre": "En-Nesyri",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 268,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19975",
+                "nombre": "Suso",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 466,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9392",
+                "nombre": "Escudero",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 7,
+                "partidos_titular": 7,
+                "minutos": 630,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300366",
+                "nombre": "Sergi Gómez",
+                "posicion": "central",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 430,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95746",
+                "nombre": "Carriço",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95418",
+                "nombre": "Chicharito Hernández",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 259,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j97413",
+                "nombre": "Rony Lopes",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 5,
+                "minutos": 409,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20084",
+                "nombre": "Pozo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21682",
+                "nombre": "Bryan Gil",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 165,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25620",
+                "nombre": "Dabbur",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 329,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25299",
+                "nombre": "Genaro",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24391",
+                "nombre": "Mena",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j20293",
+                "nombre": "Vaclík",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j1251",
+                "nombre": "Jesús Navas",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21191",
+                "nombre": "Reguilón",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 95,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28000",
+                "nombre": "Diego Carlos",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84324",
+                "nombre": "Koundé",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 136,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j84013",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4152",
+                "nombre": "Banega",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 145,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301804",
+                "nombre": "Jordán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 224,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19973",
+                "nombre": "Óliver Torres",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 334,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82287",
+                "nombre": "Ocampos",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 256,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j93439",
+                "nombre": "De Jong",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 249,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101861",
+                "nombre": "Bono",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18024",
+                "nombre": "Vázquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j16773",
+                "nombre": "Munir",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 57,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j78077",
+                "nombre": "Gudelj",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 287,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300046",
+                "nombre": "Nolito",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 241,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20092",
+                "nombre": "En-Nesyri",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 53,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9392",
+                "nombre": "Escudero",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 265,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300366",
+                "nombre": "Sergi Gómez",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j95418",
+                "nombre": "Chicharito Hernández",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 91,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j97413",
+                "nombre": "Rony Lopes",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 58,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20084",
+                "nombre": "Pozo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21682",
+                "nombre": "Bryan Gil",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25620",
+                "nombre": "Dabbur",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

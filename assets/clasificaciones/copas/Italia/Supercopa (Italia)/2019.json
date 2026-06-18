@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "Lazio",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 490332,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Lazio",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Real Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 490267,
+            "ronda": "Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490268,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

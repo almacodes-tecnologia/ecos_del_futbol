@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Monaco"
+    },
+    "partidos": [
+        {
+            "id_partido": 721035,
+            "ronda": "Final",
+            "local": "Monaco",
+            "visitante": "PSG",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

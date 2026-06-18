@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2018,
+    "temporada": "2018-19",
+    "cuadro_honor": {
+        "campeon": "Feyenoord",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 721059,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Feyenoord",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 6
+        }
+    ]
+}

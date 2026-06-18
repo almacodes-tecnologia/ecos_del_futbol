@@ -1,0 +1,155 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1999,
+    "temporada": "1999-00",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 400600,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400601,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Manchester United",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400602,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Barcelona",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400603,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400604,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Valencia",
+            "visitante": "Lazio",
+            "goles_local": "5",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400605,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Valencia",
+            "visitante": "Lazio",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400606,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Valencia",
+            "visitante": "Barcelona",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400607,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Valencia",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400608,
+            "ronda": "Semifinal - Ida",
+            "local": "Real Madrid",
+            "visitante": "Bayern München",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400609,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400610,
+            "ronda": "Semifinal",
+            "local": "Real Madrid",
+            "visitante": "Valencia",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 407852,
+            "ronda": "Final - Ida",
+            "local": "Porto",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 407853,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

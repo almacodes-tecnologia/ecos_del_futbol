@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1962,
+    "temporada": "1962-63",
+    "cuadro_honor": {
+        "campeon": "Santos",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 430113,
+            "ronda": "Final - Ida",
+            "local": "Santos",
+            "visitante": "Benfica",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430114,
+            "ronda": "Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Santos",
+            "goles_local": "2",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

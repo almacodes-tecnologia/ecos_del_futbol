@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1987,
+    "temporada": "1987-88",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 440516,
+            "ronda": "Final - Ida",
+            "local": "Ajax",
+            "visitante": "Porto",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440517,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

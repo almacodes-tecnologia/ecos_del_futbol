@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Atlético de Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 490050,
+            "ronda": "Final - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490051,
+            "ronda": "Final - Vuelta",
+            "local": "Barcelona",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

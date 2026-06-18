@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Royal Antwerp",
+        "subcampeon": "KV Mechelen"
+    },
+    "partidos": [
+        {
+            "id_partido": 721080,
+            "ronda": "Final",
+            "local": "Royal Antwerp",
+            "visitante": "KV Mechelen",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

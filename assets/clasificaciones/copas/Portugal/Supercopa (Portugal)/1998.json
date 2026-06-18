@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1998,
+    "temporada": "1998-99",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Braga"
+    },
+    "partidos": [
+        {
+            "id_partido": 490360,
+            "ronda": "Final - Ida",
+            "local": "Porto",
+            "visitante": "Braga",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490361,
+            "ronda": "Final - Vuelta",
+            "local": "Braga",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

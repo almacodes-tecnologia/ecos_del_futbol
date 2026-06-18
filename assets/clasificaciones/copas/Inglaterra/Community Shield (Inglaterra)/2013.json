@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2013,
+    "temporada": "2013-14",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Wigan"
+    },
+    "partidos": [
+        {
+            "id_partido": 720003,
+            "ronda": "Final",
+            "local": "Wigan",
+            "visitante": "Manchester United",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

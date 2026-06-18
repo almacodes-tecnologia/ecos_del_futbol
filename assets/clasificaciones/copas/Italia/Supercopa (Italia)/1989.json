@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1989,
+    "temporada": "1989-90",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Sampdoria"
+    },
+    "partidos": [
+        {
+            "id_partido": 490301,
+            "ronda": "Final",
+            "local": "Inter",
+            "visitante": "Sampdoria",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

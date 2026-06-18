@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "PSV",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 721053,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "PSV",
+            "goles_local": "2",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

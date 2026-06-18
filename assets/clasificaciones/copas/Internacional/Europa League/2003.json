@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Europa League",
+    "año_inicio": 2003,
+    "temporada": "2003-04",
+    "cuadro_honor": {
+        "campeon": "Olympique de Marseille",
+        "subcampeon": "Newcastle"
+    },
+    "partidos": [
+        {
+            "id_partido": 410814,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Celtic",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410815,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Celtic",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410816,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Gençlerbirliği",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410817,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Gençlerbirliği",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410818,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Newcastle",
+            "visitante": "Mallorca",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410819,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Newcastle",
+            "visitante": "Mallorca",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410820,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Villarreal",
+            "visitante": "Roma",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410821,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Villarreal",
+            "visitante": "Roma",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410822,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Girondins de Bordeaux",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410823,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Girondins de Bordeaux",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410824,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Celtic",
+            "visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410825,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Celtic",
+            "visitante": "Villarreal",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410826,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Villarreal",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410827,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Villarreal",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 410828,
+            "ronda": "Octavos de Final",
+            "local": "Valencia",
+            "visitante": "Olympique de Marseille",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419452,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Girondins de Bordeaux",
+            "visitante": "Brugge",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419453,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Auxerre",
+            "visitante": "PSV",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419454,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Benfica",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419455,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Liverpool",
+            "visitante": "Olympique de Marseille",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419456,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Girondins de Bordeaux",
+            "visitante": "Brugge",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419457,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Auxerre",
+            "visitante": "PSV",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419458,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Inter",
+            "goles_local": "3",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419459,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Liverpool",
+            "visitante": "Olympique de Marseille",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419460,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "PSV",
+            "visitante": "Newcastle",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419461,
+            "ronda": "Semifinal - Ida",
+            "local": "Olympique de Marseille",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419462,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Olympique de Marseille",
+            "visitante": "Inter",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419463,
+            "ronda": "Semifinal - Vuelta",
+            "local": "PSV",
+            "visitante": "Newcastle",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419464,
+            "ronda": "Final - Ida",
+            "local": "Newcastle",
+            "visitante": "Olympique de Marseille",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 419465,
+            "ronda": "Final - Vuelta",
+            "local": "Newcastle",
+            "visitante": "Olympique de Marseille",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

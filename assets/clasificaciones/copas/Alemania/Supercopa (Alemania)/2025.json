@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 2025,
+    "temporada": "2025-26",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Stuttgart"
+    },
+    "partidos": [
+        {
+            "id_partido": 721129,
+            "ronda": "Final",
+            "local": "Stuttgart",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

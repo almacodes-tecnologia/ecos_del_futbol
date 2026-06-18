@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Milan"
+    },
+    "partidos": [
+        {
+            "id_partido": 721013,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

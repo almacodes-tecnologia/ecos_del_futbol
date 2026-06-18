@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 440499,
+            "ronda": "Final",
+            "local": "Barcelona",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

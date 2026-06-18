@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Torino"
+    },
+    "partidos": [
+        {
+            "id_partido": 490306,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Torino",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

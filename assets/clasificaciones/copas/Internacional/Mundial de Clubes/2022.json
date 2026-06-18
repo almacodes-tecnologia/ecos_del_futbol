@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Al-Hilal"
+    },
+    "partidos": [
+        {
+            "id_partido": 430271,
+            "ronda": "Semifinal",
+            "local": "Seattle Sounders",
+            "visitante": "Al Ahly",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430272,
+            "ronda": "Semifinal",
+            "local": "Wydad Athletic Club",
+            "visitante": "Al-Hilal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430273,
+            "ronda": "Semifinal",
+            "local": "Flamengo",
+            "visitante": "Al-Hilal",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430274,
+            "ronda": "Semifinal",
+            "local": "Al Ahly",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430276,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Al-Hilal",
+            "goles_local": "5",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

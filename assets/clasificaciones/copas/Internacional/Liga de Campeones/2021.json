@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 402839,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Sporting de Portugal",
+            "visitante": "Manchester City",
+            "goles_local": "0",
+            "goles_visitante": "5",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402840,
+            "ronda": "Octavos de Final - Ida",
+            "local": "PSG",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402841,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Red Bull Salzburg",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402842,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Inter",
+            "visitante": "Liverpool",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402843,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Lille",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402844,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Villarreal",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402845,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Benfica",
+            "visitante": "Ajax",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402846,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Atlético de Madrid",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402847,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Inter",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402848,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Red Bull Salzburg",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "7",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402849,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "PSG",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402850,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Manchester City",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402851,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Atlético de Madrid",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402852,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Ajax",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402853,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Villarreal",
+            "visitante": "Juventus",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402854,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Lille",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402855,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Manchester City",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402856,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Benfica",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402857,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402858,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Villarreal",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402859,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Villarreal",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402860,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402861,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Liverpool",
+            "goles_local": "3",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402862,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Manchester City",
+            "visitante": "Atlético de Madrid",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402863,
+            "ronda": "Semifinal - Ida",
+            "local": "Manchester City",
+            "visitante": "Real Madrid",
+            "goles_local": "4",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402864,
+            "ronda": "Semifinal - Ida",
+            "local": "Liverpool",
+            "visitante": "Villarreal",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402865,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Liverpool",
+            "visitante": "Villarreal",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402866,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Manchester City",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 402867,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

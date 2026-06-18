@@ -1,0 +1,555 @@
+{
+    "pais": "España",
+    "equipo": "Rayo Vallecano",
+    "id_bdfutbol": "5",
+    "temporada": "1987-88",
+    "año_inicio": 1987,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j2756",
+                "nombre": "Férez",
+                "posicion": "portero",
+                "partidos_jugados": 38,
+                "partidos_titular": 38,
+                "minutos": 3420,
+                "goles_marcados": 0,
+                "goles_encajados": 47
+            },
+            {
+                "id": "j2771",
+                "nombre": "Zapatera",
+                "posicion": "defensa",
+                "partidos_jugados": 28,
+                "partidos_titular": 25,
+                "minutos": 2227,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2758",
+                "nombre": "Glaría",
+                "posicion": "defensa",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1774,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j187",
+                "nombre": "Morón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 37,
+                "minutos": 3330,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2955",
+                "nombre": "Javi Rey",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2849,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9144",
+                "nombre": "Capón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 31,
+                "minutos": 2678,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2767",
+                "nombre": "Sánchez Candil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2543,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2753",
+                "nombre": "Botella",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 29,
+                "minutos": 2529,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2768",
+                "nombre": "Soto",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 26,
+                "minutos": 2294,
+                "goles_marcados": 15,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3531",
+                "nombre": "Azcona",
+                "posicion": "extremo",
+                "partidos_jugados": 27,
+                "partidos_titular": 22,
+                "minutos": 2047,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9225",
+                "nombre": "Jesús",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 21,
+                "minutos": 2016,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j411",
+                "nombre": "Mendiondo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 25,
+                "partidos_titular": 17,
+                "minutos": 1703,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2762",
+                "nombre": "Juanito",
+                "posicion": "defensa",
+                "partidos_jugados": 22,
+                "partidos_titular": 19,
+                "minutos": 1758,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11998",
+                "nombre": "Villa",
+                "posicion": "defensa",
+                "partidos_jugados": 19,
+                "partidos_titular": 19,
+                "minutos": 1681,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12139",
+                "nombre": "Perdomo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 14,
+                "minutos": 1444,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2754",
+                "nombre": "Callejo",
+                "posicion": "defensa",
+                "partidos_jugados": 16,
+                "partidos_titular": 13,
+                "minutos": 1091,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2215",
+                "nombre": "Hontecillas",
+                "posicion": "defensa",
+                "partidos_jugados": 13,
+                "partidos_titular": 12,
+                "minutos": 1070,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1236",
+                "nombre": "Cota",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 9,
+                "partidos_titular": 9,
+                "minutos": 765,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2764",
+                "nombre": "Ortiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 4,
+                "minutos": 362,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12200",
+                "nombre": "Trillo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j2756",
+                "nombre": "Férez",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 7
+            },
+            {
+                "id": "j2771",
+                "nombre": "Zapatera",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 345,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j187",
+                "nombre": "Morón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 480,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2955",
+                "nombre": "Javi Rey",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 424,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9144",
+                "nombre": "Capón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 5,
+                "minutos": 375,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2767",
+                "nombre": "Sánchez Candil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 249,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2753",
+                "nombre": "Botella",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 500,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2768",
+                "nombre": "Soto",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 305,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3531",
+                "nombre": "Azcona",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 370,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9225",
+                "nombre": "Jesús",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 462,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12138",
+                "nombre": "Damián",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 3
+            },
+            {
+                "id": "j411",
+                "nombre": "Mendiondo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 300,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2762",
+                "nombre": "Juanito",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 99,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11998",
+                "nombre": "Villa",
+                "posicion": "defensa",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 570,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12139",
+                "nombre": "Perdomo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 224,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2754",
+                "nombre": "Callejo",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2215",
+                "nombre": "Hontecillas",
+                "posicion": "defensa",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 390,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1236",
+                "nombre": "Cota",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2764",
+                "nombre": "Ortiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 67,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j2756",
+                "nombre": "Férez",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j2758",
+                "nombre": "Glaría",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 32,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j187",
+                "nombre": "Morón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2955",
+                "nombre": "Javi Rey",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 164,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9144",
+                "nombre": "Capón",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2767",
+                "nombre": "Sánchez Candil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2753",
+                "nombre": "Botella",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 132,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2768",
+                "nombre": "Soto",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3531",
+                "nombre": "Azcona",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 158,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9225",
+                "nombre": "Jesús",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j411",
+                "nombre": "Mendiondo",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2762",
+                "nombre": "Juanito",
+                "posicion": "defensa",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j11998",
+                "nombre": "Villa",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 58,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12139",
+                "nombre": "Perdomo",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2754",
+                "nombre": "Callejo",
+                "posicion": "defensa",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,665 @@
+{
+    "pais": "España",
+    "equipo": "Real Betis",
+    "id_bdfutbol": "8",
+    "temporada": "1998-99",
+    "año_inicio": 1998,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j199",
+                "nombre": "Prats",
+                "posicion": "portero",
+                "partidos_jugados": 32,
+                "partidos_titular": 31,
+                "minutos": 2835,
+                "goles_marcados": 0,
+                "goles_encajados": 51
+            },
+            {
+                "id": "j1341",
+                "nombre": "Otero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 20,
+                "partidos_titular": 19,
+                "minutos": 1538,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1778",
+                "nombre": "Luis Fernández",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 36,
+                "partidos_titular": 33,
+                "minutos": 3030,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2551",
+                "nombre": "Olías",
+                "posicion": "central",
+                "partidos_jugados": 26,
+                "partidos_titular": 24,
+                "minutos": 2193,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j563",
+                "nombre": "Denilson",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 29,
+                "minutos": 2632,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1588",
+                "nombre": "Merino",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 25,
+                "minutos": 2102,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j203",
+                "nombre": "Ito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 34,
+                "partidos_titular": 24,
+                "minutos": 2112,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j771",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 29,
+                "partidos_titular": 23,
+                "minutos": 1818,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j312",
+                "nombre": "Benjamín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 20,
+                "minutos": 1769,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j789",
+                "nombre": "Finidi",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3174,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2105",
+                "nombre": "Oli",
+                "posicion": "delantero centro",
+                "partidos_jugados": 32,
+                "partidos_titular": 20,
+                "minutos": 2028,
+                "goles_marcados": 10,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1289",
+                "nombre": "Valerio",
+                "posicion": "portero",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 585,
+                "goles_marcados": 0,
+                "goles_encajados": 9
+            },
+            {
+                "id": "j1046",
+                "nombre": "Alexis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 17,
+                "minutos": 1707,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1649",
+                "nombre": "Cañas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 24,
+                "partidos_titular": 12,
+                "minutos": 1231,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1130",
+                "nombre": "Filipescu",
+                "posicion": "central",
+                "partidos_jugados": 18,
+                "partidos_titular": 18,
+                "minutos": 1558,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j403",
+                "nombre": "Ayala",
+                "posicion": "central",
+                "partidos_jugados": 17,
+                "partidos_titular": 16,
+                "minutos": 1434,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1603",
+                "nombre": "Ureña",
+                "posicion": "central",
+                "partidos_jugados": 16,
+                "partidos_titular": 13,
+                "minutos": 1058,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2365",
+                "nombre": "Solozábal",
+                "posicion": "central",
+                "partidos_jugados": 15,
+                "partidos_titular": 15,
+                "minutos": 1350,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1361",
+                "nombre": "Gálvez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 19,
+                "partidos_titular": 9,
+                "minutos": 832,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1171",
+                "nombre": "Jaime Quesada",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 12,
+                "partidos_titular": 8,
+                "minutos": 657,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j111",
+                "nombre": "Alfonso",
+                "posicion": "delantero centro",
+                "partidos_jugados": 11,
+                "partidos_titular": 8,
+                "minutos": 717,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1148",
+                "nombre": "Iván Pérez",
+                "posicion": "extremo",
+                "partidos_jugados": 10,
+                "partidos_titular": 4,
+                "minutos": 511,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j189",
+                "nombre": "Cuéllar",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 207,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2269",
+                "nombre": "Jaques",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 210,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1643",
+                "nombre": "Juan Jesús",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 126,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1785",
+                "nombre": "Márquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 56,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j199",
+                "nombre": "Prats",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j1341",
+                "nombre": "Otero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1778",
+                "nombre": "Luis Fernández",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j563",
+                "nombre": "Denilson",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1588",
+                "nombre": "Merino",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j203",
+                "nombre": "Ito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 14,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j771",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j312",
+                "nombre": "Benjamín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 101,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j789",
+                "nombre": "Finidi",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2105",
+                "nombre": "Oli",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 102,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1046",
+                "nombre": "Alexis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 65,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1649",
+                "nombre": "Cañas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 31,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1130",
+                "nombre": "Filipescu",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j403",
+                "nombre": "Ayala",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1603",
+                "nombre": "Ureña",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1171",
+                "nombre": "Jaime Quesada",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 59,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j111",
+                "nombre": "Alfonso",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2269",
+                "nombre": "Jaques",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 60,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1643",
+                "nombre": "Juan Jesús",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 60,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1785",
+                "nombre": "Márquez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 30,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j199",
+                "nombre": "Prats",
+                "posicion": "portero",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j1341",
+                "nombre": "Otero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1778",
+                "nombre": "Luis Fernández",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2551",
+                "nombre": "Olías",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j563",
+                "nombre": "Denilson",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 307,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1588",
+                "nombre": "Merino",
+                "posicion": "centrocampista",
+                "partidos_jugados": 5,
+                "partidos_titular": 3,
+                "minutos": 283,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j203",
+                "nombre": "Ito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 456,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j771",
+                "nombre": "Fernando",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 197,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j312",
+                "nombre": "Benjamín",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 241,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j789",
+                "nombre": "Finidi",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 540,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2105",
+                "nombre": "Oli",
+                "posicion": "delantero centro",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 322,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1046",
+                "nombre": "Alexis",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 394,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1649",
+                "nombre": "Cañas",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 1,
+                "minutos": 133,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1603",
+                "nombre": "Ureña",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2365",
+                "nombre": "Solozábal",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 6,
+                "minutos": 509,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1361",
+                "nombre": "Gálvez",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 125,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1171",
+                "nombre": "Jaime Quesada",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1148",
+                "nombre": "Iván Pérez",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j189",
+                "nombre": "Cuéllar",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 183,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

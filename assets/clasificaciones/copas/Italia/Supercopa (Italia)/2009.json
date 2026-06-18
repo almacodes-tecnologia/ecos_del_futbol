@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2009,
+    "temporada": "2009-10",
+    "cuadro_honor": {
+        "campeon": "Lazio",
+        "subcampeon": "Inter"
+    },
+    "partidos": [
+        {
+            "id_partido": 490322,
+            "ronda": "Final",
+            "local": "Inter",
+            "visitante": "Lazio",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

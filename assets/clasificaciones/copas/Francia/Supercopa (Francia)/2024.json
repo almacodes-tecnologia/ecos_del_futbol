@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Monaco"
+    },
+    "partidos": [
+        {
+            "id_partido": 720059,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Monaco",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

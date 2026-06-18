@@ -1,0 +1,45 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Sporting de Portugal",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 490364,
+            "ronda": "Final - Ida",
+            "local": "Porto",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490365,
+            "ronda": "Final - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Porto",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490366,
+            "ronda": "Final - Desempate",
+            "local": "Sporting de Portugal",
+            "visitante": "Porto",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

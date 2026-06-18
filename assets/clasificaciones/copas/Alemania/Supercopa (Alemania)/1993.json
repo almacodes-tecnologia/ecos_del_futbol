@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 1993,
+    "temporada": "1993-94",
+    "cuadro_honor": {
+        "campeon": "Werder Bremen",
+        "subcampeon": "Bayer Leverkusen"
+    },
+    "partidos": [
+        {
+            "id_partido": 721108,
+            "ronda": "Final",
+            "local": "Werder Bremen",
+            "visitante": "Bayer Leverkusen",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 7,
+            "penaltis_visitante": 6
+        }
+    ]
+}

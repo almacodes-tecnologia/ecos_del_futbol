@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2015,
+    "temporada": "2015-16",
+    "cuadro_honor": {
+        "campeon": "Zenit",
+        "subcampeon": "Lokomotiv Moskva"
+    },
+    "partidos": [
+        {
+            "id_partido": 736489,
+            "ronda": "Final",
+            "local": "Zenit",
+            "visitante": "Lokomotiv Moskva",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 2
+        }
+    ]
+}

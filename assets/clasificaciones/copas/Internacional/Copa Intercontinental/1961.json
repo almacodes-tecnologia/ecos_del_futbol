@@ -1,0 +1,45 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1961,
+    "temporada": "1961-62",
+    "cuadro_honor": {
+        "campeon": "Peñarol",
+        "subcampeon": "Benfica"
+    },
+    "partidos": [
+        {
+            "id_partido": 430110,
+            "ronda": "Final - Ida",
+            "local": "Benfica",
+            "visitante": "Peñarol",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430111,
+            "ronda": "Final - Vuelta",
+            "local": "Peñarol",
+            "visitante": "Benfica",
+            "goles_local": "5",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430112,
+            "ronda": "Final - Desempate",
+            "local": "Peñarol",
+            "visitante": "Benfica",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

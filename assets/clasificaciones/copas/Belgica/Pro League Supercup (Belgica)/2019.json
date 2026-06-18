@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 2019,
+    "temporada": "2019-20",
+    "cuadro_honor": {
+        "campeon": "Genk",
+        "subcampeon": "KV Mechelen"
+    },
+    "partidos": [
+        {
+            "id_partido": 721083,
+            "ronda": "Final",
+            "local": "Genk",
+            "visitante": "KV Mechelen",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

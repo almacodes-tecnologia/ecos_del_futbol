@@ -1,0 +1,45 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2025,
+    "temporada": "2025-26",
+    "cuadro_honor": {
+        "campeon": "Fenerbahçe",
+        "subcampeon": "Galatasaray"
+    },
+    "partidos": [
+        {
+            "id_partido": 720103,
+            "ronda": "Semifinal",
+            "local": "Galatasaray",
+            "visitante": "Trabzonspor",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720104,
+            "ronda": "Semifinal",
+            "local": "Fenerbahçe",
+            "visitante": "Samsunspor",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720105,
+            "ronda": "Final",
+            "local": "Galatasaray",
+            "visitante": "Fenerbahçe",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

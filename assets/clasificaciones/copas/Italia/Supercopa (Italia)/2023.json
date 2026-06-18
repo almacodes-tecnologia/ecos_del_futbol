@@ -1,0 +1,45 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Inter",
+        "subcampeon": "Napoli"
+    },
+    "partidos": [
+        {
+            "id_partido": 558616,
+            "ronda": "Semifinal",
+            "local": "Napoli",
+            "visitante": "Fiorentina",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 558617,
+            "ronda": "Semifinal",
+            "local": "Inter",
+            "visitante": "Lazio",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 558618,
+            "ronda": "Final",
+            "local": "Napoli",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

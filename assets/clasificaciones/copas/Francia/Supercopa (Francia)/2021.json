@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Lille",
+        "subcampeon": "PSG"
+    },
+    "partidos": [
+        {
+            "id_partido": 721039,
+            "ronda": "Final",
+            "local": "Lille",
+            "visitante": "PSG",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

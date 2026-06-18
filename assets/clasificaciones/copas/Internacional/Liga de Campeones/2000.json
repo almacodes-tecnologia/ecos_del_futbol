@@ -1,0 +1,155 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Manchester United"
+    },
+    "partidos": [
+        {
+            "id_partido": 400664,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Galatasaray",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400665,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Galatasaray",
+            "visitante": "Real Madrid",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400666,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Arsenal",
+            "visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400667,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Arsenal",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400668,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Leeds",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400669,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Leeds",
+            "visitante": "Deportivo de La Coruña",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400670,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400671,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400672,
+            "ronda": "Semifinal - Ida",
+            "local": "Leeds",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400673,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Leeds",
+            "visitante": "Valencia",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400674,
+            "ronda": "Semifinal",
+            "local": "Bayern München",
+            "visitante": "Valencia",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 407668,
+            "ronda": "Final - Ida",
+            "local": "Manchester United",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 407669,
+            "ronda": "Final - Vuelta",
+            "local": "Manchester United",
+            "visitante": "Bayern München",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

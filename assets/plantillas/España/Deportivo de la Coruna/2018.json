@@ -1,0 +1,585 @@
+{
+    "pais": "España",
+    "equipo": "Deportivo de la Coruna",
+    "id_bdfutbol": "13",
+    "temporada": "2018-19",
+    "año_inicio": 2018,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j12510",
+                "nombre": "Dani Giménez",
+                "posicion": "portero",
+                "partidos_jugados": 41,
+                "partidos_titular": 41,
+                "minutos": 3690,
+                "goles_marcados": 0,
+                "goles_encajados": 32
+            },
+            {
+                "id": "j101371",
+                "nombre": "David Simón",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 28,
+                "partidos_titular": 26,
+                "minutos": 2335,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101834",
+                "nombre": "Caballo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 25,
+                "partidos_titular": 21,
+                "minutos": 1974,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29122",
+                "nombre": "Domingos Duarte",
+                "posicion": "central",
+                "partidos_jugados": 39,
+                "partidos_titular": 39,
+                "minutos": 3478,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301112",
+                "nombre": "Pablo Marí",
+                "posicion": "central",
+                "partidos_jugados": 37,
+                "partidos_titular": 35,
+                "minutos": 3174,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9436",
+                "nombre": "Álex Bergantiños",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 32,
+                "minutos": 2725,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28184",
+                "nombre": "Edu Expósito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 29,
+                "minutos": 2586,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8636",
+                "nombre": "Vicente Gómez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 22,
+                "minutos": 1983,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100320",
+                "nombre": "Quique",
+                "posicion": "extremo",
+                "partidos_jugados": 36,
+                "partidos_titular": 33,
+                "minutos": 2877,
+                "goles_marcados": 16,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402482",
+                "nombre": "Carlos Fernández",
+                "posicion": "delantero centro",
+                "partidos_jugados": 24,
+                "partidos_titular": 22,
+                "minutos": 1891,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100350",
+                "nombre": "Borja Valle",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 20,
+                "minutos": 1882,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301850",
+                "nombre": "Fede Cartabia",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 18,
+                "minutos": 1599,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8504",
+                "nombre": "Bóveda",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 20,
+                "partidos_titular": 18,
+                "minutos": 1549,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202089",
+                "nombre": "Saúl",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1711,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9288",
+                "nombre": "Pedro",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 13,
+                "minutos": 1209,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20777",
+                "nombre": "Moreno",
+                "posicion": "centrocampista",
+                "partidos_jugados": 21,
+                "partidos_titular": 12,
+                "minutos": 1116,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6163",
+                "nombre": "Mosquera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 16,
+                "partidos_titular": 12,
+                "minutos": 1014,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300523",
+                "nombre": "Carles Gil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 18,
+                "partidos_titular": 12,
+                "minutos": 957,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20222",
+                "nombre": "Christian Santos",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 6,
+                "minutos": 699,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18066",
+                "nombre": "Krohn-Dehli",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 8,
+                "minutos": 821,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82007",
+                "nombre": "Somma",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 533,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301786",
+                "nombre": "Nahuel",
+                "posicion": "extremo",
+                "partidos_jugados": 13,
+                "partidos_titular": 5,
+                "minutos": 541,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23002",
+                "nombre": "Vítor Silva",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 127,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200018",
+                "nombre": "Íñigo López",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 19,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j302276",
+                "nombre": "Gerard Valentín",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 13,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20048",
+                "nombre": "Montiel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 25,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j28184",
+                "nombre": "Edu Expósito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 76,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402482",
+                "nombre": "Carlos Fernández",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j7577",
+                "nombre": "Ortolá",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j301850",
+                "nombre": "Fede Cartabia",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8504",
+                "nombre": "Bóveda",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9288",
+                "nombre": "Pedro",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 6,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20777",
+                "nombre": "Moreno",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 14,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6163",
+                "nombre": "Mosquera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300523",
+                "nombre": "Carles Gil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 84,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18066",
+                "nombre": "Krohn-Dehli",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82007",
+                "nombre": "Somma",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j302276",
+                "nombre": "Gerard Valentín",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8668",
+                "nombre": "Dubarbier",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20844",
+                "nombre": "Víctor García",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 63,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Torneo (PR1)": [
+            {
+                "id": "j12510",
+                "nombre": "Dani Giménez",
+                "posicion": "portero",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j101371",
+                "nombre": "David Simón",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 135,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101834",
+                "nombre": "Caballo",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 13,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j29122",
+                "nombre": "Domingos Duarte",
+                "posicion": "central",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301112",
+                "nombre": "Pablo Marí",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9436",
+                "nombre": "Álex Bergantiños",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 223,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28184",
+                "nombre": "Edu Expósito",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8636",
+                "nombre": "Vicente Gómez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 192,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100320",
+                "nombre": "Quique",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 200,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402482",
+                "nombre": "Carlos Fernández",
+                "posicion": "delantero centro",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 310,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j100350",
+                "nombre": "Borja Valle",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 206,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301850",
+                "nombre": "Fede Cartabia",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 2,
+                "minutos": 214,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8504",
+                "nombre": "Bóveda",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 266,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202089",
+                "nombre": "Saúl",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j9288",
+                "nombre": "Pedro",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 339,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j82007",
+                "nombre": "Somma",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 225,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301786",
+                "nombre": "Nahuel",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 107,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

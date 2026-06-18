@@ -1,0 +1,23 @@
+{
+    "pais": "Alemania",
+    "copa": "Supercopa (Alemania)",
+    "año_inicio": 1987,
+    "temporada": "1987-88",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Hamburger"
+    },
+    "partidos": [
+        {
+            "id_partido": 721116,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Hamburger",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

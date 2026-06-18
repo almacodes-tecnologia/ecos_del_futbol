@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2020,
+    "temporada": "2020-21",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Sevilla"
+    },
+    "partidos": [
+        {
+            "id_partido": 440524,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Sevilla",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

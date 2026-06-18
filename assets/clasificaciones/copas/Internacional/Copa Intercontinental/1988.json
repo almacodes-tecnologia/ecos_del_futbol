@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1988,
+    "temporada": "1988-89",
+    "cuadro_honor": {
+        "campeon": "Club Nacional",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 430146,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Club Nacional",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 6,
+            "penaltis_visitante": 7
+        }
+    ]
+}

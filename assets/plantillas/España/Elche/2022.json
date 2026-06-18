@@ -1,0 +1,613 @@
+{
+    "pais": "España",
+    "equipo": "Elche",
+    "id_bdfutbol": "42",
+    "temporada": "2022-23",
+    "año_inicio": 2022,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j300473",
+                "nombre": "Badia",
+                "posicion": "portero",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3240,
+                "goles_marcados": 0,
+                "goles_encajados": 63
+            },
+            {
+                "id": "j29916",
+                "nombre": "Palacios",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 24,
+                "partidos_titular": 23,
+                "minutos": 1921,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301796",
+                "nombre": "Clerc",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 32,
+                "partidos_titular": 31,
+                "minutos": 2647,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301062",
+                "nombre": "Bigas",
+                "posicion": "central",
+                "partidos_jugados": 28,
+                "partidos_titular": 25,
+                "minutos": 2026,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18171",
+                "nombre": "Roco",
+                "posicion": "central",
+                "partidos_jugados": 22,
+                "partidos_titular": 19,
+                "minutos": 1656,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j16308",
+                "nombre": "Gumbau",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 31,
+                "minutos": 2744,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101267",
+                "nombre": "Mascarell",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2450,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12544",
+                "nombre": "Fidel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 21,
+                "minutos": 1727,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27250",
+                "nombre": "Boyé",
+                "posicion": "delantero centro",
+                "partidos_jugados": 35,
+                "partidos_titular": 29,
+                "minutos": 2474,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23370",
+                "nombre": "Tete Morente",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 23,
+                "minutos": 2071,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301250",
+                "nombre": "Pere Milla",
+                "posicion": "extremo",
+                "partidos_jugados": 31,
+                "partidos_titular": 21,
+                "minutos": 1875,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20249",
+                "nombre": "Werner",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j27077",
+                "nombre": "Ponce",
+                "posicion": "delantero centro",
+                "partidos_jugados": 34,
+                "partidos_titular": 8,
+                "minutos": 1111,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19003",
+                "nombre": "Raúl Guti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 12,
+                "minutos": 1082,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402377",
+                "nombre": "Josan",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 9,
+                "minutos": 1066,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j110148",
+                "nombre": "John",
+                "posicion": "centrocampista",
+                "partidos_jugados": 14,
+                "partidos_titular": 13,
+                "minutos": 1094,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8650",
+                "nombre": "Gonzalo Verdú",
+                "posicion": "central",
+                "partidos_jugados": 16,
+                "partidos_titular": 9,
+                "minutos": 703,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13547",
+                "nombre": "Blanco",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 17,
+                "partidos_titular": 9,
+                "minutos": 872,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402078",
+                "nombre": "Diego González",
+                "posicion": "central",
+                "partidos_jugados": 16,
+                "partidos_titular": 8,
+                "minutos": 952,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22880",
+                "nombre": "Magallán",
+                "posicion": "central",
+                "partidos_jugados": 14,
+                "partidos_titular": 11,
+                "minutos": 903,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25422",
+                "nombre": "Collado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 8,
+                "minutos": 722,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21649",
+                "nombre": "Nteka",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 10,
+                "minutos": 731,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j46978",
+                "nombre": "Nico Fernández",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 18,
+                "partidos_titular": 3,
+                "minutos": 502,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23015",
+                "nombre": "Lirola",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 12,
+                "partidos_titular": 7,
+                "minutos": 627,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300529",
+                "nombre": "Roger",
+                "posicion": "delantero centro",
+                "partidos_jugados": 12,
+                "partidos_titular": 8,
+                "minutos": 657,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27655",
+                "nombre": "Carmona",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 9,
+                "partidos_titular": 8,
+                "minutos": 593,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25227",
+                "nombre": "Quina",
+                "posicion": "centrocampista",
+                "partidos_jugados": 10,
+                "partidos_titular": 2,
+                "minutos": 269,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j15239",
+                "nombre": "Mojica",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21044",
+                "nombre": "Pape Cheikh",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 35,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18038",
+                "nombre": "Fede Fernández",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j97478",
+                "nombre": "Pastore",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 4,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j206796",
+                "nombre": "Alfaro",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 14,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j300473",
+                "nombre": "Badia",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j29916",
+                "nombre": "Palacios",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301796",
+                "nombre": "Clerc",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 106,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301062",
+                "nombre": "Bigas",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j18171",
+                "nombre": "Roco",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j16308",
+                "nombre": "Gumbau",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 248,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101267",
+                "nombre": "Mascarell",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 112,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12544",
+                "nombre": "Fidel",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 94,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27250",
+                "nombre": "Boyé",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 108,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23370",
+                "nombre": "Tete Morente",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 201,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j301250",
+                "nombre": "Pere Milla",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 85,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20249",
+                "nombre": "Werner",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27077",
+                "nombre": "Ponce",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 178,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19003",
+                "nombre": "Raúl Guti",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 149,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402377",
+                "nombre": "Josan",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 111,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j110148",
+                "nombre": "John",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j8650",
+                "nombre": "Gonzalo Verdú",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 176,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13547",
+                "nombre": "Blanco",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 74,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j402078",
+                "nombre": "Diego González",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 94,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25422",
+                "nombre": "Collado",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 44,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j46978",
+                "nombre": "Nico Fernández",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23015",
+                "nombre": "Lirola",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 18,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j300529",
+                "nombre": "Roger",
+                "posicion": "delantero centro",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 167,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25227",
+                "nombre": "Quina",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 68,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28779",
+                "nombre": "Carles Marco",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 81,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j304193",
+                "nombre": "Cocca",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 68,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j13546",
+                "nombre": "Mendoza",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 30,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j304195",
+                "nombre": "Knežević",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 9,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

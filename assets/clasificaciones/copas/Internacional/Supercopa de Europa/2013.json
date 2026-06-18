@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2013,
+    "temporada": "2013-14",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Chelsea"
+    },
+    "partidos": [
+        {
+            "id_partido": 440502,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Chelsea",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 5,
+            "penaltis_visitante": 4
+        }
+    ]
+}

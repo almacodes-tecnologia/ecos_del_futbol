@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2017,
+    "temporada": "2017-18",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Barcelona"
+    },
+    "partidos": [
+        {
+            "id_partido": 490285,
+            "ronda": "Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Real Madrid",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490286,
+            "ronda": "Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

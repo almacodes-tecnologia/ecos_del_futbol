@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2018,
+    "temporada": "2018-19",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Monaco"
+    },
+    "partidos": [
+        {
+            "id_partido": 721036,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Monaco",
+            "goles_local": "4",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

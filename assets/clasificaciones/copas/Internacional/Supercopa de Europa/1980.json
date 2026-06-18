@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1980,
+    "temporada": "1980-81",
+    "cuadro_honor": {
+        "campeon": "Empate global entre Nottingham Forest y Valencia",
+        "subcampeon": "No determinado"
+    },
+    "partidos": [
+        {
+            "id_partido": 440010,
+            "ronda": "Final - Ida",
+            "local": "Nottingham Forest",
+            "visitante": "Valencia",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440011,
+            "ronda": "Final - Vuelta",
+            "local": "Valencia",
+            "visitante": "Nottingham Forest",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

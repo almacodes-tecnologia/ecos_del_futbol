@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "Empate global entre Barcelona y Real Madrid",
+        "subcampeon": "No determinado"
+    },
+    "partidos": [
+        {
+            "id_partido": 490270,
+            "ronda": "Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490271,
+            "ronda": "Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Barcelona",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2007,
+    "temporada": "2007-08",
+    "cuadro_honor": {
+        "campeon": "Olympique Lyonnais",
+        "subcampeon": "Sochaux"
+    },
+    "partidos": [
+        {
+            "id_partido": 721025,
+            "ronda": "Final",
+            "local": "Olympique Lyonnais",
+            "visitante": "Sochaux",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1968,
+    "temporada": "1968-69",
+    "cuadro_honor": {
+        "campeon": "Manchester City",
+        "subcampeon": "West Bromwich Albion"
+    },
+    "partidos": [
+        {
+            "id_partido": 720096,
+            "ronda": "Final",
+            "local": "Manchester City",
+            "visitante": "West Bromwich Albion",
+            "goles_local": "6",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

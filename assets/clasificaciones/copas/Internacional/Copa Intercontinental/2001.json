@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 2001,
+    "temporada": "2001-02",
+    "cuadro_honor": {
+        "campeon": "Bayern München",
+        "subcampeon": "Boca Juniors"
+    },
+    "partidos": [
+        {
+            "id_partido": 430055,
+            "ronda": "Final",
+            "local": "Bayern München",
+            "visitante": "Boca Juniors",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

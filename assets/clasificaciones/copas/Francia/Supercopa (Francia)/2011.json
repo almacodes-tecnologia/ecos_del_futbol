@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Olympique de Marseille",
+        "subcampeon": "Lille"
+    },
+    "partidos": [
+        {
+            "id_partido": 721029,
+            "ronda": "Final",
+            "local": "Olympique de Marseille",
+            "visitante": "Lille",
+            "goles_local": "5",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

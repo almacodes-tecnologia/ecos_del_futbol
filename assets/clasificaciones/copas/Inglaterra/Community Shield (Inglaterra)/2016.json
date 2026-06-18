@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Leicester"
+    },
+    "partidos": [
+        {
+            "id_partido": 720006,
+            "ronda": "Final",
+            "local": "Leicester",
+            "visitante": "Manchester United",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

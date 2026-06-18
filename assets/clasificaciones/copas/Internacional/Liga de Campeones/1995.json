@@ -1,0 +1,155 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Ajax"
+    },
+    "partidos": [
+        {
+            "id_partido": 400496,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400497,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Juventus",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408238,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Nantes",
+            "visitante": "Spartak Moskva",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408239,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Legia Warszawa",
+            "visitante": "Panathinaikos",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408240,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Borussia Dortmund",
+            "visitante": "Ajax",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408241,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Nantes",
+            "visitante": "Spartak Moskva",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408242,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Legia Warszawa",
+            "visitante": "Panathinaikos",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408243,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Borussia Dortmund",
+            "visitante": "Ajax",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408244,
+            "ronda": "Semifinal - Ida",
+            "local": "Juventus",
+            "visitante": "Nantes",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408245,
+            "ronda": "Semifinal - Ida",
+            "local": "Ajax",
+            "visitante": "Panathinaikos",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408246,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Juventus",
+            "visitante": "Nantes",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408247,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Ajax",
+            "visitante": "Panathinaikos",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 408248,
+            "ronda": "Final",
+            "local": "Ajax",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

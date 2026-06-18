@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 2008,
+    "temporada": "2008-09",
+    "cuadro_honor": {
+        "campeon": "Manchester United",
+        "subcampeon": "Portsmouth"
+    },
+    "partidos": [
+        {
+            "id_partido": 720013,
+            "ronda": "Final",
+            "local": "Manchester United",
+            "visitante": "Portsmouth",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 1
+        }
+    ]
+}

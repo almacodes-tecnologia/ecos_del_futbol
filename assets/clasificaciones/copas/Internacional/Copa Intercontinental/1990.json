@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1990,
+    "temporada": "1990-91",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Club Olimpia"
+    },
+    "partidos": [
+        {
+            "id_partido": 430029,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Club Olimpia",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2000,
+    "temporada": "2000-01",
+    "cuadro_honor": {
+        "campeon": "Lazio",
+        "subcampeon": "Inter"
+    },
+    "partidos": [
+        {
+            "id_partido": 490313,
+            "ronda": "Final",
+            "local": "Lazio",
+            "visitante": "Inter",
+            "goles_local": "4",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

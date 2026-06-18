@@ -1,0 +1,67 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2013,
+    "temporada": "2013-14",
+    "cuadro_honor": {
+        "campeon": "Raja Casablanca",
+        "subcampeon": "Atlético Mineiro"
+    },
+    "partidos": [
+        {
+            "id_partido": 430061,
+            "ronda": "Semifinal",
+            "local": "Guangzhou Evergrande",
+            "visitante": "Bayern München",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430062,
+            "ronda": "Semifinal",
+            "local": "Bayern München",
+            "visitante": "Raja Casablanca",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430203,
+            "ronda": "Semifinal",
+            "local": "Guangzhou Evergrande",
+            "visitante": "Al Ahly",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430204,
+            "ronda": "Semifinal",
+            "local": "Raja Casablanca",
+            "visitante": "Monterrey",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430205,
+            "ronda": "Final",
+            "local": "Raja Casablanca",
+            "visitante": "Atlético Mineiro",
+            "goles_local": "3",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

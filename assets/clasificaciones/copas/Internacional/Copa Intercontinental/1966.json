@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa Intercontinental",
+    "año_inicio": 1966,
+    "temporada": "1966-67",
+    "cuadro_honor": {
+        "campeon": "Peñarol",
+        "subcampeon": "Real Madrid"
+    },
+    "partidos": [
+        {
+            "id_partido": 430010,
+            "ronda": "Final - Ida",
+            "local": "Peñarol",
+            "visitante": "Real Madrid",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430011,
+            "ronda": "Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Peñarol",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

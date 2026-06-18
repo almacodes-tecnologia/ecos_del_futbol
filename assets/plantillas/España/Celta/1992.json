@@ -1,0 +1,413 @@
+{
+    "pais": "España",
+    "equipo": "Celta",
+    "id_bdfutbol": "11",
+    "temporada": "1992-93",
+    "año_inicio": 1992,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j1558",
+                "nombre": "Cañizares",
+                "posicion": "portero",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3240,
+                "goles_marcados": 0,
+                "goles_encajados": 30
+            },
+            {
+                "id": "j1341",
+                "nombre": "Otero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3240,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j328",
+                "nombre": "Agirretxu",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 30,
+                "minutos": 2564,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j978",
+                "nombre": "Jurić",
+                "posicion": "central",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2825,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j833",
+                "nombre": "Patxi Salinas",
+                "posicion": "central",
+                "partidos_jugados": 32,
+                "partidos_titular": 32,
+                "minutos": 2862,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2580",
+                "nombre": "Engonga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3218,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2578",
+                "nombre": "Vicente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3134,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1363",
+                "nombre": "Gil",
+                "posicion": "centrocampista",
+                "partidos_jugados": 36,
+                "partidos_titular": 30,
+                "minutos": 2642,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2035",
+                "nombre": "Ratković",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 25,
+                "minutos": 1975,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2620",
+                "nombre": "Gudelj",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 28,
+                "minutos": 2346,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1796",
+                "nombre": "Salva",
+                "posicion": "extremo",
+                "partidos_jugados": 32,
+                "partidos_titular": 17,
+                "minutos": 1686,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j837",
+                "nombre": "Villanueva",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j96",
+                "nombre": "Alejo",
+                "posicion": "central",
+                "partidos_jugados": 21,
+                "partidos_titular": 21,
+                "minutos": 1825,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j856",
+                "nombre": "Salillas",
+                "posicion": "delantero centro",
+                "partidos_jugados": 24,
+                "partidos_titular": 11,
+                "minutos": 1210,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j297",
+                "nombre": "Atilano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1402,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j799",
+                "nombre": "Vilanova",
+                "posicion": "centrocampista",
+                "partidos_jugados": 19,
+                "partidos_titular": 6,
+                "minutos": 710,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2036",
+                "nombre": "Bursać",
+                "posicion": "extremo",
+                "partidos_jugados": 14,
+                "partidos_titular": 8,
+                "minutos": 791,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1801",
+                "nombre": "Dadíe",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 6,
+                "minutos": 642,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1472",
+                "nombre": "Mosquera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 2,
+                "minutos": 273,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1127",
+                "nombre": "Urzaiz",
+                "posicion": "delantero centro",
+                "partidos_jugados": 6,
+                "partidos_titular": 4,
+                "minutos": 373,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j368",
+                "nombre": "Carlos Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 1,
+                "minutos": 178,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1621",
+                "nombre": "Mandiá",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 111,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1628",
+                "nombre": "Sanromán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 8,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j1558",
+                "nombre": "Cañizares",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 4
+            },
+            {
+                "id": "j1341",
+                "nombre": "Otero",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 151,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j328",
+                "nombre": "Agirretxu",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j833",
+                "nombre": "Patxi Salinas",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2580",
+                "nombre": "Engonga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 45,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2035",
+                "nombre": "Ratković",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 71,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1796",
+                "nombre": "Salva",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 119,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j837",
+                "nombre": "Villanueva",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j856",
+                "nombre": "Salillas",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j297",
+                "nombre": "Atilano",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j799",
+                "nombre": "Vilanova",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2036",
+                "nombre": "Bursać",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1801",
+                "nombre": "Dadíe",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1472",
+                "nombre": "Mosquera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 135,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j368",
+                "nombre": "Carlos Pérez",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1621",
+                "nombre": "Mandiá",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 135,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1628",
+                "nombre": "Sanromán",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 19,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

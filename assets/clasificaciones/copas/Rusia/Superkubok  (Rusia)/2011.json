@@ -1,0 +1,23 @@
+{
+    "pais": "Rusia",
+    "copa": "Superkubok  (Rusia)",
+    "año_inicio": 2011,
+    "temporada": "2011-12",
+    "cuadro_honor": {
+        "campeon": "Zenit",
+        "subcampeon": "CSKA Moskva"
+    },
+    "partidos": [
+        {
+            "id_partido": 736493,
+            "ronda": "Final",
+            "local": "Zenit",
+            "visitante": "CSKA Moskva",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

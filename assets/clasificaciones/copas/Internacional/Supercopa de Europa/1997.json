@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1997,
+    "temporada": "1997-98",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Borussia Dortmund"
+    },
+    "partidos": [
+        {
+            "id_partido": 440460,
+            "ronda": "Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Borussia Dortmund",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440461,
+            "ronda": "Final - Vuelta",
+            "local": "Borussia Dortmund",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

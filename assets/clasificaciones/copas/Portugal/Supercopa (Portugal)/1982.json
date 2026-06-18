@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1982,
+    "temporada": "1982-83",
+    "cuadro_honor": {
+        "campeon": "Sporting de Portugal",
+        "subcampeon": "Braga"
+    },
+    "partidos": [
+        {
+            "id_partido": 720076,
+            "ronda": "Final - Ida",
+            "local": "Braga",
+            "visitante": "Sporting de Portugal",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720077,
+            "ronda": "Final - Vuelta",
+            "local": "Sporting de Portugal",
+            "visitante": "Braga",
+            "goles_local": "6",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

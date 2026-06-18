@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Copa de Ferias",
+    "año_inicio": 1971,
+    "temporada": "1971-72",
+    "cuadro_honor": {
+        "campeon": "Barcelona",
+        "subcampeon": "Leeds"
+    },
+    "partidos": [
+        {
+            "id_partido": 470315,
+            "ronda": "Final",
+            "local": "Barcelona",
+            "visitante": "Leeds",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

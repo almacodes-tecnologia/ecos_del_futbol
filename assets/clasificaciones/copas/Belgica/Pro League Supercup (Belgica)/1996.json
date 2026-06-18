@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1996,
+    "temporada": "1996-97",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "Cercle Brugge"
+    },
+    "partidos": [
+        {
+            "id_partido": 721121,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "Cercle Brugge",
+            "goles_local": "5",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1997,
+    "temporada": "1997-98",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Vicenza"
+    },
+    "partidos": [
+        {
+            "id_partido": 490310,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Vicenza",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

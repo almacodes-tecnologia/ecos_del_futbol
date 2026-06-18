@@ -1,0 +1,331 @@
+{
+    "pais": "Internacional",
+    "copa": "Liga de Campeones",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "Arsenal",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 400918,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Real Madrid",
+            "visitante": "Arsenal",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400919,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Arsenal",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400920,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Chelsea",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400921,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Chelsea",
+            "visitante": "Barcelona",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400922,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Rangers",
+            "visitante": "Villarreal",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400923,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Rangers",
+            "visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400924,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Benfica",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400925,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400926,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Inter",
+            "visitante": "Villarreal",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400927,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Inter",
+            "visitante": "Villarreal",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400928,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Milan",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400929,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Milan",
+            "visitante": "Barcelona",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400930,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Arsenal",
+            "visitante": "Villarreal",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400931,
+            "ronda": "Octavos de Final - Vuelta",
+            "local": "Arsenal",
+            "visitante": "Villarreal",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 400932,
+            "ronda": "Octavos de Final",
+            "local": "Barcelona",
+            "visitante": "Arsenal",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406772,
+            "ronda": "Octavos de Final - Ida",
+            "local": "Bayern München",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406773,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "PSV",
+            "visitante": "Olympique Lyonnais",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406774,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Benfica",
+            "visitante": "Liverpool",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406775,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Werder Bremen",
+            "visitante": "Juventus",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406776,
+            "ronda": "Cuartos de Final - Ida",
+            "local": "Ajax",
+            "visitante": "Inter",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406777,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Werder Bremen",
+            "visitante": "Juventus",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406778,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Bayern München",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406779,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "PSV",
+            "visitante": "Olympique Lyonnais",
+            "goles_local": "0",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406780,
+            "ronda": "Cuartos de Final - Vuelta",
+            "local": "Benfica",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406781,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Ajax",
+            "visitante": "Inter",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406782,
+            "ronda": "Semifinal - Ida",
+            "local": "Arsenal",
+            "visitante": "Juventus",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406783,
+            "ronda": "Semifinal - Ida",
+            "local": "Olympique Lyonnais",
+            "visitante": "Milan",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406784,
+            "ronda": "Semifinal - Vuelta",
+            "local": "Olympique Lyonnais",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 406785,
+            "ronda": "Final - Ida",
+            "local": "Arsenal",
+            "visitante": "Juventus",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

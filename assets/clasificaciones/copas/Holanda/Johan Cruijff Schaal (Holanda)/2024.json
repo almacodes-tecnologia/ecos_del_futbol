@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "Feyenoord",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 699937,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Feyenoord",
+            "goles_local": "4",
+            "goles_visitante": "4",
+            "hubo_penaltis": true,
+            "penaltis_local": 2,
+            "penaltis_visitante": 4
+        }
+    ]
+}

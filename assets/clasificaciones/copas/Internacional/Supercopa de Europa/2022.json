@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2022,
+    "temporada": "2022-23",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Eintracht Frankfurt"
+    },
+    "partidos": [
+        {
+            "id_partido": 440526,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Eintracht Frankfurt",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

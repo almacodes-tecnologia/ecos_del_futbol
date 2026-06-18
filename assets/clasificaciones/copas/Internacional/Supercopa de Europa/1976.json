@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1976,
+    "temporada": "1976-77",
+    "cuadro_honor": {
+        "campeon": "Anderlecht",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 440004,
+            "ronda": "Final - Ida",
+            "local": "Bayern München",
+            "visitante": "Anderlecht",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440005,
+            "ronda": "Final - Vuelta",
+            "local": "Anderlecht",
+            "visitante": "Bayern München",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

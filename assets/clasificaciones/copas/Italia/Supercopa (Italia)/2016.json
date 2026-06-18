@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2016,
+    "temporada": "2016-17",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Juventus"
+    },
+    "partidos": [
+        {
+            "id_partido": 490329,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Milan",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 4
+        }
+    ]
+}

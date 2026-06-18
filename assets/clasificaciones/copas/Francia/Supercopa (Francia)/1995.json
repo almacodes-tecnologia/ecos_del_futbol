@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 1995,
+    "temporada": "1995-96",
+    "cuadro_honor": {
+        "campeon": "PSG",
+        "subcampeon": "Nantes"
+    },
+    "partidos": [
+        {
+            "id_partido": 721014,
+            "ronda": "Final",
+            "local": "PSG",
+            "visitante": "Nantes",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 6,
+            "penaltis_visitante": 5
+        }
+    ]
+}

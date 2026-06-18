@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2002,
+    "temporada": "2002-03",
+    "cuadro_honor": {
+        "campeon": "Olympique Lyonnais",
+        "subcampeon": "Lorient"
+    },
+    "partidos": [
+        {
+            "id_partido": 721020,
+            "ronda": "Final",
+            "local": "Olympique Lyonnais",
+            "visitante": "Lorient",
+            "goles_local": "5",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

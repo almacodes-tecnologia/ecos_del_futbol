@@ -1,0 +1,23 @@
+{
+    "pais": "Belgica",
+    "copa": "Pro League Supercup (Belgica)",
+    "año_inicio": 1990,
+    "temporada": "1990-91",
+    "cuadro_honor": {
+        "campeon": "Brugge",
+        "subcampeon": "RFC Liège"
+    },
+    "partidos": [
+        {
+            "id_partido": 721127,
+            "ronda": "Final",
+            "local": "Brugge",
+            "visitante": "RFC Liège",
+            "goles_local": "2",
+            "goles_visitante": "2",
+            "hubo_penaltis": true,
+            "penaltis_local": 9,
+            "penaltis_visitante": 8
+        }
+    ]
+}

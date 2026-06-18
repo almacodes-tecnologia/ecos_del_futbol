@@ -1,0 +1,23 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2023,
+    "temporada": "2023-24",
+    "cuadro_honor": {
+        "campeon": "Galatasaray",
+        "subcampeon": "Fenerbahçe"
+    },
+    "partidos": [
+        {
+            "id_partido": 397020,
+            "ronda": "Final",
+            "local": "Galatasaray",
+            "visitante": "Fenerbahçe",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 1,
+            "penaltis_visitante": 0
+        }
+    ]
+}

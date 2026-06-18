@@ -1,0 +1,23 @@
+{
+    "pais": "Inglaterra",
+    "copa": "Community Shield (Inglaterra)",
+    "año_inicio": 1982,
+    "temporada": "1982-83",
+    "cuadro_honor": {
+        "campeon": "Liverpool",
+        "subcampeon": "Tottenham"
+    },
+    "partidos": [
+        {
+            "id_partido": 720047,
+            "ronda": "Final",
+            "local": "Liverpool",
+            "visitante": "Tottenham",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2004,
+    "temporada": "2004-05",
+    "cuadro_honor": {
+        "campeon": "Valencia",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 440490,
+            "ronda": "Final",
+            "local": "Valencia",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

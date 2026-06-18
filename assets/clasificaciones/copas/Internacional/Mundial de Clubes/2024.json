@@ -1,0 +1,56 @@
+{
+    "pais": "Internacional",
+    "copa": "Mundial de Clubes",
+    "año_inicio": 2024,
+    "temporada": "2024-25",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Pachuca"
+    },
+    "partidos": [
+        {
+            "id_partido": 430287,
+            "ronda": "Semifinal",
+            "local": "Al Ahly",
+            "visitante": "Al-Ain",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430288,
+            "ronda": "Semifinal",
+            "local": "Botafogo",
+            "visitante": "Pachuca",
+            "goles_local": "0",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430289,
+            "ronda": "Semifinal",
+            "local": "Pachuca",
+            "visitante": "Al Ahly",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 430290,
+            "ronda": "Final",
+            "local": "Real Madrid",
+            "visitante": "Pachuca",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

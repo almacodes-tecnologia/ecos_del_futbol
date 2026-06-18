@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1982,
+    "temporada": "1982-83",
+    "cuadro_honor": {
+        "campeon": "Aston Villa",
+        "subcampeon": "Barcelona"
+    },
+    "partidos": [
+        {
+            "id_partido": 440020,
+            "ronda": "Final - Ida",
+            "local": "Barcelona",
+            "visitante": "Aston Villa",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440021,
+            "ronda": "Final - Vuelta",
+            "local": "Aston Villa",
+            "visitante": "Barcelona",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1988,
+    "temporada": "1988-89",
+    "cuadro_honor": {
+        "campeon": "KV Mechelen",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 440518,
+            "ronda": "Final - Ida",
+            "local": "KV Mechelen",
+            "visitante": "PSV",
+            "goles_local": "3",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440519,
+            "ronda": "Final - Vuelta",
+            "local": "PSV",
+            "visitante": "KV Mechelen",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

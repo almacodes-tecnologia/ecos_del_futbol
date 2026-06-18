@@ -1,0 +1,625 @@
+{
+    "pais": "España",
+    "equipo": "Espanyol",
+    "id_bdfutbol": "14",
+    "temporada": "1987-88",
+    "año_inicio": 1987,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j2820",
+                "nombre": "N'Kono",
+                "posicion": "portero",
+                "partidos_jugados": 35,
+                "partidos_titular": 35,
+                "minutos": 3150,
+                "goles_marcados": 0,
+                "goles_encajados": 53
+            },
+            {
+                "id": "j2935",
+                "nombre": "Urquiaga",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 24,
+                "partidos_titular": 22,
+                "minutos": 1799,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2044",
+                "nombre": "Soler",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 33,
+                "partidos_titular": 33,
+                "minutos": 2970,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2928",
+                "nombre": "Gallart",
+                "posicion": "central",
+                "partidos_jugados": 30,
+                "partidos_titular": 28,
+                "minutos": 2402,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j796",
+                "nombre": "Francis",
+                "posicion": "central",
+                "partidos_jugados": 24,
+                "partidos_titular": 23,
+                "minutos": 2096,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1856",
+                "nombre": "Zúñiga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 35,
+                "partidos_titular": 33,
+                "minutos": 2705,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2931",
+                "nombre": "Iñaki",
+                "posicion": "centrocampista",
+                "partidos_jugados": 30,
+                "partidos_titular": 29,
+                "minutos": 2672,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1223",
+                "nombre": "Zubillaga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 27,
+                "partidos_titular": 26,
+                "minutos": 2046,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1986",
+                "nombre": "Pineda",
+                "posicion": "extremo",
+                "partidos_jugados": 33,
+                "partidos_titular": 25,
+                "minutos": 2288,
+                "goles_marcados": 7,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2468",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 28,
+                "partidos_titular": 25,
+                "minutos": 2189,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j697",
+                "nombre": "Valverde",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 23,
+                "minutos": 2187,
+                "goles_marcados": 9,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2826",
+                "nombre": "Meléndez",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j2707",
+                "nombre": "Lauridsen",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 18,
+                "minutos": 2074,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j580",
+                "nombre": "Orejuela",
+                "posicion": "centrocampista",
+                "partidos_jugados": 31,
+                "partidos_titular": 19,
+                "minutos": 1637,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2933",
+                "nombre": "Pichi Alonso",
+                "posicion": "delantero centro",
+                "partidos_jugados": 23,
+                "partidos_titular": 16,
+                "minutos": 1631,
+                "goles_marcados": 6,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2002",
+                "nombre": "Miguel Ángel",
+                "posicion": "central",
+                "partidos_jugados": 20,
+                "partidos_titular": 20,
+                "minutos": 1746,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2938",
+                "nombre": "Job",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 13,
+                "partidos_titular": 12,
+                "minutos": 1120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2929",
+                "nombre": "Golobart",
+                "posicion": "centrocampista",
+                "partidos_jugados": 13,
+                "partidos_titular": 8,
+                "minutos": 852,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3038",
+                "nombre": "Mauri",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 4,
+                "minutos": 316,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3037",
+                "nombre": "Márquez",
+                "posicion": "extremo",
+                "partidos_jugados": 7,
+                "partidos_titular": 3,
+                "minutos": 295,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j657",
+                "nombre": "Eloy",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 477,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j103",
+                "nombre": "Álex Garcia",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 348,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1466",
+                "nombre": "Txelis",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 331,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j2820",
+                "nombre": "N'Kono",
+                "posicion": "portero",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 6
+            },
+            {
+                "id": "j2935",
+                "nombre": "Urquiaga",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 67,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2044",
+                "nombre": "Soler",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 292,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2928",
+                "nombre": "Gallart",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j796",
+                "nombre": "Francis",
+                "posicion": "central",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 225,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1856",
+                "nombre": "Zúñiga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 3,
+                "minutos": 270,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2931",
+                "nombre": "Iñaki",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 360,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1223",
+                "nombre": "Zubillaga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1986",
+                "nombre": "Pineda",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 277,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2468",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 135,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j697",
+                "nombre": "Valverde",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 83,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2826",
+                "nombre": "Meléndez",
+                "posicion": "portero",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j2707",
+                "nombre": "Lauridsen",
+                "posicion": "centrocampista",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 318,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j580",
+                "nombre": "Orejuela",
+                "posicion": "centrocampista",
+                "partidos_jugados": 3,
+                "partidos_titular": 2,
+                "minutos": 200,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2933",
+                "nombre": "Pichi Alonso",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 123,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2002",
+                "nombre": "Miguel Ángel",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2938",
+                "nombre": "Job",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 4,
+                "partidos_titular": 3,
+                "minutos": 248,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3038",
+                "nombre": "Mauri",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 315,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j3037",
+                "nombre": "Márquez",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 147,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1466",
+                "nombre": "Txelis",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Europa League": [
+            {
+                "id": "j2820",
+                "nombre": "N'Kono",
+                "posicion": "portero",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 960,
+                "goles_marcados": 0,
+                "goles_encajados": 5
+            },
+            {
+                "id": "j2935",
+                "nombre": "Urquiaga",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 1050,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2044",
+                "nombre": "Soler",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 12,
+                "partidos_titular": 12,
+                "minutos": 1140,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2928",
+                "nombre": "Gallart",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 9,
+                "minutos": 891,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j796",
+                "nombre": "Francis",
+                "posicion": "central",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 638,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1856",
+                "nombre": "Zúñiga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 6,
+                "minutos": 628,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2931",
+                "nombre": "Iñaki",
+                "posicion": "centrocampista",
+                "partidos_jugados": 9,
+                "partidos_titular": 8,
+                "minutos": 771,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1223",
+                "nombre": "Zubillaga",
+                "posicion": "centrocampista",
+                "partidos_jugados": 11,
+                "partidos_titular": 10,
+                "minutos": 900,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j1986",
+                "nombre": "Pineda",
+                "posicion": "extremo",
+                "partidos_jugados": 4,
+                "partidos_titular": 4,
+                "minutos": 316,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2468",
+                "nombre": "Losada",
+                "posicion": "extremo",
+                "partidos_jugados": 5,
+                "partidos_titular": 4,
+                "minutos": 435,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j697",
+                "nombre": "Valverde",
+                "posicion": "extremo",
+                "partidos_jugados": 11,
+                "partidos_titular": 9,
+                "minutos": 908,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2826",
+                "nombre": "Meléndez",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 2
+            },
+            {
+                "id": "j2707",
+                "nombre": "Lauridsen",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 2,
+                "minutos": 335,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j580",
+                "nombre": "Orejuela",
+                "posicion": "centrocampista",
+                "partidos_jugados": 12,
+                "partidos_titular": 10,
+                "minutos": 825,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2933",
+                "nombre": "Pichi Alonso",
+                "posicion": "delantero centro",
+                "partidos_jugados": 10,
+                "partidos_titular": 10,
+                "minutos": 858,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2002",
+                "nombre": "Miguel Ángel",
+                "posicion": "central",
+                "partidos_jugados": 8,
+                "partidos_titular": 7,
+                "minutos": 682,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2938",
+                "nombre": "Job",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 7,
+                "partidos_titular": 6,
+                "minutos": 626,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j2929",
+                "nombre": "Golobart",
+                "posicion": "centrocampista",
+                "partidos_jugados": 8,
+                "partidos_titular": 5,
+                "minutos": 397,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

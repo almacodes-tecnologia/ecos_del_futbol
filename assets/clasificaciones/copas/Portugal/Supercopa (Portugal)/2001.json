@@ -1,0 +1,23 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 2001,
+    "temporada": "2001-02",
+    "cuadro_honor": {
+        "campeon": "Porto",
+        "subcampeon": "Boavista"
+    },
+    "partidos": [
+        {
+            "id_partido": 490367,
+            "ronda": "Final",
+            "local": "Porto",
+            "visitante": "Boavista",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

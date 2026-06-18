@@ -1,0 +1,593 @@
+{
+    "pais": "España",
+    "equipo": "Las Palmas",
+    "id_bdfutbol": "19",
+    "temporada": "2020-21",
+    "año_inicio": 2020,
+    "competiciones": {
+        "Liga Regular": [
+            {
+                "id": "j24097",
+                "nombre": "Valles",
+                "posicion": "portero",
+                "partidos_jugados": 26,
+                "partidos_titular": 25,
+                "minutos": 2304,
+                "goles_marcados": 0,
+                "goles_encajados": 35
+            },
+            {
+                "id": "j21038",
+                "nombre": "Lemos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 31,
+                "partidos_titular": 28,
+                "minutos": 2501,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202378",
+                "nombre": "Benito",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 35,
+                "partidos_titular": 22,
+                "minutos": 1953,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24680",
+                "nombre": "Álex Suárez",
+                "posicion": "central",
+                "partidos_jugados": 36,
+                "partidos_titular": 36,
+                "minutos": 3191,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22238",
+                "nombre": "Curbelo",
+                "posicion": "central",
+                "partidos_jugados": 36,
+                "partidos_titular": 29,
+                "minutos": 2759,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6361",
+                "nombre": "Dani Castellano",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 22,
+                "partidos_titular": 20,
+                "minutos": 1678,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21348",
+                "nombre": "Sergio Ruiz",
+                "posicion": "centrocampista",
+                "partidos_jugados": 37,
+                "partidos_titular": 35,
+                "minutos": 3095,
+                "goles_marcados": 5,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24833",
+                "nombre": "Kirian",
+                "posicion": "centrocampista",
+                "partidos_jugados": 33,
+                "partidos_titular": 17,
+                "minutos": 1731,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202106",
+                "nombre": "Mesa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 28,
+                "partidos_titular": 15,
+                "minutos": 1387,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24656",
+                "nombre": "Rober",
+                "posicion": "extremo",
+                "partidos_jugados": 30,
+                "partidos_titular": 26,
+                "minutos": 2066,
+                "goles_marcados": 8,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j16321",
+                "nombre": "Araujo",
+                "posicion": "extremo",
+                "partidos_jugados": 29,
+                "partidos_titular": 25,
+                "minutos": 2039,
+                "goles_marcados": 11,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20670",
+                "nombre": "Álex Domínguez",
+                "posicion": "portero",
+                "partidos_jugados": 17,
+                "partidos_titular": 17,
+                "minutos": 1472,
+                "goles_marcados": 0,
+                "goles_encajados": 18
+            },
+            {
+                "id": "j24832",
+                "nombre": "Espiau",
+                "posicion": "delantero centro",
+                "partidos_jugados": 29,
+                "partidos_titular": 11,
+                "minutos": 1159,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20263",
+                "nombre": "Fabio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 25,
+                "partidos_titular": 14,
+                "minutos": 1365,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21624",
+                "nombre": "Clemente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 26,
+                "partidos_titular": 13,
+                "minutos": 1109,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j25416",
+                "nombre": "Pejiño",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 14,
+                "minutos": 1185,
+                "goles_marcados": 4,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12656",
+                "nombre": "Javi Castellano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 17,
+                "partidos_titular": 14,
+                "minutos": 1221,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21219",
+                "nombre": "Ale Díez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 17,
+                "partidos_titular": 12,
+                "minutos": 1091,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28373",
+                "nombre": "Loiodice",
+                "posicion": "centrocampista",
+                "partidos_jugados": 15,
+                "partidos_titular": 14,
+                "minutos": 991,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200174",
+                "nombre": "Aridai",
+                "posicion": "extremo",
+                "partidos_jugados": 21,
+                "partidos_titular": 5,
+                "minutos": 609,
+                "goles_marcados": 3,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j101007",
+                "nombre": "Jesé",
+                "posicion": "extremo",
+                "partidos_jugados": 16,
+                "partidos_titular": 13,
+                "minutos": 1168,
+                "goles_marcados": 2,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26677",
+                "nombre": "Jonathan",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 12,
+                "partidos_titular": 10,
+                "minutos": 847,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j4146",
+                "nombre": "Aythami",
+                "posicion": "central",
+                "partidos_jugados": 11,
+                "partidos_titular": 11,
+                "minutos": 972,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28774",
+                "nombre": "Cardona",
+                "posicion": "central",
+                "partidos_jugados": 10,
+                "partidos_titular": 8,
+                "minutos": 752,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23289",
+                "nombre": "Mujica",
+                "posicion": "delantero centro",
+                "partidos_jugados": 13,
+                "partidos_titular": 7,
+                "minutos": 541,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26970",
+                "nombre": "Clau Mendes",
+                "posicion": "delantero centro",
+                "partidos_jugados": 16,
+                "partidos_titular": 3,
+                "minutos": 376,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27263",
+                "nombre": "Iemmello",
+                "posicion": "delantero centro",
+                "partidos_jugados": 10,
+                "partidos_titular": 4,
+                "minutos": 401,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21167",
+                "nombre": "Rivera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 6,
+                "partidos_titular": 5,
+                "minutos": 468,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22031",
+                "nombre": "Ismael",
+                "posicion": "central",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 341,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22163",
+                "nombre": "Cristian Cedrés",
+                "posicion": "extremo",
+                "partidos_jugados": 6,
+                "partidos_titular": 3,
+                "minutos": 147,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19268",
+                "nombre": "Coco",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 56,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21215",
+                "nombre": "Pau Miguélez",
+                "posicion": "extremo",
+                "partidos_jugados": 3,
+                "partidos_titular": 0,
+                "minutos": 29,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j43206",
+                "nombre": "Diego",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 120,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20940",
+                "nombre": "Juan Fernández",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 68,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j23951",
+                "nombre": "Cardona",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 46,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26775",
+                "nombre": "Elejalde",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ],
+        "Copa del Rey (España)": [
+            {
+                "id": "j24097",
+                "nombre": "Valles",
+                "posicion": "portero",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 1
+            },
+            {
+                "id": "j21038",
+                "nombre": "Lemos",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 56,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202378",
+                "nombre": "Benito",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 2,
+                "partidos_titular": 0,
+                "minutos": 12,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22238",
+                "nombre": "Curbelo",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 170,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j6361",
+                "nombre": "Dani Castellano",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24833",
+                "nombre": "Kirian",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 100,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j202106",
+                "nombre": "Mesa",
+                "posicion": "centrocampista",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 180,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24656",
+                "nombre": "Rober",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j24832",
+                "nombre": "Espiau",
+                "posicion": "delantero centro",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 27,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j20263",
+                "nombre": "Fabio",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 57,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21624",
+                "nombre": "Clemente",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j12656",
+                "nombre": "Javi Castellano",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 69,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21219",
+                "nombre": "Ale Díez",
+                "posicion": "lateral derecho",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j200174",
+                "nombre": "Aridai",
+                "posicion": "extremo",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 143,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26677",
+                "nombre": "Jonathan",
+                "posicion": "lateral izquierdo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 88,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j28774",
+                "nombre": "Cardona",
+                "posicion": "central",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j26970",
+                "nombre": "Clau Mendes",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 69,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j27263",
+                "nombre": "Iemmello",
+                "posicion": "delantero centro",
+                "partidos_jugados": 2,
+                "partidos_titular": 2,
+                "minutos": 153,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j21167",
+                "nombre": "Rivera",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 21,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j22163",
+                "nombre": "Cristian Cedrés",
+                "posicion": "extremo",
+                "partidos_jugados": 1,
+                "partidos_titular": 1,
+                "minutos": 90,
+                "goles_marcados": 1,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j19268",
+                "nombre": "Coco",
+                "posicion": "central",
+                "partidos_jugados": 2,
+                "partidos_titular": 1,
+                "minutos": 124,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            },
+            {
+                "id": "j43206",
+                "nombre": "Diego",
+                "posicion": "centrocampista",
+                "partidos_jugados": 1,
+                "partidos_titular": 0,
+                "minutos": 21,
+                "goles_marcados": 0,
+                "goles_encajados": 0
+            }
+        ]
+    }
+}

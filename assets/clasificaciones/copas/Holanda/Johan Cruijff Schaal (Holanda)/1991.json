@@ -1,0 +1,23 @@
+{
+    "pais": "Holanda",
+    "copa": "Johan Cruijff Schaal (Holanda)",
+    "año_inicio": 1991,
+    "temporada": "1991-92",
+    "cuadro_honor": {
+        "campeon": "Feyenoord",
+        "subcampeon": "PSV"
+    },
+    "partidos": [
+        {
+            "id_partido": 699946,
+            "ronda": "Final",
+            "local": "PSV",
+            "visitante": "Feyenoord",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

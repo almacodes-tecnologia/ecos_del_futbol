@@ -1,0 +1,34 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1975,
+    "temporada": "1975-76",
+    "cuadro_honor": {
+        "campeon": "Dynamo Kyiv",
+        "subcampeon": "Bayern München"
+    },
+    "partidos": [
+        {
+            "id_partido": 440006,
+            "ronda": "Final - Ida",
+            "local": "Bayern München",
+            "visitante": "Dynamo Kyiv",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 440007,
+            "ronda": "Final - Vuelta",
+            "local": "Dynamo Kyiv",
+            "visitante": "Bayern München",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

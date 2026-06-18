@@ -1,0 +1,890 @@
+{
+    "torneo": "Copa del Mundo (Mundial)",
+    "anio": 2022,
+    "saison_id": "2021",
+    "calendario": [
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "03/12/2022",
+            "local": "Países Bajos",
+            "resultado": "3:1",
+            "visitante": "Estados Unidos"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "03/12/2022",
+            "local": "Argentina",
+            "resultado": "2:1",
+            "visitante": "Australia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "04/12/2022",
+            "local": "Francia",
+            "resultado": "3:1",
+            "visitante": "Polonia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "04/12/2022",
+            "local": "Inglaterra",
+            "resultado": "3:0",
+            "visitante": "Senegal"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "05/12/2022",
+            "local": "Japón",
+            "resultado": "2:4 pen.",
+            "visitante": "Croacia"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "05/12/2022",
+            "local": "Brasil",
+            "resultado": "4:1",
+            "visitante": "Corea del Sur"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "06/12/2022",
+            "local": "Marruecos",
+            "resultado": "3:0 pen.",
+            "visitante": "España"
+        },
+        {
+            "fase_grupo": "Octavos de final",
+            "fecha": "06/12/2022",
+            "local": "Portugal",
+            "resultado": "6:1",
+            "visitante": "Suiza"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "09/12/2022",
+            "local": "Croacia",
+            "resultado": "5:3 pen.",
+            "visitante": "Brasil"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "09/12/2022",
+            "local": "Países Bajos",
+            "resultado": "5:6 pen.",
+            "visitante": "Argentina"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "10/12/2022",
+            "local": "Marruecos",
+            "resultado": "1:0",
+            "visitante": "Portugal"
+        },
+        {
+            "fase_grupo": "Cuartos de final",
+            "fecha": "10/12/2022",
+            "local": "Inglaterra",
+            "resultado": "1:2",
+            "visitante": "Francia"
+        },
+        {
+            "fase_grupo": "Semifinales",
+            "fecha": "13/12/2022",
+            "local": "Argentina",
+            "resultado": "3:0",
+            "visitante": "Croacia"
+        },
+        {
+            "fase_grupo": "Semifinales",
+            "fecha": "14/12/2022",
+            "local": "Francia",
+            "resultado": "2:0",
+            "visitante": "Marruecos"
+        },
+        {
+            "fase_grupo": "Partido por el tercer puesto",
+            "fecha": "17/12/2022",
+            "local": "Croacia",
+            "resultado": "2:1",
+            "visitante": "Marruecos"
+        },
+        {
+            "fase_grupo": "Final",
+            "fecha": "18/12/2022",
+            "local": "Argentina",
+            "resultado": "7:5 pen.",
+            "visitante": "Francia"
+        }
+    ],
+    "clasificacion_grupos": {
+        "Clasificación del grupo A": [
+            {
+                "posicion": 1,
+                "seleccion": "Países Bajos",
+                "partidos_jugados": 3,
+                "diferencia_goles": "4",
+                "puntos": 7
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Senegal",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 6
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Ecuador",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Catar",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-6",
+                "puntos": 0
+            }
+        ],
+        "Clasificación del grupo B": [
+            {
+                "posicion": 1,
+                "seleccion": "Inglaterra",
+                "partidos_jugados": 3,
+                "diferencia_goles": "7",
+                "puntos": 7
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Estados Unidos",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 5
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Irán",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-3",
+                "puntos": 3
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Gales",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-5",
+                "puntos": 1
+            }
+        ],
+        "Clasificación del grupo C": [
+            {
+                "posicion": 1,
+                "seleccion": "Argentina",
+                "partidos_jugados": 3,
+                "diferencia_goles": "3",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Polonia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 3,
+                "seleccion": "México",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-1",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Arabia Saudita",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-2",
+                "puntos": 3
+            }
+        ],
+        "Clasificación del grupo D": [
+            {
+                "posicion": 1,
+                "seleccion": "Francia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "3",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Australia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-1",
+                "puntos": 6
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Túnez",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Dinamarca",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-2",
+                "puntos": 1
+            }
+        ],
+        "Clasificación del grupo E": [
+            {
+                "posicion": 1,
+                "seleccion": "Japón",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "España",
+                "partidos_jugados": 3,
+                "diferencia_goles": "6",
+                "puntos": 4
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Alemania",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Costa Rica",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-8",
+                "puntos": 3
+            }
+        ],
+        "Clasificación del grupo F": [
+            {
+                "posicion": 1,
+                "seleccion": "Marruecos",
+                "partidos_jugados": 3,
+                "diferencia_goles": "3",
+                "puntos": 7
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Croacia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "3",
+                "puntos": 5
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Bélgica",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-1",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Canadá",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-5",
+                "puntos": 0
+            }
+        ],
+        "Clasificación del grupo G": [
+            {
+                "posicion": 1,
+                "seleccion": "Brasil",
+                "partidos_jugados": 3,
+                "diferencia_goles": "2",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Suiza",
+                "partidos_jugados": 3,
+                "diferencia_goles": "1",
+                "puntos": 6
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Camerún",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Serbia",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-3",
+                "puntos": 1
+            }
+        ],
+        "Clasificación del grupo H": [
+            {
+                "posicion": 1,
+                "seleccion": "Portugal",
+                "partidos_jugados": 3,
+                "diferencia_goles": "2",
+                "puntos": 6
+            },
+            {
+                "posicion": 2,
+                "seleccion": "Corea del Sur",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 3,
+                "seleccion": "Uruguay",
+                "partidos_jugados": 3,
+                "diferencia_goles": "0",
+                "puntos": 4
+            },
+            {
+                "posicion": 4,
+                "seleccion": "Ghana",
+                "partidos_jugados": 3,
+                "diferencia_goles": "-2",
+                "puntos": 3
+            }
+        ]
+    },
+    "goleadores": [
+        {
+            "posicion": 1,
+            "jugador": "Kylian Mbappé",
+            "demarcacion": "Delantero centro",
+            "pais": "Francia",
+            "partidos": 7,
+            "asistencias": 2,
+            "penaltis": 2,
+            "minutos": "598'",
+            "goles": 8
+        },
+        {
+            "posicion": 2,
+            "jugador": "Lionel Messi",
+            "demarcacion": "Extremo derecho",
+            "pais": "Argentina",
+            "partidos": 7,
+            "asistencias": 3,
+            "penaltis": 4,
+            "minutos": "690'",
+            "goles": 7
+        },
+        {
+            "posicion": 3,
+            "jugador": "Julián Alvarez",
+            "demarcacion": "Delantero centro",
+            "pais": "Argentina",
+            "partidos": 7,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "464'",
+            "goles": 4
+        },
+        {
+            "posicion": 4,
+            "jugador": "Olivier Giroud",
+            "demarcacion": "Delantero centro",
+            "pais": "Francia",
+            "partidos": 6,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "419'",
+            "goles": 4
+        },
+        {
+            "posicion": 5,
+            "jugador": "Álvaro Morata",
+            "demarcacion": "Delantero centro",
+            "pais": "España",
+            "partidos": 4,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "185'",
+            "goles": 3
+        },
+        {
+            "posicion": 6,
+            "jugador": "Richarlison",
+            "demarcacion": "Delantero centro",
+            "pais": "Brasil",
+            "partidos": 4,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "323'",
+            "goles": 3
+        },
+        {
+            "posicion": 7,
+            "jugador": "Bukayo Saka",
+            "demarcacion": "Extremo derecho",
+            "pais": "Inglaterra",
+            "partidos": 4,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "289'",
+            "goles": 3
+        },
+        {
+            "posicion": 8,
+            "jugador": "Gonçalo Ramos",
+            "demarcacion": "Delantero centro",
+            "pais": "Portugal",
+            "partidos": 4,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "153'",
+            "goles": 3
+        },
+        {
+            "posicion": 9,
+            "jugador": "Enner Valencia",
+            "demarcacion": "Delantero centro",
+            "pais": "Ecuador",
+            "partidos": 3,
+            "asistencias": 0,
+            "penaltis": 1,
+            "minutos": "255'",
+            "goles": 3
+        },
+        {
+            "posicion": 10,
+            "jugador": "Marcus Rashford",
+            "demarcacion": "Extremo izquierdo",
+            "pais": "Inglaterra",
+            "partidos": 5,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "140'",
+            "goles": 3
+        },
+        {
+            "posicion": 11,
+            "jugador": "Cody Gakpo",
+            "demarcacion": "Extremo izquierdo",
+            "pais": "Países Bajos",
+            "partidos": 5,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "449'",
+            "goles": 3
+        },
+        {
+            "posicion": 12,
+            "jugador": "Harry Kane",
+            "demarcacion": "Delantero centro",
+            "pais": "Inglaterra",
+            "partidos": 5,
+            "asistencias": 3,
+            "penaltis": 1,
+            "minutos": "401'",
+            "goles": 2
+        },
+        {
+            "posicion": 13,
+            "jugador": "Bruno Fernandes",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Portugal",
+            "partidos": 4,
+            "asistencias": 3,
+            "penaltis": 1,
+            "minutos": "356'",
+            "goles": 2
+        },
+        {
+            "posicion": 14,
+            "jugador": "Robert Lewandowski",
+            "demarcacion": "Delantero centro",
+            "pais": "Polonia",
+            "partidos": 4,
+            "asistencias": 1,
+            "penaltis": 1,
+            "minutos": "360'",
+            "goles": 2
+        },
+        {
+            "posicion": 15,
+            "jugador": "Neymar",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Brasil",
+            "partidos": 3,
+            "asistencias": 1,
+            "penaltis": 1,
+            "minutos": "278'",
+            "goles": 2
+        },
+        {
+            "posicion": 16,
+            "jugador": "Niclas Füllkrug",
+            "demarcacion": "Delantero centro",
+            "pais": "Alemania",
+            "partidos": 3,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "69'",
+            "goles": 2
+        },
+        {
+            "posicion": 17,
+            "jugador": "Vincent Aboubakar",
+            "demarcacion": "Delantero centro",
+            "pais": "Camerún",
+            "partidos": 3,
+            "asistencias": 1,
+            "penaltis": 0,
+            "minutos": "143'",
+            "goles": 2
+        },
+        {
+            "posicion": 18,
+            "jugador": "Mehdi Taremi",
+            "demarcacion": "Delantero centro",
+            "pais": "Irán",
+            "partidos": 3,
+            "asistencias": 1,
+            "penaltis": 1,
+            "minutos": "270'",
+            "goles": 2
+        },
+        {
+            "posicion": 19,
+            "jugador": "Andrej Kramaric",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Croacia",
+            "partidos": 7,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "474'",
+            "goles": 2
+        },
+        {
+            "posicion": 20,
+            "jugador": "Aleksandar Mitrović",
+            "demarcacion": "Delantero centro",
+            "pais": "Serbia",
+            "partidos": 3,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "262'",
+            "goles": 2
+        },
+        {
+            "posicion": 21,
+            "jugador": "Salem Al-Dawsari",
+            "demarcacion": "Extremo izquierdo",
+            "pais": "Arabia Saudita",
+            "partidos": 3,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "270'",
+            "goles": 2
+        },
+        {
+            "posicion": 22,
+            "jugador": "Wout Weghorst",
+            "demarcacion": "Delantero centro",
+            "pais": "Países Bajos",
+            "partidos": 4,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "65'",
+            "goles": 2
+        },
+        {
+            "posicion": 23,
+            "jugador": "Breel Embolo",
+            "demarcacion": "Delantero centro",
+            "pais": "Suiza",
+            "partidos": 4,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "323'",
+            "goles": 2
+        },
+        {
+            "posicion": 24,
+            "jugador": "Giorgian de Arrascaeta",
+            "demarcacion": "Mediocentro ofensivo",
+            "pais": "Uruguay",
+            "partidos": 2,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "108'",
+            "goles": 2
+        },
+        {
+            "posicion": 25,
+            "jugador": "Kai Havertz",
+            "demarcacion": "Delantero centro",
+            "pais": "Alemania",
+            "partidos": 2,
+            "asistencias": 0,
+            "penaltis": 0,
+            "minutos": "102'",
+            "goles": 2
+        }
+    ],
+    "porteros": [
+        {
+            "posicion": 1,
+            "portero": "Jordan Pickford",
+            "pais": "Inglaterra",
+            "partidos": 5,
+            "imbatido": 3,
+            "goles_recibidos": 4,
+            "minutos": "450'",
+            "porcentaje_imbatibilidad": "60,0 %"
+        },
+        {
+            "posicion": 2,
+            "portero": "Yassine Bounou",
+            "pais": "Marruecos",
+            "partidos": 6,
+            "imbatido": 3,
+            "goles_recibidos": 5,
+            "minutos": "540'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 3,
+            "portero": "Emiliano Martínez",
+            "pais": "Argentina",
+            "partidos": 7,
+            "imbatido": 3,
+            "goles_recibidos": 13,
+            "minutos": "630'",
+            "porcentaje_imbatibilidad": "42,9 %"
+        },
+        {
+            "posicion": 4,
+            "portero": "Aymen Dahmen",
+            "pais": "Túnez",
+            "partidos": 3,
+            "imbatido": 2,
+            "goles_recibidos": 1,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "66,7 %"
+        },
+        {
+            "posicion": 5,
+            "portero": "Sergio Rochet",
+            "pais": "Uruguay",
+            "partidos": 3,
+            "imbatido": 2,
+            "goles_recibidos": 2,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "66,7 %"
+        },
+        {
+            "posicion": 6,
+            "portero": "Thibaut Courtois",
+            "pais": "Bélgica",
+            "partidos": 3,
+            "imbatido": 2,
+            "goles_recibidos": 2,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "66,7 %"
+        },
+        {
+            "posicion": 7,
+            "portero": "Unai Simón",
+            "pais": "España",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 3,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 8,
+            "portero": "Matt Turner",
+            "pais": "Estados Unidos",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 4,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 9,
+            "portero": "Wojciech Szczesny",
+            "pais": "Polonia",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 5,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 10,
+            "portero": "Mathew Ryan",
+            "pais": "Australia",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 6,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 11,
+            "portero": "Alisson",
+            "pais": "Brasil",
+            "partidos": 4,
+            "imbatido": 2,
+            "goles_recibidos": 6,
+            "minutos": "350'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 12,
+            "portero": "Andries Noppert",
+            "pais": "Países Bajos",
+            "partidos": 5,
+            "imbatido": 2,
+            "goles_recibidos": 8,
+            "minutos": "450'",
+            "porcentaje_imbatibilidad": "40,0 %"
+        },
+        {
+            "posicion": 13,
+            "portero": "Dominik Livakovic",
+            "pais": "Croacia",
+            "partidos": 7,
+            "imbatido": 2,
+            "goles_recibidos": 10,
+            "minutos": "630'",
+            "porcentaje_imbatibilidad": "28,6 %"
+        },
+        {
+            "posicion": 14,
+            "portero": "Weverton",
+            "pais": "Brasil",
+            "partidos": 1,
+            "imbatido": 1,
+            "goles_recibidos": 0,
+            "minutos": "10'",
+            "porcentaje_imbatibilidad": "100,0 %"
+        },
+        {
+            "posicion": 15,
+            "portero": "Munir El Kajoui",
+            "pais": "Marruecos",
+            "partidos": 1,
+            "imbatido": 1,
+            "goles_recibidos": 0,
+            "minutos": "90'",
+            "porcentaje_imbatibilidad": "100,0 %"
+        },
+        {
+            "posicion": 16,
+            "portero": "Alireza Beiranvand",
+            "pais": "Irán",
+            "partidos": 2,
+            "imbatido": 1,
+            "goles_recibidos": 1,
+            "minutos": "109'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 17,
+            "portero": "Wayne Hennessey",
+            "pais": "Gales",
+            "partidos": 2,
+            "imbatido": 1,
+            "goles_recibidos": 1,
+            "minutos": "176'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 18,
+            "portero": "Devis Epassy",
+            "pais": "Camerún",
+            "partidos": 2,
+            "imbatido": 1,
+            "goles_recibidos": 3,
+            "minutos": "180'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 19,
+            "portero": "Seyed Hossein Hosseini",
+            "pais": "Irán",
+            "partidos": 2,
+            "imbatido": 1,
+            "goles_recibidos": 6,
+            "minutos": "161'",
+            "porcentaje_imbatibilidad": "50,0 %"
+        },
+        {
+            "posicion": 20,
+            "portero": "Kasper Schmeichel",
+            "pais": "Dinamarca",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 3,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 21,
+            "portero": "Guillermo Ochoa",
+            "pais": "México",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 3,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 22,
+            "portero": "Hernán Galíndez",
+            "pais": "Ecuador",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 3,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 23,
+            "portero": "Yann Sommer",
+            "pais": "Suiza",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 7,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 24,
+            "portero": "Keylor Navas",
+            "pais": "Costa Rica",
+            "partidos": 3,
+            "imbatido": 1,
+            "goles_recibidos": 11,
+            "minutos": "270'",
+            "porcentaje_imbatibilidad": "33,3 %"
+        },
+        {
+            "posicion": 25,
+            "portero": "Seung-gyu Kim",
+            "pais": "Corea del Sur",
+            "partidos": 4,
+            "imbatido": 1,
+            "goles_recibidos": 8,
+            "minutos": "360'",
+            "porcentaje_imbatibilidad": "25,0 %"
+        }
+    ]
+}

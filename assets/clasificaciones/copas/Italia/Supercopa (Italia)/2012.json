@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 2012,
+    "temporada": "2012-13",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Napoli"
+    },
+    "partidos": [
+        {
+            "id_partido": 490325,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Napoli",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

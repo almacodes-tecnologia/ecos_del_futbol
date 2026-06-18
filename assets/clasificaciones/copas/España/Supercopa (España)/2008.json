@@ -1,0 +1,34 @@
+{
+    "pais": "España",
+    "copa": "Supercopa (España)",
+    "año_inicio": 2008,
+    "temporada": "2008-09",
+    "cuadro_honor": {
+        "campeon": "Real Madrid",
+        "subcampeon": "Valencia"
+    },
+    "partidos": [
+        {
+            "id_partido": 490220,
+            "ronda": "Final - Ida",
+            "local": "Valencia",
+            "visitante": "Real Madrid",
+            "goles_local": "3",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 490221,
+            "ronda": "Final - Vuelta",
+            "local": "Real Madrid",
+            "visitante": "Valencia",
+            "goles_local": "4",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

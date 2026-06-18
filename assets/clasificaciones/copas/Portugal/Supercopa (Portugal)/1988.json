@@ -1,0 +1,34 @@
+{
+    "pais": "Portugal",
+    "copa": "Supercopa (Portugal)",
+    "año_inicio": 1988,
+    "temporada": "1988-89",
+    "cuadro_honor": {
+        "campeon": "Vitória de Guimarães",
+        "subcampeon": "Porto"
+    },
+    "partidos": [
+        {
+            "id_partido": 720062,
+            "ronda": "Final - Ida",
+            "local": "Vitória de Guimarães",
+            "visitante": "Porto",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 720063,
+            "ronda": "Final - Vuelta",
+            "local": "Porto",
+            "visitante": "Vitória de Guimarães",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

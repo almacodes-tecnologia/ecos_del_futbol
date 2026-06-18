@@ -1,0 +1,23 @@
+{
+    "pais": "Francia",
+    "copa": "Supercopa (Francia)",
+    "año_inicio": 2005,
+    "temporada": "2005-06",
+    "cuadro_honor": {
+        "campeon": "Olympique Lyonnais",
+        "subcampeon": "Auxerre"
+    },
+    "partidos": [
+        {
+            "id_partido": 721023,
+            "ronda": "Final",
+            "local": "Auxerre",
+            "visitante": "Olympique Lyonnais",
+            "goles_local": "1",
+            "goles_visitante": "4",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

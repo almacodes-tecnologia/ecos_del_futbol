@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 2010,
+    "temporada": "2010-11",
+    "cuadro_honor": {
+        "campeon": "Atlético de Madrid",
+        "subcampeon": "Inter"
+    },
+    "partidos": [
+        {
+            "id_partido": 440498,
+            "ronda": "Final",
+            "local": "Atlético de Madrid",
+            "visitante": "Inter",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

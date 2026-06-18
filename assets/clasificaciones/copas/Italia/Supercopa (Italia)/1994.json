@@ -1,0 +1,23 @@
+{
+    "pais": "Italia",
+    "copa": "Supercopa (Italia)",
+    "año_inicio": 1994,
+    "temporada": "1994-95",
+    "cuadro_honor": {
+        "campeon": "Milan",
+        "subcampeon": "Sampdoria"
+    },
+    "partidos": [
+        {
+            "id_partido": 490307,
+            "ronda": "Final",
+            "local": "Milan",
+            "visitante": "Sampdoria",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": true,
+            "penaltis_local": 4,
+            "penaltis_visitante": 3
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pais": "Turquia",
+    "copa": "Süper Kupası (Turquia)",
+    "año_inicio": 2014,
+    "temporada": "2014-15",
+    "cuadro_honor": {
+        "campeon": "Fenerbahçe",
+        "subcampeon": "Galatasaray"
+    },
+    "partidos": [
+        {
+            "id_partido": 396706,
+            "ronda": "Final",
+            "local": "Fenerbahçe",
+            "visitante": "Galatasaray",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": true,
+            "penaltis_local": 3,
+            "penaltis_visitante": 2
+        }
+    ]
+}

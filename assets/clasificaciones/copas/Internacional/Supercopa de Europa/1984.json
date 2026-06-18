@@ -1,0 +1,23 @@
+{
+    "pais": "Internacional",
+    "copa": "Supercopa de Europa",
+    "año_inicio": 1984,
+    "temporada": "1984-85",
+    "cuadro_honor": {
+        "campeon": "Juventus",
+        "subcampeon": "Liverpool"
+    },
+    "partidos": [
+        {
+            "id_partido": 440521,
+            "ronda": "Final",
+            "local": "Juventus",
+            "visitante": "Liverpool",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}

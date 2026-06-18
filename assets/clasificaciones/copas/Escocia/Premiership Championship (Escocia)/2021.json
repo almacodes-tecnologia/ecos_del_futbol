@@ -1,0 +1,177 @@
+{
+    "pais": "Escocia",
+    "copa": "Premiership Championship (Escocia)",
+    "año_inicio": 2021,
+    "temporada": "2021-22",
+    "cuadro_honor": {
+        "campeon": "Dundee United",
+        "subcampeon": "Ross County"
+    },
+    "partidos": [
+        {
+            "id_partido": 355654,
+            "ronda": "Octavos de Final",
+            "local": "Motherwell",
+            "visitante": "Rangers",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355655,
+            "ronda": "Octavos de Final",
+            "local": "Ross County",
+            "visitante": "Celtic",
+            "goles_local": "0",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355656,
+            "ronda": "Cuartos de Final",
+            "local": "Dundee United",
+            "visitante": "Heart of Midlothian",
+            "goles_local": "2",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355660,
+            "ronda": "Cuartos de Final",
+            "local": "Dundee United",
+            "visitante": "Motherwell",
+            "goles_local": "1",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355661,
+            "ronda": "Cuartos de Final",
+            "local": "Heart of Midlothian",
+            "visitante": "Ross County",
+            "goles_local": "0",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355662,
+            "ronda": "Cuartos de Final",
+            "local": "Celtic",
+            "visitante": "Rangers",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355666,
+            "ronda": "Cuartos de Final",
+            "local": "Celtic",
+            "visitante": "Heart of Midlothian",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355667,
+            "ronda": "Cuartos de Final",
+            "local": "Ross County",
+            "visitante": "Motherwell",
+            "goles_local": "0",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355668,
+            "ronda": "Cuartos de Final",
+            "local": "Rangers",
+            "visitante": "Dundee United",
+            "goles_local": "2",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355672,
+            "ronda": "Cuartos de Final",
+            "local": "Dundee United",
+            "visitante": "Celtic",
+            "goles_local": "1",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355673,
+            "ronda": "Semifinal",
+            "local": "Motherwell",
+            "visitante": "Heart of Midlothian",
+            "goles_local": "2",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355674,
+            "ronda": "Semifinal",
+            "local": "Rangers",
+            "visitante": "Ross County",
+            "goles_local": "4",
+            "goles_visitante": "1",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355678,
+            "ronda": "Semifinal",
+            "local": "Celtic",
+            "visitante": "Motherwell",
+            "goles_local": "6",
+            "goles_visitante": "0",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355679,
+            "ronda": "Semifinal",
+            "local": "Heart of Midlothian",
+            "visitante": "Rangers",
+            "goles_local": "1",
+            "goles_visitante": "3",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        },
+        {
+            "id_partido": 355680,
+            "ronda": "Final",
+            "local": "Ross County",
+            "visitante": "Dundee United",
+            "goles_local": "1",
+            "goles_visitante": "2",
+            "hubo_penaltis": false,
+            "penaltis_local": null,
+            "penaltis_visitante": null
+        }
+    ]
+}
